@@ -1,0 +1,416 @@
+{
+  "id": "mock-exam-1",
+  "title": "Exam 1",
+  "description": "25 multiple choice + 6 written questions.",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate title for the passage.",
+      "context": "People often believe that experts make better decisions because they possess greater knowledge. Surprisingly, however, research suggests that additional knowledge may sometimes increase the likelihood of error. As individuals become more familiar with a subject, they often develop greater confidence in their judgments. While confidence itself is not harmful, it may discourage experts from questioning their own assumptions or considering alternative explanations. Beginners, by contrast, frequently recognise the limits of their understanding and therefore examine evidence more cautiously. Consequently, expertise improves performance only when it is accompanied by intellectual humility.",
+      "options": [
+        { "id": "1", "text": "Why Beginners Usually Outperform Experts" },
+        { "id": "2", "text": "The Relationship Between Intelligence and Confidence" },
+        { "id": "3", "text": "Why Expertise Alone Does Not Always Produce Better Decisions" },
+        { "id": "4", "text": "How Experience Eliminates Human Error" },
+        { "id": "5", "text": "The Importance of Acquiring Professional Qualifications" }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "Many historical inventions were not immediately recognised as valuable. New technologies often appear impractical because people evaluate them according to existing needs rather than future possibilities. Early automobiles, for example, were criticised for being slower than horses over short distances and for requiring expensive maintenance. As roads improved and supporting industries developed, however, the advantages of automobiles became increasingly apparent. This pattern suggests that the success of innovation depends not only on the quality of the invention itself but also on whether society has developed the conditions necessary for its widespread adoption.",
+      "options": [
+        { "id": "1", "text": "the environmental effects of industrialisation" },
+        { "id": "2", "text": "the reasons technological innovation is sometimes underestimated" },
+        { "id": "3", "text": "methods of improving transportation systems" },
+        { "id": "4", "text": "the history of horse breeding" },
+        { "id": "5", "text": "the economic causes of population growth" }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "text": "Which statement is supported by the passage?",
+      "context": "Many historical inventions were not immediately recognised as valuable. New technologies often appear impractical because people evaluate them according to existing needs rather than future possibilities. Early automobiles, for example, were criticised for being slower than horses over short distances and for requiring expensive maintenance. As roads improved and supporting industries developed, however, the advantages of automobiles became increasingly apparent. This pattern suggests that the success of innovation depends not only on the quality of the invention itself but also on whether society has developed the conditions necessary for its widespread adoption.",
+      "options": [
+        { "id": "1", "text": "Successful inventions are immediately accepted by society." },
+        { "id": "2", "text": "Technological progress depends entirely on scientific ability." },
+        { "id": "3", "text": "New inventions may require favourable social conditions before their value becomes clear." },
+        { "id": "4", "text": "Early automobiles failed because they were unsafe." },
+        { "id": "5", "text": "Society rarely changes after new technology appears." }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "text": "Choose the main idea of the passage.",
+      "context": "People often assume that making decisions quickly reflects confidence and competence. However, studies in cognitive psychology suggest that individuals who pause to evaluate alternative explanations frequently reach more accurate conclusions. This does not mean that every decision should be delayed indefinitely. Rather, effective decision-makers recognise when a problem is sufficiently complex to justify careful analysis instead of relying on their first impression. In many situations, the willingness to reconsider an initial judgment distinguishes expertise from overconfidence.",
+      "options": [
+        { "id": "1", "text": "Quick decisions usually produce the most accurate results." },
+        { "id": "2", "text": "Experts rarely make incorrect first impressions." },
+        { "id": "3", "text": "Careful reconsideration often leads to better decisions." },
+        { "id": "4", "text": "Delaying decisions always improves their quality." },
+        { "id": "5", "text": "Confidence is more valuable than accuracy." }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "text": "How many of the following statements are NOT consistent with the passage?",
+      "context": "A student preparing for a difficult examination noticed that she could remember information easily while reading her notes but struggled to recall the same material during practice tests. Instead of rereading the textbook repeatedly, she began testing herself without looking at the answers. Although this method felt more difficult, her long-term memory gradually improved because actively retrieving information strengthened her understanding more effectively than passive review.\n\nStatements\n\n(a) The student found practice tests easier than rereading her notes.\n(b) She changed her study method after recognising a problem.\n(c) Self-testing initially seemed more demanding than rereading.\n(d) Active retrieval improved her long-term memory.\n(e) She continued relying mainly on passive review.\n(f) Feeling that studying is difficult does not necessarily mean learning is ineffective.",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "text": "How many of the following vocabulary pairs are correctly matched?",
+      "context": "(a) ambiguous — open to more than one interpretation\n(b) substantial — insignificant\n(c) mitigate — make less severe\n(d) coherent — logical and well organised\n(e) explicit — clearly expressed\n(f) arbitrary — based on chance or personal preference rather than reason\n(g) inevitable — impossible to avoid\n(h) eliminate — preserve\n(i) preliminary — occurring before something more important\n(j) distort — represent accurately",
+      "options": [
+        { "id": "1", "text": "5" },
+        { "id": "2", "text": "6" },
+        { "id": "3", "text": "7" },
+        { "id": "4", "text": "8" },
+        { "id": "5", "text": "9" }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "text": "Which statement does NOT agree with the two explanations given in the passage?",
+      "context": "Researchers have proposed two explanations for why some languages spread more widely than others. One argues that political and economic influence allows a language to become dominant because people adopt it for practical reasons such as trade, education, or employment. The other suggests that certain linguistic features, including grammatical simplicity or adaptability, make some languages easier for non-native speakers to learn. Although these explanations differ, both attempt to explain the same historical pattern.",
+      "options": [
+        { "id": "1", "text": "Political influence may encourage language adoption." },
+        { "id": "2", "text": "Practical benefits can affect which language people choose to learn." },
+        { "id": "3", "text": "Linguistic characteristics may influence how easily a language spreads." },
+        { "id": "4", "text": "A language becomes internationally dominant only because its grammar is simple." },
+        { "id": "5", "text": "The two explanations focus on different causes of the same phenomenon." }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "text": "Which underlined word is used incorrectly?",
+      "options": [
+        { "id": "1", "text": "The scientist carefully _formulated_ a hypothesis before beginning the experiment." },
+        { "id": "2", "text": "The committee reached a _consensus_ after several hours of discussion." },
+        { "id": "3", "text": "The new evidence _reinforced_ the original conclusion." },
+        { "id": "4", "text": "The architect designed the bridge to remain _fragile_ during strong winds." },
+        { "id": "5", "text": "Historians continue to _interpret_ newly discovered documents." }
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "text": "Which meaning best matches the underlined expression?",
+      "context": "People vary considerably in their tolerance for ambiguity. Some individuals become uncomfortable when information is incomplete or when several explanations appear equally plausible. Others are willing to postpone judgment until additional evidence becomes available. Researchers have found that this difference influences not only scientific reasoning but also everyday decision-making, including financial planning and medical choices.",
+      "options": [
+        { "id": "1", "text": "the ability to ignore conflicting opinions" },
+        { "id": "2", "text": "the willingness to accept uncertainty without requiring immediate answers" },
+        { "id": "3", "text": "the tendency to avoid making important decisions" },
+        { "id": "4", "text": "the ability to predict future events accurately" },
+        { "id": "5", "text": "the preference for solving simple problems only" }
+      ]
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT appropriate in context?",
+      "context": "Scientific theories must always remain open to revision when convincing evidence becomes available. Researchers therefore examine unexpected findings carefully instead of dismissing them simply because they conflict with established beliefs. Genuine scientific progress depends on remaining ① objective, questioning existing assumptions, and evaluating evidence with intellectual honesty. Ignoring contradictory observations in order to protect a popular theory would be ② reasonable rather than scientific. Consequently, successful researchers combine curiosity with ③ critical thinking, ④ systematic investigation, and ⑤ careful analysis.",
+      "options": [
+        { "id": "1", "text": "objective" },
+        { "id": "2", "text": "reasonable" },
+        { "id": "3", "text": "critical" },
+        { "id": "4", "text": "systematic" },
+        { "id": "5", "text": "careful" }
+      ]
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "text": "Choose the word that best completes the blank.",
+      "context": "Although intelligence contributes to academic success, psychologists increasingly argue that persistence plays an equally important role. Students who continue working despite repeated setbacks often achieve better long-term results than equally talented classmates who give up easily. For this reason, educators frequently regard perseverance as a more ________ predictor of future success than natural ability alone.",
+      "options": [
+        { "id": "1", "text": "reluctant" },
+        { "id": "2", "text": "reliable" },
+        { "id": "3", "text": "temporary" },
+        { "id": "4", "text": "superficial" },
+        { "id": "5", "text": "accidental" }
+      ]
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "text": "Which sentence best fits the blank?",
+      "context": "Many people believe that expert performers rarely make mistakes. Detailed observations, however, suggest the opposite. Elite athletes, musicians, and surgeons often analyse their own errors more carefully than beginners do. Rather than ignoring weaknesses, they deliberately identify them and design future practice to address those specific problems. ______\n\nAs a result, their improvement continues long after many other learners have reached a plateau.",
+      "options": [
+        { "id": "1", "text": "Therefore, mistakes often become valuable sources of information for continued improvement." },
+        { "id": "2", "text": "Consequently, experts almost never perform poorly." },
+        { "id": "3", "text": "For this reason, talented people no longer need regular practice." },
+        { "id": "4", "text": "Nevertheless, successful people rarely evaluate their own performance." },
+        { "id": "5", "text": "In contrast, ability develops independently of experience." }
+      ]
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate order of the following sentences.",
+      "context": "(A) Further investigation revealed that a previously unnoticed environmental factor had influenced the results.\n\n(B) Instead of rejecting the unexpected findings, the research team decided to examine every stage of the experiment.\n\n(C) During the final analysis, scientists discovered that one group had produced results inconsistent with their original prediction.",
+      "options": [
+        { "id": "1", "text": "(C) → (B) → (A)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(C) → (A) → (B)" },
+        { "id": "5", "text": "(B) → (C) → (A)" }
+      ]
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "text": "Choose the sentence that does NOT belong.",
+      "context": "Successful organisations encourage employees to exchange constructive feedback regularly.",
+      "options": [
+        { "id": "1", "text": "Honest feedback helps identify problems before they become serious." },
+        { "id": "2", "text": "Employees often improve when they receive specific suggestions." },
+        { "id": "3", "text": "Open communication increases cooperation within teams." },
+        { "id": "4", "text": "Ancient civilizations developed different systems of writing for administrative purposes." },
+        { "id": "5", "text": "Continuous feedback supports long-term professional development." }
+      ]
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate word for the blank.",
+      "context": "When people work together on complex problems, disagreement is often unavoidable. Teams that encourage respectful discussion are generally better at identifying weaknesses in their ideas than teams in which everyone simply agrees with one another. Constructive disagreement therefore strengthens ________ rather than weakening it.",
+      "options": [
+        { "id": "1", "text": "cooperation" },
+        { "id": "2", "text": "isolation" },
+        { "id": "3", "text": "prejudice" },
+        { "id": "4", "text": "confusion" },
+        { "id": "5", "text": "hesitation" }
+      ]
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "text": "Which statement is supported by the passage?",
+      "context": "Several cities have introduced large urban forests by planting thousands of trees throughout residential neighbourhoods. Besides improving air quality, these projects reduce summer temperatures by providing shade and decreasing the amount of heat absorbed by concrete surfaces. Researchers have also found that access to green spaces is associated with improved mental well-being and increased physical activity among local residents. Although urban forests cannot solve every environmental problem, they provide a wide range of benefits for modern cities.",
+      "options": [
+        { "id": "1", "text": "Urban forests completely eliminate air pollution." },
+        { "id": "2", "text": "Green spaces may improve both environmental conditions and public health." },
+        { "id": "3", "text": "Tree-planting programmes reduce the need for public transport." },
+        { "id": "4", "text": "Mental health is unrelated to the availability of green spaces." },
+        { "id": "5", "text": "Urban forests are effective only in rural areas." }
+      ]
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate title for the passage.",
+      "context": "Many people assume that motivation is the primary factor determining whether goals are achieved. However, behavioural researchers have found that the environment often exerts a stronger influence than motivation itself. Individuals are far more likely to exercise when equipment is easily accessible, save money when the process is automatic, and eat healthier food when nutritious options are conveniently available. Rather than relying solely on willpower, successful people frequently arrange their surroundings so that desirable behaviours become easier and undesirable ones become more difficult.",
+      "options": [
+        { "id": "1", "text": "Why Motivation Is More Important Than Habit" },
+        { "id": "2", "text": "How Environmental Design Influences Behaviour" },
+        { "id": "3", "text": "Why Successful People Have Greater Self-Control" },
+        { "id": "4", "text": "The Relationship Between Exercise and Health" },
+        { "id": "5", "text": "How Determination Eliminates Bad Habits" }
+      ]
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "text": "Choose the word that best completes the blank.",
+      "context": "Although the engineer recognised several minor weaknesses in the original design, she decided they should be corrected immediately because even small structural problems can become serious if they are __________.",
+      "options": [
+        { "id": "1", "text": "overlooked" },
+        { "id": "2", "text": "appreciated" },
+        { "id": "3", "text": "rewarded" },
+        { "id": "4", "text": "simplified" },
+        { "id": "5", "text": "encouraged" }
+      ]
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "text": "Which sentence best summarizes the passage?",
+      "context": "Modern ecosystems consist of countless interactions among organisms, climate, and physical environments. Altering one component often produces consequences that extend far beyond the original change. Introducing a new species, for instance, may affect predators, prey, vegetation, and even soil conditions over many years. Because these relationships are highly interconnected, environmental management requires careful consideration of the entire system rather than isolated parts.",
+      "options": [
+        { "id": "1", "text": "Ecosystems change only when the climate changes." },
+        { "id": "2", "text": "Environmental systems are interconnected, so individual changes may have widespread consequences." },
+        { "id": "3", "text": "Every species affects the environment equally." },
+        { "id": "4", "text": "Scientists can accurately predict every ecological outcome." },
+        { "id": "5", "text": "Environmental protection depends mainly on protecting predators." }
+      ]
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "text": "Choose the word that best completes the passage.",
+      "context": "Students frequently believe that intelligence alone determines academic achievement. Educational psychologists, however, argue that learning improves most when students actively examine their mistakes and modify their study strategies. Simply repeating incorrect methods rarely produces better results. Instead, meaningful progress occurs when learners ________ their own thinking.",
+      "options": [
+        { "id": "1", "text": "conceal" },
+        { "id": "2", "text": "analyse" },
+        { "id": "3", "text": "ignore" },
+        { "id": "4", "text": "postpone" },
+        { "id": "5", "text": "repeat" }
+      ]
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate sentence to fill the blank.",
+      "context": "Researchers studying exceptional performers discovered that improvement rarely comes from practising familiar skills repeatedly. Instead, experts deliberately focus on tasks they cannot yet perform well, receive immediate feedback, and gradually increase the level of difficulty. Although this method is mentally exhausting, it consistently produces greater long-term improvement. ______",
+      "options": [
+        { "id": "1", "text": "Effective practice concentrates on weaknesses rather than existing strengths." },
+        { "id": "2", "text": "Experts succeed because they rarely make mistakes." },
+        { "id": "3", "text": "Repeating comfortable tasks always produces mastery." },
+        { "id": "4", "text": "Talent completely determines future performance." },
+        { "id": "5", "text": "Difficult practice reduces learning efficiency." }
+      ]
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate order of the following paragraphs.",
+      "context": "(A) After collecting additional evidence, the researchers concluded that their original explanation was incomplete.\n\n(B) Scientists first proposed a simple explanation for an unexpected observation.\n\n(C) They then developed a revised theory capable of explaining both the previous findings and the newly collected evidence.",
+      "options": [
+        { "id": "1", "text": "(B) → (A) → (C)" },
+        { "id": "2", "text": "(A) → (B) → (C)" },
+        { "id": "3", "text": "(C) → (B) → (A)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(A) → (C) → (B)" }
+      ]
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "text": "Which statement is NOT supported by the passage?",
+      "context": "Communities with high levels of trust often recover more quickly from natural disasters than communities where residents have little social interaction. Researchers suggest that neighbours who already know one another are more likely to share information, organise assistance, and cooperate during emergencies. As a result, investments in community relationships may strengthen resilience long before disasters occur.",
+      "options": [
+        { "id": "1", "text": "Strong community relationships may improve emergency responses." },
+        { "id": "2", "text": "Trust can encourage cooperation during difficult situations." },
+        { "id": "3", "text": "Neighbours who know one another are more likely to help each other." },
+        { "id": "4", "text": "Community relationships become important only after disasters occur." },
+        { "id": "5", "text": "Social connections may increase resilience." }
+      ]
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "text": "Choose the word that best completes the passage.",
+      "context": "Rapid technological change means that employees must continue learning throughout their professional lives. Although specialised knowledge remains valuable, employers increasingly seek individuals who can adapt to unfamiliar situations, solve new problems, and acquire additional skills. Lifelong learning has therefore become a practical ________ rather than an optional advantage.",
+      "options": [
+        { "id": "1", "text": "coincidence" },
+        { "id": "2", "text": "obstacle" },
+        { "id": "3", "text": "requirement" },
+        { "id": "4", "text": "distraction" },
+        { "id": "5", "text": "luxury" }
+      ]
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate title for the passage.",
+      "context": "Many successful organisations regularly analyse unsuccessful projects instead of hiding them. Managers recognise that mistakes often reveal weaknesses in planning, communication, or decision-making that would otherwise remain unnoticed. By encouraging honest discussion of failure, organisations reduce the likelihood of repeating the same errors and gradually improve future performance. In this way, failure becomes an important source of information rather than merely evidence of poor performance.",
+      "options": [
+        { "id": "1", "text": "Learning from Failure to Improve Future Performance" },
+        { "id": "2", "text": "Why Successful Companies Never Take Risks" },
+        { "id": "3", "text": "Technology as the Solution to Human Error" },
+        { "id": "4", "text": "Why Competition Causes Organisational Failure" },
+        { "id": "5", "text": "The Importance of Recruiting Experienced Employees" }
+      ]
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "fill_blank",
+      "text": "Complete the summary using the words from the box.",
+      "context": "Word Box: adapt · evidence · confidence · assumptions · expertise\n\nPeople often believe that (A) __________ guarantees accurate decision-making. However, excessive (B) __________ may prevent experts from questioning their own (C) __________. As a result, successful experts evaluate new (D) __________ carefully and remain willing to (E) __________ their opinions when necessary."
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "text": "Choose the word that is closest in meaning to the underlined word.",
+      "context": "The committee decided to allocate additional funding to the environmental project.",
+      "options": [
+        { "id": "1", "text": "remove" },
+        { "id": "2", "text": "distribute" },
+        { "id": "3", "text": "ignore" },
+        { "id": "4", "text": "postpone" },
+        { "id": "5", "text": "examine" }
+      ]
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "written",
+      "text": "Arrange the following words and phrases into one grammatically correct sentence.",
+      "context": "Arrange all of the following words and phrases into one complete sentence. You may not change the form of any word.\n\n(the more / researchers / evidence / collect / before / reaching / a conclusion / the more / their findings / become / reliable)",
+      "placeholder": "Write the complete sentence here..."
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "text": "Choose the grammatically correct sentence.",
+      "options": [
+        { "id": "1", "text": "Hardly had the meeting begun when the electricity failed." },
+        { "id": "2", "text": "Hardly the meeting had begun when the electricity failed." },
+        { "id": "3", "text": "Hardly had begun the meeting when the electricity failed." },
+        { "id": "4", "text": "Hardly had the meeting begun than the electricity failed." },
+        { "id": "5", "text": "Hardly the meeting began when the electricity failed." }
+      ]
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "written_multi",
+      "text": "Complete both tasks below.",
+      "context": "Task 4.1 — Rewrite the sentence using the word given. Word: despite\n\n\"Although the researchers faced several unexpected difficulties, they completed the experiment successfully.\"\n\nTask 4.2 — Arrange the following words and phrases into one grammatically correct sentence. You may not change the form of any word.\n\n(only after / had / carefully / the committee / reviewed / all the evidence / did / it / reach / a final decision)",
+      "subQuestions": [
+        { "label": "4.1", "placeholder": "Rewrite the sentence using 'despite'..." },
+        { "label": "4.2", "placeholder": "Write the arranged sentence..." }
+      ]
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "written",
+      "text": "Write 2–3 English sentences answering the following question.\n\nMany passages in this exam suggest that mistakes and unexpected results can improve learning. Do you agree?\n\nSupport your answer using one idea from the passages and one example from your own experience.",
+      "placeholder": "Write your answer here (2–3 sentences)..."
+    }
+  ]
+}
