@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.claude
+.idea
+
+# exam source files
+examenes/
+data/exam-template.json
+
+# common binary/generated
+*.pdf
+*.docx
+*.xlsx
+
