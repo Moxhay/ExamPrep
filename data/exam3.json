@@ -1,0 +1,435 @@
+{
+  "id": "mock-exam-3",
+  "title": "Mock Exam 3",
+  "description": "25 multiple choice + 5 written · 50 min",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "text": "What is the main point of the passage?",
+      "context": "For decades, sleep was treated as an empty gap in the day — time the body simply had to spend somewhere. Recent work has overturned that view. During deep sleep the brain replays the electrical patterns produced while we were awake, strengthening the connections that carry newly learned material and weakening the ones that carry noise. Students who learn a list of words and then sleep recall far more of it than students who learn the same list and stay awake for an equal number of hours. The effect is not simply the absence of interference; measurements show active reorganization taking place. Sleep, in short, is not the interruption of learning. It is one of its stages.",
+      "options": [
+        { "id": "1", "text": "Students remember more when they study late at night rather than early." },
+        { "id": "2", "text": "Sleep is a period of active processing in which learning is consolidated." },
+        { "id": "3", "text": "The brain cannot distinguish useful memories from useless ones." },
+        { "id": "4", "text": "Interference from daily activity is the only cause of forgetting." },
+        { "id": "5", "text": "Deep sleep is more restorative for the body than for the mind." }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "text": "Which of the following does NOT agree with the passage?",
+      "context": "The word \"weed\" has no botanical meaning. No plant is born a weed; a plant becomes one the moment it grows where a human being would rather it did not. Dandelions were carried across the Atlantic on purpose, planted in gardens as a valued source of food and medicine, and only later demoted. Something similar happened to the ox-eye daisy, welcomed in one century and pulled up in the next. What changed was not the plant but the purpose of the ground it stood on. This is why lists of weeds differ so sharply from country to country and even from farm to farm. To call something a weed is to make a statement about human intention, not about biology.",
+      "options": [
+        { "id": "1", "text": "The term \"weed\" does not correspond to any scientific category of plant." },
+        { "id": "2", "text": "Dandelions arrived in America by accident and were treated as pests from the start." },
+        { "id": "3", "text": "The ox-eye daisy was regarded differently in different periods." },
+        { "id": "4", "text": "What determines whether a plant counts as a weed is the use of the land." },
+        { "id": "5", "text": "Lists of weeds vary considerably from one place to another." }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "Roughly a third of the food produced for human consumption is never eaten, and most discussions of the problem stop at the household refrigerator. Yet the losses that occur before food reaches a shop are far larger in many regions, and they are largely invisible to consumers. Crops are left in the field because prices fall below the cost of harvesting; produce is rejected for being the wrong shape; refrigerated transport fails in hot climates. Each of these losses carries with it the water, fuel, and labour already invested in growing the food. Campaigns that focus only on the behaviour of shoppers therefore address the narrowest part of a much wider system, and they leave untouched the stages where a modest improvement would save the most.",
+      "options": [
+        { "id": "1", "text": "the environmental cost of importing food from distant countries" },
+        { "id": "2", "text": "why consumers underestimate the nutritional value of imperfect produce" },
+        { "id": "3", "text": "the need to address food loss at supply stages, not only in households" },
+        { "id": "4", "text": "the difficulty of storing perishable goods in tropical climates" },
+        { "id": "5", "text": "how falling crop prices threaten the income of small farmers" }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate title for the passage.",
+      "context": "A songbird weighing less than a bar of soap can leave Alaska in autumn and arrive in New Zealand without stopping. How it knows the way is still only partly understood. Some species appear to read the pattern of polarized light at sunset; others carry a magnetic sense that seems to depend on a chemical reaction in the eye, so that the bird may in some sense see the field it is following. Young birds flying alone often reach the correct destination on their first attempt, which rules out simple imitation. Yet these inherited instructions are rigid. When a coastline is built over or a wetland drained, birds using an ancient map keep arriving at a place that no longer exists.",
+      "options": [
+        { "id": "1", "text": "A Chemical Reaction That Replaced the Compass" },
+        { "id": "2", "text": "Why Young Birds Refuse to Follow Their Parents" },
+        { "id": "3", "text": "Inherited Maps: How Birds Navigate — and Where It Fails Them" },
+        { "id": "4", "text": "The Longest Journey: Measuring the Limits of Bird Endurance" },
+        { "id": "5", "text": "Polarized Light: The Only Reliable Signal in Nature" }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate title for the passage.",
+      "context": "A drug that has no active ingredient can still relieve pain, and the size of the effect depends on things that ought to be irrelevant. Larger tablets work better than smaller ones. Two tablets work better than one. An injection outperforms a pill, and a pill with a brand name printed on it outperforms an identical unmarked pill. None of this means the relief is imaginary; brain scans show genuine changes in the regions that process pain. What the tablet supplies is not a chemical but an expectation, and expectation is itself a physiological event. Doctors have long known that how a treatment is delivered can matter almost as much as what is delivered.",
+      "options": [
+        { "id": "1", "text": "The Danger of Prescribing Medicines Without Active Ingredients" },
+        { "id": "2", "text": "Expectation as Medicine: Why the Package Changes the Cure" },
+        { "id": "3", "text": "Brain Scans: A New Method for Measuring Physical Pain" },
+        { "id": "4", "text": "Why Patients Prefer Injections to Tablets" },
+        { "id": "5", "text": "Imaginary Relief: The Myth of the Placebo Response" }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "text": "What does the underlined sentence mean in the passage?",
+      "context": "Before accurate clocks, a town's time belonged to the town. Noon was the moment the sun stood highest over that particular place, so a traveller moving east or west adjusted his watch by a few minutes with every stage of the journey. The railways ended this. A timetable cannot be written for a hundred local noons, and so a single time was chosen, sent along the telegraph wires, and imposed on every station down the line. People objected; some towns kept two clocks on the town hall for years, one showing railway time and one showing their own. They lost. _The clock on the wall stopped describing the sky and began describing the network._",
+      "options": [
+        { "id": "1", "text": "Mechanical clocks became more accurate than astronomical observation." },
+        { "id": "2", "text": "Time ceased to be measured by local solar position and came to reflect the demands of a shared system." },
+        { "id": "3", "text": "Railway companies deliberately concealed the correct time from passengers." },
+        { "id": "4", "text": "Astronomers abandoned the study of the sun once telegraphs were invented." },
+        { "id": "5", "text": "Towns that kept two clocks were more efficient than those that kept one." }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "text": "How many of the following statements are NOT consistent with the passage?",
+      "context": "The environment we build around ourselves does much of our deciding for us. Researchers who study behaviour change have found that the friction between a person and an action — the number of seconds, steps, and decisions standing in the way — predicts behaviour better than stated motivation does. Placing a bowl of fruit on the counter and the biscuits in a high cupboard changes what a household eats, even among people who report identical preferences. The same logic works in reverse: leaving a guitar on its stand rather than in its case measurably increases the hours spent playing it. Motivation is not useless, but it is expensive and unreliable, whereas a rearranged room costs nothing after the first afternoon.\n\nStatements\n\n(a) Stated motivation predicts behaviour more accurately than friction does.\n(b) The time and effort required to begin an action influences whether it is performed.\n(c) Households with the same reported preferences may eat differently depending on arrangement.\n(d) Keeping an instrument out of sight has been shown to increase practice time.\n(e) Rearranging one's surroundings requires little ongoing effort once it is done.\n(f) The researchers concluded that motivation plays no role whatsoever in behaviour.",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "text": "How many of the underlined parts are grammatically INCORRECT?",
+      "context": "Institutions are increasingly ranked, and the rankings are increasingly trusted. ① _This demand for comparable scores produce a bias toward whatever can be counted quickly and cheaply._ But ② _simple rankings can carry us further away from the qualities we actually value, which may require complicated judgements or resist measurement altogether._ And ③ _when our indicators are crude, we may fall under the illusion which we are solving a problem when we are only recording one._ ④ _The pressure of published tables makes institutions to replace what is meaningful with what is countable._ ⑤ _It is worth remembering that a number is a description of a thing, not the thing itself._",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "text": "Which underlined part is grammatically incorrect?",
+      "context": "Researchers who study expertise have found ① _that what separates elite performers from competent ones is_ rarely raw ability. ② _Practising for many hours without feedback rarely produce improvement_; the hours simply pass. The practice that matters is uncomfortable, ③ _designed to expose weaknesses_ rather than to confirm strengths. It is slow, it is unpleasant, and almost nobody chooses it voluntarily. ④ _Highly accomplished musicians_ describe their best sessions as the ones they least enjoyed. Talent may open the door, but it is the willingness to work at the edge of failure ⑤ _that keeps people moving through it_.",
+      "options": [
+        { "id": "1", "text": "that what separates elite performers from competent ones is" },
+        { "id": "2", "text": "Practising for many hours without feedback rarely produce improvement" },
+        { "id": "3", "text": "designed to expose weaknesses" },
+        { "id": "4", "text": "Highly accomplished musicians" },
+        { "id": "5", "text": "that keeps people moving through it" }
+      ]
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "text": "How many of the underlined words are NOT appropriate in context?",
+      "context": "Street trees do a surprising amount of municipal work. A mature canopy can ① _lower_ the surface temperature of a road by more than ten degrees on a summer afternoon, so a city without trees must rely more heavily on machinery and therefore becomes more ② _vulnerable_ to power failure during heat waves. Trees planted into narrow pits of compacted soil, however, often ③ _fail_ within a decade, because roots cannot find water or air. Generous root space ④ _prevents_ healthy growth and long life, which is why engineers now design continuous soil trenches beneath pavements. Where such planning is absent, a young tree ⑤ _deprives_ the street of the very cooling it was installed to provide.",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "text": "Which word is NOT appropriate in context?",
+      "context": "Many people believe that handling several tasks at once makes them more ① _productive_. The evidence points the other way. Every switch between tasks ② _costs_ time, because the mind must reload the context it has just put down, and the cost is paid again on the way back. Because our devices are designed to interrupt, attention has become a ③ _renewable_ resource, spent in fragments and rarely recovered. Those who work best are not those who resist every notification by willpower but those who ④ _sustain_ long, protected stretches of quiet. The enemy of good work is not effort; it is ⑤ _distraction_.",
+      "options": [
+        { "id": "1", "text": "productive" },
+        { "id": "2", "text": "costs" },
+        { "id": "3", "text": "renewable" },
+        { "id": "4", "text": "sustain" },
+        { "id": "5", "text": "distraction" }
+      ]
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "text": "Which underlined word is used incorrectly?",
+      "options": [
+        { "id": "1", "text": "The old footbridge _collapsed_ after decades of neglect." },
+        { "id": "2", "text": "The witness _fabricated_ the entire story in order to protect his friend." },
+        { "id": "3", "text": "Heavy rain _hindered_ the rescue operation for two days." },
+        { "id": "4", "text": "She donated her savings to a charity that _alleviates_ rural poverty." },
+        { "id": "5", "text": "The scientist _confessed_ her latest findings at last year's conference." }
+      ]
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "text": "Which of the following questions CANNOT be answered from the passage?",
+      "context": "Artificial light at night is now recognised as a form of pollution, and moths illustrate why. Most night-flying insects steer by keeping a distant light source at a constant angle — a method that works when the source is the moon and fails when it is a lamp only a few metres away. Instead of flying straight, the insect spirals inward until it is circling the bulb, where it will remain until it is exhausted or eaten. A single lit car park can therefore drain the moths from the surrounding fields. Because moths pollinate a wide range of night-opening plants and feed a great many bats and birds, their disappearance is felt well beyond the insects themselves. Studies in Germany have recorded steep declines in flying insect biomass in areas where lighting has expanded.",
+      "options": [
+        { "id": "1", "text": "Why does steering by a distant light fail when the light is nearby?" },
+        { "id": "2", "text": "What happens to a moth once it begins circling a lamp?" },
+        { "id": "3", "text": "Which other organisms are affected when moth numbers fall?" },
+        { "id": "4", "text": "In which country have declines in insect biomass been recorded?" },
+        { "id": "5", "text": "How many species of moth have become extinct because of street lighting?" }
+      ]
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "text": "Which sentence best fits the blank?",
+      "context": "When we picture an inventor, we picture a solitary figure and a sudden flash. The historical record is less romantic. The telephone, the light bulb, and the aeroplane were each arrived at by several people within a few years of one another, working separately and often in ignorance of each other's progress. This pattern is so common that historians have a name for it: simultaneous invention. What it suggests is that an invention becomes possible when the materials, the knowledge, and the need are all in place, and that whoever reaches it first is standing on a great deal of borrowed ground. Thus we ought to ______",
+      "options": [
+        { "id": "1", "text": "credit sudden inspiration as the true origin of technological change" },
+        { "id": "2", "text": "understand invention as the outcome of accumulated conditions rather than isolated genius" },
+        { "id": "3", "text": "recognise that patents should be abolished in favour of open competition" },
+        { "id": "4", "text": "study the personal biographies of inventors more closely than their contexts" },
+        { "id": "5", "text": "accept that most inventions are discovered by accident rather than by effort" }
+      ]
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "text": "Which phrase best fits the blank?",
+      "context": "The most common complaint teachers report about group projects is that students feel ______\n\nIt is easy to sympathise; adults describe the same thing about meetings. When responsibility is shared but not divided, each member privately assumes that someone else is attending to the difficult part, and the difficult part goes undone until the night before. Here is how it usually unfolds: four students agree to \"work on it together,\" nobody is assigned a section, and two of them eventually rewrite the whole thing in a panic while the other two are told there is nothing left to do. The resentment that follows is rarely about laziness. It is about a structure that never made anyone's job clear.",
+      "options": [
+        { "id": "1", "text": "unable to identify what exactly they are responsible for" },
+        { "id": "2", "text": "that their teachers are unwilling to give them enough time" },
+        { "id": "3", "text": "that working alone is always more efficient than working in pairs" },
+        { "id": "4", "text": "pressured to compete with classmates for a higher grade" },
+        { "id": "5", "text": "that group projects should be replaced by written examinations" }
+      ]
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "text": "Which phrase best fits the blank?",
+      "context": "If you had wanted to translate a document in the 1960s, your best option would have been a machine that swapped one word for another out of a dictionary. The output was readable in the sense that the letters were in the right alphabet, and useless in every other sense, because meaning does not survive word-by-word substitution. Obviously not ideal. But did that failure mean the ambition itself was worthless? No. It meant only that the tools of the time could not represent the thing that mattered — context. Something similar is happening now in medicine. Twenty years ago, diagnosis relied almost entirely on what a patient could remember to report during a ten-minute appointment. Today, we are approaching the point where ______\n\nContinuous monitoring already allows a physician to see the weeks between visits rather than guess at them.",
+      "options": [
+        { "id": "1", "text": "doctors no longer need to speak with their patients at all" },
+        { "id": "2", "text": "machines are able to substitute one symptom for another automatically" },
+        { "id": "3", "text": "the information available about a patient is continuous rather than remembered" },
+        { "id": "4", "text": "patients are more reluctant than before to describe their symptoms honestly" },
+        { "id": "5", "text": "medical technology has advanced faster than any other scientific field" }
+      ]
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "text": "Which phrase best fits the blank?",
+      "context": "Consider what happens when a word is borrowed. English took kindergarten from German and tsunami from Japanese, but in doing so it did not take the whole of either word. The German term still carries a philosophy of childhood that English speakers never imported; the Japanese term belongs to a vocabulary of coastal life that has no English equivalent. What crosses the border is a sound and a narrow slice of meaning, and once across, it begins to drift, acquiring associations from its new neighbours and losing those it left behind. Speakers of the two languages can use what looks like the same word and mean measurably different things by it. The point is that __________",
+      "options": [
+        { "id": "1", "text": "borrowed words preserve their original meaning more faithfully than native ones" },
+        { "id": "2", "text": "a word transferred between languages carries only part of its meaning and changes afterwards" },
+        { "id": "3", "text": "languages that borrow heavily eventually lose their own vocabulary" },
+        { "id": "4", "text": "translation between any two languages is ultimately impossible" },
+        { "id": "5", "text": "the sound of a word matters more to speakers than its meaning" }
+      ]
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "text": "How many of the dictionary definitions below correspond to words that do NOT appear in the passage? (Number, tense and voice may differ from the definition.)",
+      "context": "Boredom is usually dismissed as a trivial state, but researchers argue that it serves an important function. When our surroundings offer no meaningful stimulus, we experience a restless discomfort that pushes us to seek alternatives, and that impulse can be constructive: people who tolerate boredom perform better on subsequent tests of original thinking. Boredom, in other words, signals a mismatch between our capacities and our circumstances. Some psychologists therefore treat it as an internal alarm rather than a defect. Chronic boredom, however, is associated with impulsive behaviour, since the quickest escape from it is seldom the most deliberate one. Whether boredom helps or harms depends far less on the state itself than on the response it provokes.\n\nDefinitions\n\n(a) coming after something else in time or order\n(b) a fault or imperfection in something\n(c) continuing for a long time, especially of a condition or problem\n(d) to accept or endure something unpleasant without complaint\n(e) allowing light to pass through so that objects behind can be seen\n(f) a sudden strong desire to act, often without reflection\n(g) done carefully and on purpose after consideration\n(h) to make something greater in size, number, or amount",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "text": "How many of the following vocabulary pairs are correctly matched?",
+      "context": "(a) mitigate — to make less severe\n(b) obsolete — no longer in use\n(c) candid — unwilling to speak openly\n(d) allocate — to distribute for a particular purpose\n(e) coherent — logically consistent\n(f) tedious — extremely exciting\n(g) scrutinize — to examine closely\n(h) deteriorate — to become better\n(i) inevitable — easily avoided\n(j) versatile — able to be used for many purposes",
+      "options": [
+        { "id": "1", "text": "4" },
+        { "id": "2", "text": "5" },
+        { "id": "3", "text": "6" },
+        { "id": "4", "text": "7" },
+        { "id": "5", "text": "8" }
+      ]
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "text": "\"Silence in conversation is treated as a problem to be solved, but the length of silence people can tolerate is not a fact about human beings.\" Choose the most appropriate order of the paragraphs that follow.",
+      "context": "(A) In Japanese business meetings, by contrast, pauses of several seconds are routine and are read as evidence that the previous statement is being taken seriously. Neither group is being rude; each is applying a rule it has never had to state.\n\n(B) Studies of ordinary talk in English-speaking countries find that speakers grow uncomfortable after roughly half a second of silence and will begin to fill it, often by repeating themselves or by agreeing with something they do not agree with.\n\n(C) Trouble therefore arises when the two rules meet. The English speaker, hearing no reply, assumes objection and starts talking again — which removes precisely the interval the Japanese speaker was using to compose an answer.",
+      "options": [
+        { "id": "1", "text": "(A) → (C) → (B)" },
+        { "id": "2", "text": "(B) → (A) → (C)" },
+        { "id": "3", "text": "(B) → (C) → (A)" },
+        { "id": "4", "text": "(C) → (A) → (B)" },
+        { "id": "5", "text": "(C) → (B) → (A)" }
+      ]
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "text": "\"Almost every animal that stores food must also solve the problem of finding it again.\" Choose the most appropriate order of the paragraphs that follow.",
+      "context": "(A) Some species avoid this cost altogether by storing everything in one defended place. The advantage is memory; the disadvantage is that a single discovery by a rival empties the entire supply at once.\n\n(B) The nutcracker, for instance, buries tens of thousands of seeds across a wide territory each autumn and recovers most of them months later under snow, using the relative positions of rocks and trees as landmarks.\n\n(C) This ability is not free. Birds that scatter their stores in this way have a measurably enlarged hippocampus, and the region grows and shrinks across the year in step with the demands placed on it.",
+      "options": [
+        { "id": "1", "text": "(A) → (B) → (C)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(C) → (A) → (B)" }
+      ]
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "text": "Choose the sentence that does NOT belong.",
+      "context": "Constraints are usually described as obstacles to creativity, yet artists have long imposed them deliberately. A sonnet has fourteen lines whether or not the poet has fourteen lines' worth of material.",
+      "options": [
+        { "id": "1", "text": "The restriction removes the paralysing question of what to do and replaces it with the far more tractable question of how to do it within a boundary." },
+        { "id": "2", "text": "Composers writing for a small ensemble frequently report that the shortage of instruments forced solutions they would never have found with an orchestra available." },
+        { "id": "3", "text": "Studies of design students show that groups given a narrow brief produce more distinctive work than groups told to do anything they wish." },
+        { "id": "4", "text": "Music education in most countries has declined steadily over the past thirty years as school budgets have been reduced." },
+        { "id": "5", "text": "What looks like a limit, in other words, often functions as a starting point." }
+      ]
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the following sentence: \"However, the water required to cool them is rarely counted in these comparisons.\"",
+      "context": "Because a video call replaces a flight, remote working is widely assumed to be the environmentally cheaper option. ( ① ) The saving in aviation fuel is real and substantial. ( ② ) Yet the digital infrastructure supporting that call is not weightless. ( ③ ) A large data centre consumes as much electricity as a small town, and its carbon footprint has been studied in detail. ( ④ ) Some facilities draw millions of litres a day, a demand that becomes serious when they are sited in dry regions, as many are. ( ⑤ ) The honest conclusion is not that remote work is worse, but that its costs sit somewhere other than where we are looking.",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the following sentence: \"By contrast, a reader who slows down and rereads retains the structure of an argument far longer.\"",
+      "context": "The speed at which we read strongly determines what we take from a text. ( ① ) Skimming evolved as a response to volume: there is more to read than anyone can read, and the eye learns to hunt for keywords. ( ② ) This is efficient for locating a fact and almost useless for following a chain of reasoning, because reasoning lives in the connections between sentences rather than in the sentences themselves. ( ③ ) Studies of comprehension find that skimmed material is recalled as a set of disconnected impressions within a day. ( ④ ) The difference is not intelligence but pace. ( ⑤ ) A reader who moves through difficult material at the speed of easy material has, in effect, chosen not to understand it.",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate words for blanks (A) and (B).",
+      "context": "The invention of the printing press is usually credited with spreading knowledge, but its first and largest effect was on the reliability of knowledge. A manuscript copied by hand was slightly different from the manuscript it was copied from, and after ten generations of copying the errors had accumulated beyond recovery. Astronomers could not compare their observations with those of an earlier century, because they could not be sure they were reading the same numbers. Printing did not eliminate mistakes; a printed error was reproduced perfectly a thousand times over. What it did was make the mistake public and therefore correctable. Scholars in different cities could point to the same page and argue about it, and the second edition could be better than the first. Cumulative science became possible not because texts became correct but because they became identical.\n\nSummary: Printing mattered less because it made copies plentiful than because it made them (A)_____________, which allowed errors to be located and (B)_____________ across a scholarly community.",
+      "options": [
+        { "id": "1", "text": "(A) uniform … (B) corrected" },
+        { "id": "2", "text": "(A) decorative … (B) concealed" },
+        { "id": "3", "text": "(A) affordable … (B) duplicated" },
+        { "id": "4", "text": "(A) portable … (B) disputed" },
+        { "id": "5", "text": "(A) permanent … (B) forgotten" }
+      ]
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "fill_blank",
+      "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
+      "context": "**Word Box: deter · undermine · plausible · restore · scarce · compile · endorse · negligible · convey · reluctant**\n\n(A) A single misplaced comma can __________ the meaning of an entire contract.\n(B) Higher fines have done little to __________ drivers from using their phones.\n(C) Fresh water is becoming increasingly __________ in the region during the summer months.\n(D) Her explanation was __________, but the committee still asked for documentation.\n(E) The difference between the two methods was so small as to be __________."
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "① Every language divides the colour spectrum, but no two languages divide it in quite the same way. Russian has no single word covering the range English calls blue; it has two basic terms, and Russian speakers are measurably faster than English speakers at telling those two shades apart. ② This does not mean that Russians see a wider range of colours than others does. The physical eye is the same. What differs is the speed with which a distinction that the language marks becomes ③ available to attention. Speakers of languages with fewer basic colour terms sort colour chips ④ more slowly, but they sort them accurate, which suggests the boundary is a habit rather than a limit. ⑤ Language, then, does not build the walls of perception; it decides which of them are worth painting.\n\n**Task 27.1** — Two of the sentences ①–⑤ contain a grammatical error. Identify the two sentences by number, write the incorrect part, and correct it. Choose two different numbers.\n\n**Task 27.2** — Complete the summary using ALL of the words below, each exactly once. No form changes and no added words.\n\n(perception / differences / rather / shape / we / notice / language / may / which / not / but)",
+      "subQuestions": [
+        {
+          "label": "27.1",
+          "placeholder": "Write the two grammatical errors and corrections here..."
+        },
+        {
+          "label": "27.2",
+          "placeholder": "Write the completed summary here..."
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "written_multi",
+      "text": "Read the passage and complete all three tasks below.",
+      "context": "① Feedback is one of the few interventions that reliably improves performance, and yet most of the feedback given in schools and workplaces has no measurable effect at all. The reason is not that people ignore it. ② Research shows that comments directed at the person — \"you are careful,\" \"you are not a maths person\" — is processed as information about identity, and identity is defended. Comments directed at the work, by contrast, are processed as information about the work, which can be revised without cost to the self. ③ A second condition is timing: feedback delivered after the opportunity to act on it has passed function as judgement rather than guidance. ④ Whereas praise is comfortable to give and to receive, it rarely tells the recipient which specific action to repeat. In consequence, learners may leave an encouraging conversation with (A) ________ about what to do next. ⑤ The most useful feedback is therefore specific, addressed to the task, and delivered while the task can still be changed.\n\n**Task 28.1** — Two of the sentences ①–⑤ contain a grammatical error. Identify the two sentences by number, write the incorrect part, and correct it. Choose two different numbers.\n\n**Task 28.2** — Write ONE word for blank (A) that fits the context.\n\n**Task 28.3** — According to the passage, useful feedback satisfies certain conditions. Identify TWO of them and explain each specifically in English.",
+      "subQuestions": [
+        {
+          "label": "28.1",
+          "placeholder": "Write the two grammatical errors and corrections here..."
+        },
+        {
+          "label": "28.2",
+          "placeholder": "Write one word here..."
+        },
+        {
+          "label": "28.3",
+          "placeholder": "Write two conditions here..."
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "(A) It would be hard to overstate how widespread the belief is that travel changes the people who undertake it. Yet the psychological evidence is more specific than the slogan. Studies of students living abroad find that the gains in flexible thinking appear only among those who form relationships with local residents; those who remain within a group of their own nationals show no change at all, however far they travelled. Adam Galinsky, a professor of business at Columbia University, has run a series of experiments indicating that what matters is not exposure to a different place but adaptation to it — the effortful business of adjusting one's own habits. In one study of professional designers, the number of countries visited predicted nothing, while the number of years spent working inside a foreign culture predicted the creativity of their collections.\n\n**Task 29.1** — According to the research described, what distinguishes people who benefit from living abroad from those who do not? Identify TWO specific points from the passage and explain them in English.\n\n**Task 29.2** — Complete the sentence below so that it means the same as sentence (A). Use the phrases \"the belief\" and \"that travel transforms the people who undertake it\" without changing their form, include a subject relative pronoun, and write exactly 13 words after the words given.\n\nIt would be hard to overstate ...",
+      "subQuestions": [
+        {
+          "label": "29.1",
+          "placeholder": "Write two distinguishing points here..."
+        },
+        {
+          "label": "29.2",
+          "placeholder": "It would be hard to overstate ..."
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "Athletes are often told to try harder, but effort applied against the wrong constraint produces nothing but injury. Consider a swimmer who is losing time on the turn. She may respond by kicking more powerfully off the wall, which feels like the obvious solution and is in fact the least useful one, because at that moment her body is producing more drag than force. (A) Another swimmer may be struggling to hold her line in the final ten metres. Recognising that fatigue rotates the shoulders and that the head lifts as breathing becomes urgent tells her exactly which small correction to make and when. In both cases, (B) ________, and the athlete stops spending energy on a problem she does not have.\n\n**Task 30.1** — In (A), the swimmer must understand TWO things in order to hold her line. Identify both from the passage and explain them in English.\n\n**Task 30.2** — Using ALL of the words and phrases below exactly once, complete blank (B) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(what the body / than / progress / rather / is actually doing / comes from / understanding / forcing it)",
+      "subQuestions": [
+        {
+          "label": "30.1",
+          "placeholder": "Write the two things the swimmer must understand here..."
+        },
+        {
+          "label": "30.2",
+          "placeholder": "Write the completed blank here..."
+        }
+      ]
+    }
+  ]
+}
