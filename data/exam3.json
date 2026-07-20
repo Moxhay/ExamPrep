@@ -217,7 +217,7 @@
       "number": 16,
       "type": "multiple_choice",
       "text": "Which phrase best fits the blank?",
-      "context": "If you had wanted to translate a document in the 1960s, your best option would have been a machine that swapped one word for another out of a dictionary. The output was readable in the sense that the letters were in the right alphabet, and useless in every other sense, because meaning does not survive word-by-word substitution. Obviously not ideal. But did that failure mean the ambition itself was worthless? No. It meant only that the tools of the time could not represent the thing that mattered — context. Something similar is happening now in medicine. Twenty years ago, diagnosis relied almost entirely on what a patient could remember to report during a ten-minute appointment. Today, we are approaching the point where ______\n\nContinuous monitoring already allows a physician to see the weeks between visits rather than guess at them.",
+      "context": "If you had wanted to translate a document in the 1960s, your best option would have been a machine that swapped one word for another out of a dictionary. The output was readable in the sense that the letters were in the right alphabet, and useless in every other sense, because meaning does not survive word-by-word substitution. Obviously not ideal. But did that failure mean the ambition itself was worthless? No. It meant only that the tools of the time could not represent the thing that mattered. Something similar is happening now in medicine. Twenty years ago, diagnosis relied almost entirely on what a patient could remember to report during a ten-minute appointment. Today, we are approaching the point where ______\n\nContinuous monitoring already allows a physician to see the weeks between visits rather than guess at them.",
       "options": [
         { "id": "1", "text": "doctors no longer need to speak with their patients at all" },
         { "id": "2", "text": "machines are able to substitute one symptom for another automatically" },
@@ -357,7 +357,7 @@
       "number": 26,
       "type": "fill_blank",
       "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
-      "context": "**Word Box: deter · undermine · plausible · restore · scarce · compile · endorse · negligible · convey · reluctant**\n\n(A) A single misplaced comma can __________ the meaning of an entire contract.\n(B) Higher fines have done little to __________ drivers from using their phones.\n(C) Fresh water is becoming increasingly __________ in the region during the summer months.\n(D) Her explanation was __________, but the committee still asked for documentation.\n(E) The difference between the two methods was so small as to be __________."
+      "context": "**Word Box: deter · undermine · plausible · negligible · scarce**\n\n(A) A single misplaced comma can __________ the meaning of an entire contract.\n(B) Higher fines have done little to __________ drivers from using their phones.\n(C) Fresh water is becoming increasingly __________ in the region during the summer months.\n(D) Her explanation was __________, but the committee still asked for documentation.\n(E) The difference between the two methods was so small as to be __________."
     },
     {
       "id": "q27",
