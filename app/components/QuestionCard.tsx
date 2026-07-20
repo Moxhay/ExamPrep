@@ -49,7 +49,7 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
             {parseInline(part)}
             {i < parts.length - 1 && (
               review ? (
-                <span className={`inline-block min-w-22.5 border-b-2 border-gray-900 px-1.5 mx-0.5 text-center ${
+                <span className={`inline-block min-w-[4.5rem] sm:min-w-[5.5rem] border-b-2 border-gray-900 px-1.5 mx-0.5 text-center ${
                   blankAnswer[i]?.trim() ? 'text-gray-900 font-semibold' : 'text-gray-400 italic'
                 }`}>
                   {blankAnswer[i] || '___'}
@@ -61,7 +61,7 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
                   value={blankAnswer[i] ?? ''}
                   onChange={(e) => handleBlankChange(i, e.target.value)}
                   readOnly={locked}
-                  className={`inline-block w-28 border-0 border-b-2 border-gray-900 text-sm text-gray-900 text-center outline-none px-1 mx-0.5 font-sans ${
+                  className={`inline-block w-20 sm:w-28 max-w-[45%] border-0 border-b-2 border-gray-900 text-sm text-gray-900 text-center outline-none px-1 mx-0.5 font-sans ${
                     locked ? 'bg-gray-200 cursor-not-allowed' : 'bg-transparent cursor-text'
                   }`}
                 />

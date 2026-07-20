@@ -45,6 +45,25 @@ const ICON_MAP: Record<ExamIcon, { component: React.ReactNode; color: string }> 
 
 // ─── Toggle icons ─────────────────────────────────────────────────────────────
 
+function IconMenu() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="3" y1="6" x2="21" y2="6"/>
+      <line x1="3" y1="12" x2="21" y2="12"/>
+      <line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  )
+}
+
+function IconX() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="18" y1="6" x2="6" y2="18"/>
+      <line x1="6" y1="6" x2="18" y2="18"/>
+    </svg>
+  )
+}
+
 function IconChevronsLeft() {
   return (
     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="shrink-0">
@@ -71,13 +90,15 @@ type NavItemProps = {
   icon: ExamIcon
   active: boolean
   collapsed: boolean
+  onNavigate?: () => void
 }
 
-function NavItem({ href, label, icon, active, collapsed }: NavItemProps) {
+function NavItem({ href, label, icon, active, collapsed, onNavigate }: NavItemProps) {
   const { component, color } = ICON_MAP[icon]
   return (
     <Link
       href={href}
+      onClick={onNavigate}
       title={collapsed ? label : undefined}
       className={`flex items-center gap-3 px-2.5 py-2.5 rounded-lg transition-colors text-sm whitespace-nowrap ${
         active
@@ -117,6 +138,8 @@ function NavToggle({ collapsed, onToggle }: NavToggleProps) {
 
 export default function Sidebar() {
   const [collapsed, setCollapsed] = useState(false)
+  const [mobileOpen, setMobileOpen] = useState(false)
+  const [examStarted, setExamStarted] = useState(false)
   const searchParams = useSearchParams()
   const currentId = searchParams.get('exam') ?? DEFAULT_EXAM_ID
 
@@ -124,42 +147,101 @@ export default function Sidebar() {
     document.body.classList.toggle('sidebar-collapsed', collapsed)
   }, [collapsed])
 
+  useEffect(() => {
+    document.body.style.overflow = mobileOpen ? 'hidden' : ''
+    return () => { document.body.style.overflow = '' }
+  }, [mobileOpen])
+
+  useEffect(() => {
+    const onOpen  = () => setMobileOpen(true)
+    const onStart = () => setExamStarted(true)
+    const onReset = () => setExamStarted(false)
+    document.addEventListener('open-mobile-sidebar', onOpen)
+    document.addEventListener('exam-started', onStart)
+    document.addEventListener('exam-reset',   onReset)
+    return () => {
+      document.removeEventListener('open-mobile-sidebar', onOpen)
+      document.removeEventListener('exam-started', onStart)
+      document.removeEventListener('exam-reset',   onReset)
+    }
+  }, [])
+
+  const closeMobile = () => setMobileOpen(false)
+  const showLabels = !collapsed || mobileOpen
+
   return (
-    <aside
-      className={`print:hidden fixed left-0 top-0 h-full z-40 flex flex-col bg-stone-50 border-r border-stone-200 transition-[width] duration-200 overflow-hidden ${
-        collapsed ? 'w-14' : 'w-60'
-      }`}
-    >
-      {/* Header / Logo */}
-      <div className="flex items-center gap-2.5 px-3 min-h-13 border-b border-gray-100">
-        <span className="shrink-0 text-gray-900">
-          <Logo />
-        </span>
-        {!collapsed && (
-          <span className="font-semibold text-gray-900 text-sm tracking-tight">
-            ExamPrep
+    <>
+      {/*
+        Floating hamburger — mobile/tablet only (lg:hidden).
+        Hidden once the exam starts: the sticky nav integrates its own button.
+      */}
+      <button
+        onClick={() => setMobileOpen(true)}
+        aria-label="Open menu"
+        className={`lg:hidden fixed top-3 left-3 z-40 p-2 rounded-lg bg-stone-50 border border-stone-200 shadow-sm text-gray-600 hover:text-gray-900 transition-colors print:hidden ${examStarted ? 'hidden' : ''}`}
+      >
+        <IconMenu />
+      </button>
+
+      {/* Mobile overlay backdrop */}
+      {mobileOpen && (
+        <div
+          className="lg:hidden fixed inset-0 bg-black/30 z-40 print:hidden"
+          onClick={closeMobile}
+        />
+      )}
+
+      {/* Sidebar */}
+      <aside
+        className={`
+          print:hidden fixed left-0 top-0 h-full z-50 flex flex-col
+          bg-stone-50 border-r border-stone-200
+          transition-[width,transform] duration-200 overflow-hidden
+          ${mobileOpen ? 'translate-x-0' : '-translate-x-full'}
+          lg:translate-x-0
+          w-60
+          ${collapsed ? 'lg:w-14' : 'lg:w-60'}
+        `}
+      >
+        {/* Header */}
+        <div className="flex items-center gap-2.5 px-3 min-h-13 border-b border-gray-100">
+          <span className="shrink-0 text-gray-900">
+            <Logo />
           </span>
-        )}
-      </div>
+          {showLabels && (
+            <span className="font-semibold text-gray-900 text-sm tracking-tight">
+              ExamPrep
+            </span>
+          )}
+          <button
+            onClick={closeMobile}
+            aria-label="Close menu"
+            className="lg:hidden ml-auto p-1.5 rounded-lg text-gray-400 hover:text-gray-900 hover:bg-gray-100 transition-colors cursor-pointer"
+          >
+            <IconX />
+          </button>
+        </div>
 
-      {/* Nav items */}
-      <nav className="flex-1 flex flex-col gap-0.5 p-2 overflow-y-auto">
-        {EXAMS.map((exam) => (
-          <NavItem
-            key={exam.id}
-            href={`${EXAM_PATH}?exam=${exam.id}`}
-            label={exam.title}
-            icon={exam.icon}
-            active={currentId === exam.id}
-            collapsed={collapsed}
-          />
-        ))}
-      </nav>
+        {/* Nav items */}
+        <nav className="flex-1 flex flex-col gap-0.5 p-2 overflow-y-auto">
+          {EXAMS.map((exam) => (
+            <NavItem
+              key={exam.id}
+              href={`${EXAM_PATH}?exam=${exam.id}`}
+              label={exam.title}
+              icon={exam.icon}
+              active={currentId === exam.id}
+              collapsed={collapsed && !mobileOpen}
+              onNavigate={closeMobile}
+            />
+          ))}
+        </nav>
 
-      {/* Footer toggle */}
-      <div className="p-2 border-t border-gray-100">
-        <NavToggle collapsed={collapsed} onToggle={() => setCollapsed((c) => !c)} />
-      </div>
-    </aside>
+        {/* Footer toggle — desktop only */}
+        <div className="hidden lg:block p-2 border-t border-gray-100">
+          <NavToggle collapsed={collapsed} onToggle={() => setCollapsed((c) => !c)} />
+        </div>
+      </aside>
+    </>
   )
 }

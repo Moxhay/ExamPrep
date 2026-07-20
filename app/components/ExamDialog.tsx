@@ -20,12 +20,12 @@ export default function ExamDialog({ title, description, stats, note, action, se
   return (
     <>
       <div className="fixed inset-0 bg-stone-900/25 z-30 print:hidden" />
-      <div className="fixed inset-0 flex items-center justify-center p-6 z-30 print:hidden">
-        <div className="bg-stone-50 backdrop-blur-2xl rounded-2xl p-12 max-w-md w-full shadow-2xl border border-stone-200/70">
-          <h1 className="text-2xl font-bold text-gray-900 mb-2">{title}</h1>
-          <p className="text-stone-500 mb-7 leading-relaxed">{description}</p>
+      <div className="fixed inset-0 flex items-center justify-center p-4 sm:p-6 z-30 print:hidden">
+        <div className="bg-stone-50 backdrop-blur-2xl rounded-2xl p-6 sm:p-10 max-w-md w-full shadow-2xl border border-stone-200/70">
+          <h1 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">{title}</h1>
+          <p className="text-stone-500 mb-5 sm:mb-7 leading-relaxed text-sm sm:text-base">{description}</p>
 
-          <div className="flex gap-8 mb-5">
+          <div className="flex gap-6 sm:gap-8 mb-4 sm:mb-5">
             {stats.map((s) => (
               <div key={s.label}>
                 <div className="text-xs text-stone-400">{s.label}</div>
@@ -34,7 +34,7 @@ export default function ExamDialog({ title, description, stats, note, action, se
             ))}
           </div>
 
-          {note && <p className="text-xs text-stone-400 mb-8">{note}</p>}
+          {note && <p className="text-xs text-stone-400 mb-5 sm:mb-8">{note}</p>}
 
           <button
             onClick={action.onClick}
