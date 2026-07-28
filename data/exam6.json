@@ -1,0 +1,435 @@
+{
+  "id": "mock-exam-6",
+  "title": "Exam 6",
+  "description": "25 MC + 5 written · 50 min",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "text": "Which of the following is the most appropriate title for the passage?",
+      "context": "Learn a new word and you will, for the next few days, notice it everywhere: in conversations, on signs, in a book you happen to pick up. The word has not actually become more common overnight. What has changed is your attention: a category that was previously invisible to your filtering attention has just been switched on, and your brain now flags every match instead of letting it pass unnoticed. Researchers call this the frequency illusion, and it applies well beyond words — a newly bought car model, a rare medical term, a friend's unusual surname all seem to multiply the moment we first learn to notice them.",
+      "options": [
+        { "id": "1", "text": "Why Rare Words Eventually Become Common Usage" },
+        { "id": "2", "text": "The Frequency Illusion: Noticing, Not Multiplying" },
+        { "id": "3", "text": "How Buying a New Car Changes Consumer Behaviour" },
+        { "id": "4", "text": "The Neuroscience of Learning Foreign Vocabulary" },
+        { "id": "5", "text": "Why Attention Filters Cannot Be Consciously Controlled" }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "Asphalt, concrete, and dark rooftops absorb solar radiation throughout the day and release it slowly after sunset, keeping city centres measurably warmer overnight than the surrounding countryside, sometimes by several degrees. This urban heat island effect intensifies with density: a compact downtown of tall buildings and paved surfaces retains far more heat than a suburb with the same population spread across lawns and tree cover. Cities have begun countering the effect with reflective rooftops, rooftop gardens, and strategically planted street trees, each of which reduces the surface temperature enough to measurably lower night-time readings across an entire district.",
+      "options": [
+        { "id": "1", "text": "why concrete is a more durable building material than asphalt" },
+        { "id": "2", "text": "how urban density and paved surfaces cause cities to retain heat, and how this can be countered" },
+        { "id": "3", "text": "the total energy cost of air conditioning in modern cities" },
+        { "id": "4", "text": "the history of rooftop garden design in urban architecture" },
+        { "id": "5", "text": "comparing suburban and rural population density trends" }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "The trillions of bacteria living in the human gut do far more than assist digestion; they train the immune system from infancy, teaching it to distinguish harmless food particles and resident bacteria from genuine threats. Children raised in unusually sterile environments, with minimal early microbial exposure, show measurably higher rates of allergic and autoimmune conditions later in life, a pattern researchers attribute to an immune system that never received enough early \"practice\" distinguishing friend from foe. The gut microbiome, in this view, functions less like a passive digestive aid and more like an essential training ground for the body's entire defence system.",
+      "options": [
+        { "id": "1", "text": "methods for treating autoimmune conditions in adults" },
+        { "id": "2", "text": "how early gut microbiome exposure trains the immune system to distinguish threats from harmless particles" },
+        { "id": "3", "text": "the total number of bacterial species found in the human gut" },
+        { "id": "4", "text": "why sterile environments are always preferable for young children" },
+        { "id": "5", "text": "the digestive function of gut bacteria in nutrient absorption" }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "text": "Which of the following best states the main point of the passage?",
+      "context": "As athletes and competitors approach the absolute physical limits of a sport, the gap in raw skill between the best and the merely very good narrows dramatically, and outcomes on any given day come to depend increasingly on factors no one can fully control: a gust of wind, a slightly favourable bounce, a rival's minor lapse in concentration. This is the paradox of skill: precisely because everyone at the top has become so uniformly excellent, luck's share of the outcome does not shrink alongside the shrinking skill gap — it grows to fill the space skill differences used to occupy.",
+      "options": [
+        { "id": "1", "text": "Luck matters more in sports where competitors have lower overall skill levels." },
+        { "id": "2", "text": "As competitors' skill levels converge near the top, luck plays an increasingly large role in outcomes." },
+        { "id": "3", "text": "The most skilled athletes are the ones least affected by chance events during competition." },
+        { "id": "4", "text": "Improving raw skill is the only reliable way to reduce the influence of luck on an outcome." },
+        { "id": "5", "text": "Outcomes in elite competition are entirely determined by chance rather than skill." }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "text": "How many of the statements below do NOT agree with the passage?",
+      "context": "For the first year of learning to bake bread, everything I made came out dense and flat, and I blamed my oven, my flour, even my kitchen's altitude before finally admitting the problem was technique. What changed things was forcing myself to weigh every ingredient instead of trusting cups and eyeballed handfuls, and to time each rise by texture rather than the clock. The first properly risen loaf, when it finally came, didn't feel like beginner's luck — it felt like the readable result of finally measuring the right things. I still under-proof a loaf occasionally, but now I know within a few minutes what went wrong, instead of shrugging and blaming the equipment.\n\nStatements\n(a) The writer initially attributed her failures to her equipment and environment rather than her technique.\n(b) Switching to weighing ingredients was one of the key changes that improved her results.\n(c) She now judges dough readiness primarily by the clock rather than by texture.\n(d) Her first successful loaf felt like an unrepeatable stroke of luck.\n(e) She can now usually identify what went wrong when a loaf under-proofs.\n(f) She no longer makes any mistakes when baking bread.",
+      "options": [
+        { "id": "1", "text": "2" },
+        { "id": "2", "text": "3" },
+        { "id": "3", "text": "4" },
+        { "id": "4", "text": "5" },
+        { "id": "5", "text": "6" }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "text": "How many of the following words are correctly matched with their meanings?",
+      "context": "(a) premature — happening or done before the usual or proper time\n(b) predominant — the most common or noticeable element among others\n(c) foresee — to be aware of or predict an event before it happens\n(d) forecast — to make a confident guess about a past event\n(e) overdue — past the time when something should have happened or been paid\n(f) overestimate — to guess that something is smaller or less significant than it is\n(g) surpass — to do or be better than someone or something else\n(h) surmount — to fail to overcome a difficulty or obstacle\n(i) reform — to make changes to something in order to improve it\n(j) reunite — to bring together again people or things that were separated",
+      "options": [
+        { "id": "1", "text": "4" },
+        { "id": "2", "text": "5" },
+        { "id": "3", "text": "6" },
+        { "id": "4", "text": "7" },
+        { "id": "5", "text": "8" }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "text": "Which statement does NOT agree with the two explanations given in the passage?",
+      "context": "Many oak and beech trees produce enormous seed crops only once every several years, a pattern called masting, rather than a steady moderate crop annually. One explanation holds that masting evolved to overwhelm seed predators: producing so many seeds in a single year that squirrels and insects cannot possibly eat them all, guaranteeing some survive, while producing almost nothing in intervening years starves predator populations back down. A second, competing explanation attributes masting instead to shared weather cues: trees across a region synchronise flowering only when a particular spring temperature threshold is met, and heavy seed years simply reflect years when conditions for pollination happened to be unusually favourable for every tree at once.",
+      "options": [
+        { "id": "1", "text": "The first explanation proposes that masting overwhelms predators through occasional very large seed crops." },
+        { "id": "2", "text": "The first explanation suggests that lean years help reduce seed predator populations." },
+        { "id": "3", "text": "The second explanation attributes synchronised masting to a shared weather-based cue." },
+        { "id": "4", "text": "The second explanation agrees with the first that masting evolved specifically to starve predator populations." },
+        { "id": "5", "text": "Both explanations attempt to account for the same pattern of irregular, synchronised seed production." }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT used appropriately in context?",
+      "options": [
+        { "id": "1", "text": "Doctors advised taking every reasonable _precaution_ before travelling to the region." },
+        { "id": "2", "text": "The opening scene subtly _foreshadows_ the film's tragic ending." },
+        { "id": "3", "text": "She apologised for accidentally _overhearing_ their private conversation, even though she had deliberately pressed her ear to the door to listen in." },
+        { "id": "4", "text": "Colleagues worried that his tendency to _overwork_ would eventually damage his health, given how rarely he took a break." },
+        { "id": "5", "text": "He struggled to _recollect_ the name of the restaurant, despite having just visited it moments earlier." }
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "text": "Which of the following best explains the meaning of the underlined phrase \"functional fixedness\"?",
+      "context": "Handed a candle, a box of tacks, and a book of matches, and asked to attach the candle to a wall so it can burn without dripping wax on the floor below, most people struggle, fixated on the box only as a container for the tacks. The solution — tack the box itself to the wall as a small shelf — eludes them not because it is difficult, but because the box's conventional role as \"a container\" blocks them from seeing its equally available role as \"a flat surface.\" Psychologists call this _functional fixedness_: a tendency to perceive an object only in terms of its most familiar use.",
+      "options": [
+        { "id": "1", "text": "a physical inability to manipulate small objects such as tacks or boxes" },
+        { "id": "2", "text": "a preference for solving problems as quickly as possible, even carelessly" },
+        { "id": "3", "text": "a difficulty perceiving alternative uses for an object beyond its familiar function" },
+        { "id": "4", "text": "a fixed, unchangeable belief about how candles should be mounted on walls" },
+        { "id": "5", "text": "the tendency for problems involving fire to be solved more slowly than others" }
+      ]
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT appropriate in context?",
+      "context": "Liberty consists in doing what one desires, subject only to the condition that in so doing we do not ① _deprive_ others of the like liberty, or impede their exercise of it. The only freedom which deserves the name is that of pursuing our own good in our own way, so long as we do not attempt to ② _benefit_ others of theirs, or ③ _obstruct_ their efforts to obtain it. Each is the proper guardian of his own health, whether bodily or mental or spiritual. Mankind are greater gainers by ④ _suffering_ each other to live as seems good to themselves, than by compelling each to live as seems good to the rest. The ⑤ _sole_ end for which mankind are warranted in interfering with the liberty of action of any of their number is self-protection.",
+      "options": [
+        { "id": "1", "text": "deprive" },
+        { "id": "2", "text": "benefit" },
+        { "id": "3", "text": "obstruct" },
+        { "id": "4", "text": "suffering" },
+        { "id": "5", "text": "sole" }
+      ]
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "text": "Which of the following questions CANNOT be answered from the passage?",
+      "context": "A forager honeybee returning from a rich flower patch performs a figure-eight waggle dance on the vertical comb inside the hive, its body vibrating along the dance's central straight run. The angle of that run relative to straight up encodes the direction of the food source relative to the sun, while the duration of the vibration encodes distance: longer runs signal food farther away. Other bees crowd around the dancer, tracking the pattern in the dark hive interior largely by touch and the vibrations transmitted through the comb, then depart directly for a patch they have never personally visited.",
+      "options": [
+        { "id": "1", "text": "What movement does a forager bee perform to communicate a food source's location?" },
+        { "id": "2", "text": "What does the angle of the dance's straight run encode?" },
+        { "id": "3", "text": "How many other bees typically follow a single dancer out to the food source?" },
+        { "id": "4", "text": "What does the duration of the dance's vibration encode?" },
+        { "id": "5", "text": "How do other bees perceive the dance pattern inside the dark hive?" }
+      ]
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "text": "How many of the underlined parts are grammatically INCORRECT?",
+      "context": "The paradox of thrift describes a situation in which an individually sound decision becomes collectively self-defeating. ① _If a single household saves more and spend less during a downturn, that household improves its own financial position._ ② _But if every household does the same simultaneously, aggregate spending falls sharply, businesses see reduced demand, and layoffs follow, which is deprive many of the same households of the income they were trying to protect._ ③ _The economy can end up worse off overall than if households had continued spending at their previous rate._ ④ _This is why economists often distinguish between what is rational for an individual actor and what is sustainable for an entire system acting identically._ ⑤ _Coordinated fiscal policy, rather than individual restraint, is generally considered the more effective response to a widespread downturn._",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "text": "Which underlined part is grammatically incorrect?",
+      "context": "Athletes and musicians alike describe a state in which a demanding task suddenly ① _feels_ effortless, time seems to distort, and self-conscious thought falls away entirely. Psychologists ② _have labelled_ this flow, and identify a fairly narrow set of conditions that reliably produce it: a task whose difficulty ③ _closely matches_ the performer's current skill, clear moment-to-moment feedback on how the attempt is going, and goals specific enough to focus attention completely. A task too far below a performer's skill ④ _produce_ boredom rather than flow, while one too far above it produces anxiety instead. Flow, on this account, ⑤ _occupies_ a narrow band between those two more common states.",
+      "options": [
+        { "id": "1", "text": "feels" },
+        { "id": "2", "text": "have labelled" },
+        { "id": "3", "text": "closely matches" },
+        { "id": "4", "text": "produce" },
+        { "id": "5", "text": "occupies" }
+      ]
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "text": "Among the dictionary definitions below, how many describe words that do NOT appear in the passage? (Ignore singular/plural forms, voice, and tense.)",
+      "context": "Recruiters reviewing applications are, like everyone else, subject to confirmation bias: having formed an early impression from a candidate's résumé, they tend to ask interview questions that confirm that impression rather than genuinely test it, and to interpret ambiguous answers charitably when the initial impression was favourable. Some organisations now use structured interviews, in which every candidate is asked identical, pre-determined questions scored against a fixed rubric, specifically to remove the interviewer's discretion to chase confirming evidence. Studies comparing hiring outcomes suggest structured interviews predict job performance considerably more reliably than the unstructured, conversational interviews most companies still rely on.\n\nDefinitions\n(a) an initial view or opinion formed about someone or something\n(b) unclear or open to more than one interpretation\n(c) showing kindness or generosity in one's judgement of someone\n(d) the freedom to decide something within certain limits\n(e) able to be trusted to produce consistent results\n(f) to postpone a decision or action to a later time\n(g) a formal comparison between two or more things\n(h) not organised according to any fixed method",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "text": "Which sentence best fits the blank?",
+      "context": "The broken windows theory holds that visible signs of minor disorder in a neighbourhood — a broken window left unrepaired, litter accumulating on a corner, graffiti left untouched — signal to potential wrongdoers that no one is watching or enforcing standards, inviting further and more serious disorder. Proponents of the theory argue that cities can interrupt this spiral cheaply by addressing the small, visible signals first: fixing the broken window promptly communicates that ________. Critics counter that the theory has sometimes been used to justify aggressive policing of trivial offences with little solid evidence that fixing minor disorder actually reduces serious crime.",
+      "options": [
+        { "id": "1", "text": "no visible standard of maintenance exists in the neighbourhood at all" },
+        { "id": "2", "text": "the area is being actively monitored and maintained, discouraging further disorder" },
+        { "id": "3", "text": "police resources should be redirected entirely away from serious crime" },
+        { "id": "4", "text": "residents are solely responsible for all property damage in the area" },
+        { "id": "5", "text": "minor disorder has no meaningful relationship to serious crime whatsoever" }
+      ]
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "text": "Which sentence does NOT fit the overall flow of the passage?",
+      "context": "Many reef corals across a stretch of ocean spawn on the very same night each year, releasing eggs and sperm into the water within the same narrow hour. This synchrony is cued primarily by the lunar cycle, ① with spawning typically occurring several nights after a full moon. Water temperature and the timing of ② sunset appear to provide secondary cues that fine-tune the precise night within that lunar window. Coral ③ reefs also provide critical habitat for a huge proportion of the ocean's fish species during their juvenile life stages. Synchronising the release across an entire reef dramatically increases the odds that any given ④ egg encounters compatible sperm before currents disperse them. Reefs where this synchrony has broken ⑤ down, often due to disrupted temperature patterns, show measurably reduced fertilisation success.",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "text": "Which words best complete blanks (A) and (B)?",
+      "context": "Radiologists reviewing a chest X-ray for signs of disease often report an immediate sense of \"something wrong\" well before they can articulate exactly what that something is. Eye-tracking studies suggest this is not mystical intuition but (A) . Having viewed tens of thousands of scans, an experienced radiologist's visual system has learned to flag statistically unusual patterns automatically, well before conscious, deliberate scanning of the image begins. A trainee, lacking that accumulated library of prior scans, (B) , checking each region of the image in turn rather than being drawn immediately to the area that matters.",
+      "options": [
+        { "id": "1", "text": "(A) a random guess with no real basis in prior experience\n(B) instantly identifies the same anomaly without any training at all" },
+        { "id": "2", "text": "(A) rapid, unconscious pattern detection built from extensive prior viewing\n(B) must instead work through the image systematically and deliberately" },
+        { "id": "3", "text": "(A) a physical reflex unrelated to any visual processing\n(B) becomes anxious and unable to examine the image at all" },
+        { "id": "4", "text": "(A) a skill entirely unrelated to how many scans have previously been viewed\n(B) outperforms the experienced radiologist precisely because of a fresh perspective" },
+        { "id": "5", "text": "(A) a form of luck that improves with the radiologist's mood that day\n(B) performs identically to the expert regardless of experience" }
+      ]
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "text": "How many of the words below CANNOT fit into any of the blanks (A), (B), (C), or (D)? (More than one word may fit each blank.)",
+      "context": "Software interfaces cluttered with unnecessary options, competing colours, and simultaneous notifications force users to (A)      more decisions per screen than a cleaner design would require. Designers describe this as increasing the cognitive (B)      placed on working memory, leaving less capacity for the task the user actually came to complete. A genuinely (C)      interface, by contrast, surfaces only what is relevant to the current step, deferring secondary options until they are needed. Critics of minimalist design counter that an overly (D)      interface can hide useful functions so effectively that experienced users struggle to find them at all.\n\n< word box >\nprocess / weight / streamlined / sparse / burden / load / decorated / significant / restrained / vivid / negligible / lean / distract",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence: \"Crucially, the task doesn't have to be unpleasant — simply incomplete is enough to keep it active in memory.\"",
+      "context": "Waiters in one classic study could recall complex, multi-item orders in remarkable detail while those orders were still open, yet forgot the details almost immediately once the order was delivered and paid for. ( ① ) Psychologists call this the Zeigarnik effect: unfinished tasks appear to occupy a more active, accessible place in memory than completed ones, which the mind seems to file away and stop tracking. ( ② ) The effect has since been used to explain why an unresolved argument or an unsent email can intrude on unrelated thoughts far more persistently than a resolved one does. ( ③ ) Some productivity techniques exploit this directly, encouraging people to jot down an unfinished task's next concrete step, which appears to satisfy enough of the \"open loop\" to quiet the intrusive recall. ( ④ ) Once a task is marked genuinely complete, by contrast, the mind appears to release it from active tracking almost immediately. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence: \"Unlike a centralised nervous system, this arrangement allows each arm to continue coordinated movement and even simple problem-solving even when severed from the brain entirely.\"",
+      "context": "An octopus has roughly two-thirds of its neurons located not in its central brain but distributed along its eight arms, each arm capable of processing sensory information and initiating movement with a striking degree of independence. ( ① ) A severed octopus arm, in laboratory studies, has been observed reaching toward and grasping food, seemingly without any central directive to do so. ( ② ) Researchers describe the whole system as a kind of distributed intelligence, in which the central brain issues broad goals while the arms work out much of the specific execution locally. ( ③ ) This division of labour may explain how an octopus can simultaneously explore several crevices with different arms while its central attention remains on an entirely different task, such as watching for predators. ( ④ ) Such an architecture is almost unrecognisable compared to the tightly centralised nervous systems of most other intelligent animals. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "text": "\"Microplastic particles, shed from packaging, synthetic clothing, and degraded larger plastic debris, have been found in organisms at every level of the marine food chain.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Larger predators that consume many smaller prey items over their lifetime can accumulate correspondingly higher concentrations of these particles in their own tissue, a process called biomagnification.\n(B) Plankton at the base of the food chain ingest the smallest of these particles directly from the water column, mistaking them for food, and retain a portion of what they consume.\n(C) This means concentrations of concern found in top predators, including fish regularly consumed by humans, may substantially understate the true scale of microplastic pollution entering the food chain at its base.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "text": "\"Alternating brief exposure to intense heat and cold, as in sauna-and-cold-plunge routines, produces physiological effects that neither extreme achieves alone.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) The rapid vasodilation and subsequent vasoconstriction this alternation triggers, repeated across a session, appears to condition blood vessels to respond more efficiently to future temperature stress than either steady heat or steady cold produces on its own.\n(B) Heat exposure widens blood vessels near the skin's surface to dissipate excess warmth, while the following cold exposure sharply constricts those same vessels, redirecting blood flow toward the body's core.\n(C) Some researchers now suspect it is specifically this repeated vascular contrast, rather than either temperature extreme in isolation, that underlies most of the cardiovascular benefit associated with the practice.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?",
+      "context": "Decision theorists distinguish between two broad strategies for choosing among options: maximising and satisficing.\n\n① A maximizer, by contrast, continues searching and comparing until reasonably confident that no better option remains undiscovered.\n② A satisficer sets a threshold for \"good enough\" in advance and selects the first option that clears it, ending the search immediately.\n③ Maximizers, despite frequently securing objectively better outcomes, report lower satisfaction with their choices than satisficers report with theirs.\n④ The exhaustive comparison a maximising strategy requires consumes far more time and mental effort than a satisficing strategy does.\n⑤ This apparent paradox is generally attributed to regret: extensive comparison shopping leaves the maximizer acutely aware of every option not chosen.",
+      "options": [
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
+      ]
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate words for blanks (A) and (B).",
+      "context": "Asked to estimate what percentage of other people share their opinion on a controversial issue, most people give a figure substantially higher than the true percentage, regardless of which side of the issue they hold. Smokers overestimate how many other people approve of smoking; people who plan to vote a certain way overestimate how many others plan to vote the same way. Psychologists attribute this false consensus effect partly to selective exposure — people spend more time around others who already agree with them — and partly to the simple availability of their own view as the most vivid example of what \"people in general\" think.\n\nPeople tend to (A) ________ how widely their own opinions are shared, partly because the views they (B) ________ are disproportionately drawn from people who already agree with them.",
+      "options": [
+        { "id": "1", "text": "(A) underestimate  (B) rarely encounter" },
+        { "id": "2", "text": "(A) overestimate  (B) are most frequently exposed to" },
+        { "id": "3", "text": "(A) accurately estimate  (B) actively avoid" },
+        { "id": "4", "text": "(A) overestimate  (B) deliberately suppress" },
+        { "id": "5", "text": "(A) underestimate  (B) systematically overrepresent" }
+      ]
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate words for blanks (A) and (B).",
+      "context": "Offered 100 dollars today or 110 dollars in one month, many people take the smaller, immediate sum, even though waiting represents a superior return on any reasonable accounting. Offered the same choice shifted a year into the future — 100 dollars in twelve months or 110 dollars in thirteen — the overwhelming majority happily wait the extra month, since neither option feels urgent from a year's distance. The inconsistency reveals that immediate rewards are weighted disproportionately heavily purely because they are immediate, a bias that fades once both options are pushed into the equally hypothetical future.\n\nPeople consistently apply a (A) ________ discount to rewards available immediately, a bias that (B) ________ once both options are moved into the future.",
+      "options": [
+        { "id": "1", "text": "(A) heavier  (B) diminishes" },
+        { "id": "2", "text": "(A) heavier  (B) intensifies" },
+        { "id": "3", "text": "(A) lighter  (B) diminishes" },
+        { "id": "4", "text": "(A) negligible  (B) intensifies" },
+        { "id": "5", "text": "(A) heavier  (B) remains identical" }
+      ]
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "fill_blank",
+      "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
+      "context": "**Word Box: surmount · reunite · foresee · forecast · reform**\n\n(A) No one could really __________ how quickly the technology would become obsolete.\n(B) After decades apart, the siblings finally managed to __________ at their mother's funeral.\n(C) Economists __________ a modest rise in unemployment for the coming quarter.\n(D) The committee proposed sweeping __________ of how funding decisions are made.\n(E) Even experienced climbers struggled to __________ the final, ice-covered ridge."
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "written_multi",
+      "text": "Read and complete both tasks.",
+      "context": "**Task 27.1 (2)** — Choose the word closest in meaning to the underlined word.\n\nThe report was widely criticised as _premature_, released before any of the data had been properly verified.\n\n① overdue  ② too early  ③ irrelevant  ④ excessive  ⑤ confidential\n\n**Task 27.2 (3)** — Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the more / a claim / is repeated / the more / true / it / seems)",
+      "subQuestions": [
+        {
+          "label": "27.1",
+          "placeholder": "Write the number of the closest synonym here..."
+        },
+        {
+          "label": "27.2",
+          "placeholder": "Write the complete sentence here..."
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "written_multi",
+      "text": "Read the passage and complete all three tasks below.",
+      "context": "Workplace training programmes are often assumed to fail because employees forget what they learned, but ① _this explanation have become increasingly hard to defend against the evidence._ ② _Studies tracking employees after a training session finds that most of what is forgotten disappears within the first week, long before any reasonable forgetting curve would predict._ ③ _The more likely explanation is that employees return immediately to workflows and incentives that never changed, so the new skill has no opportunity to be practised before the old habits reassert themselves._ ④ _Organisations that redesign the actual workflow alongside the training, building in structured opportunities to apply the new skill immediately, report substantially better retention than organisations that rely on training alone._ ⑤ _This suggests that the environment surrounding a skill, not memory itself, several researchers argues, is usually the real bottleneck._\n\n**Task 28.1 (6)** — Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.\n\n**Task 28.2 (2)** — Using expressions from the passage only, write in English what the real bottleneck is identified as, according to the passage's conclusion.\n\n**Task 28.3 (2)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** rather / the workplace environment / than / training itself / usually determines / whether a new skill / is retained",
+      "subQuestions": [
+        {
+          "label": "28.1",
+          "placeholder": "Write the three grammatical errors and corrections here..."
+        },
+        {
+          "label": "28.2",
+          "placeholder": "Write what the real bottleneck is here..."
+        },
+        {
+          "label": "28.3",
+          "placeholder": "Write the completed summary here..."
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "A restaurant that redesigns its menu to list the most profitable dishes first, describe them with more evocative language, and box them visually finds that sales of those specific dishes rise substantially, even when their price and quality remain completely unchanged. Diners rarely notice the redesign consciously, and would likely deny that a menu's layout influences their choices at all. The words and position used to describe (A) _it_, rather than any actual change in the dish itself, appear to carry independent influence over what diners choose to order.\n\n**Task 29.1 (2)** — Explain in English what \"(A) it\" refers to.\n\n**Task 29.2 (3)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** even though / a dish's presentation / can increase / its sales / neither its price / nor its quality / has changed",
+      "subQuestions": [
+        {
+          "label": "29.1",
+          "placeholder": "Write what '(A) it' refers to here..."
+        },
+        {
+          "label": "29.2",
+          "placeholder": "Write the completed summary here..."
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "Long-distance runners frequently report that the most dangerous point in a race is not the final exhausting stretch, where the finish line supplies its own motivation, but a nondescript middle section where pace feels sustainable and attention is most likely to lapse. In one analysis of pacing data, a disproportionate share of runners' costliest tactical errors — surging too early, failing to notice a rival's move, missing a critical fuelling window — occurred during this comfortable middle section rather than during the visibly demanding final kilometres. The real danger, it seems, lies not in the moments that feel hardest, but in the ones that (A) ________.\n\n**Task 30.1 (2)** — Identify TWO specific findings from the passage described, and explain them in English.\n\n**Task 30.2 (3)** — Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(feel / easiest / while / still / genuinely / demanding / full / concentration)",
+      "subQuestions": [
+        {
+          "label": "30.1",
+          "placeholder": "Write the two findings here..."
+        },
+        {
+          "label": "30.2",
+          "placeholder": "Write the completed blank (A) here..."
+        }
+      ]
+    }
+  ]
+}

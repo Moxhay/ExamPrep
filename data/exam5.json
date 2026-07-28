@@ -1,0 +1,435 @@
+{
+  "id": "mock-exam-5",
+  "title": "Exam 5",
+  "description": "25 MC + 5 written · 50 min",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "text": "Which of the following is the most appropriate title for the passage?",
+      "context": "When a country switches its organ-donation policy from \"opt-in\" (donation only if you actively register) to \"opt-out\" (donation unless you actively refuse), donation rates rise dramatically, often from under 15 percent of the population to over 90 percent, with no change whatsoever in the underlying willingness of citizens to donate. Almost no one, it turns out, revisits a pre-selected box once it has been ticked on their behalf. The default option is not a neutral starting point that people freely deviate from; for the overwhelming majority, the default simply becomes the decision, mistaken for effort not worth expending or, more quietly, for an implicit recommendation from whoever designed the form.",
+      "options": [
+        { "id": "1", "text": "Why Some Countries Have More Willing Organ Donors Than Others" },
+        { "id": "2", "text": "The Ethics of Mandatory Organ Donation Policy" },
+        { "id": "3", "text": "How a Silent Default Option Can Determine a Nation's Choices" },
+        { "id": "4", "text": "The History of Consent Law in Modern Medicine" },
+        { "id": "5", "text": "Why Citizens Actively Resist Government-Designed Forms" }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "A supermarket that stocks six varieties of jam sells more jam, in absolute terms, than one stocking twenty-four varieties, even though the larger display draws more browsers and more expressions of interest. Confronted with two dozen similar-looking jars, shoppers linger, compare, and — a disproportionate number of the time — walk away having bought nothing at all, apparently unable to justify any single choice when so many unexamined alternatives remain. Reduce the assortment to a manageable handful, and the same shoppers convert to buyers at several times the rate, seemingly relieved rather than deprived by the narrower set of options in front of them.",
+      "options": [
+        { "id": "1", "text": "why supermarkets prefer selling jam over other condiments" },
+        { "id": "2", "text": "how offering fewer options can paradoxically increase purchase rates" },
+        { "id": "3", "text": "the manufacturing process behind different jam varieties" },
+        { "id": "4", "text": "consumer preference for well-known jam brands over new ones" },
+        { "id": "5", "text": "the history of supermarket shelf design" }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "Bacteria exposed to a sublethal dose of an antibiotic do not merely fail to die; a small fraction, carrying a chance mutation that happens to confer resistance, survive and reproduce, passing that resistance to an entire subsequent generation within hours. Because bacterial generations are so short and their populations so large, a resistant strain can come to dominate a hospital ward's bacterial population within a single course of incompletely administered treatment. The evolutionary pressure is not created by antibiotics in general but specifically by their partial, inconsistent use — a course stopped early, a dose diluted, an environment where the drug is present just long enough to eliminate competitors without eliminating the resistant few.",
+      "options": [
+        { "id": "1", "text": "the discovery of the first antibiotic compound" },
+        { "id": "2", "text": "how incomplete or inconsistent antibiotic use accelerates the evolution of resistant bacteria" },
+        { "id": "3", "text": "the total number of bacterial species found in hospitals" },
+        { "id": "4", "text": "why hospitals should stop using antibiotics altogether" },
+        { "id": "5", "text": "methods for diagnosing bacterial infections accurately" }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "text": "Which of the following best states the main point of the passage?",
+      "context": "Ask someone to explain, in detail, how a zipper works, or how a toilet flushes, and confidence collapses almost immediately once the explanation must move past the first sentence. Most people rate their understanding of everyday mechanisms as fairly high until asked to actually produce the mechanism's inner workings step by step, at which point the gap between a fluent, gist-level familiarity and genuine causal understanding becomes impossible to ignore. Researchers call this the illusion of explanatory depth: a sense of comprehension borrowed, unknowingly, from having merely seen a thing function reliably many times, rather than from any grasp of why it functions at all.",
+      "options": [
+        { "id": "1", "text": "People generally understand mechanical devices better than they think they do." },
+        { "id": "2", "text": "Familiarity with how something behaves is often mistaken for understanding why it behaves that way." },
+        { "id": "3", "text": "Toilets and zippers are the most commonly misunderstood mechanical devices." },
+        { "id": "4", "text": "Confidence in one's knowledge always increases after a detailed explanation is attempted." },
+        { "id": "5", "text": "Genuine causal understanding is impossible to acquire for most everyday mechanisms." }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "text": "How many of the statements below do NOT agree with the passage?",
+      "context": "For years, I dreaded speaking in any meeting larger than three people, certain that a shaking voice would be noticed and judged the moment I opened my mouth. What finally helped wasn't a confidence trick or a breathing exercise, but a colleague's offhand comment that she found my \"thoughtful pauses\" reassuring, since they meant I was actually considering what to say rather than filling air. I had spent years treating my pauses as evidence of failure, when at least one listener had read the exact same behaviour as a sign of care. I still feel the same flutter of nerves before speaking today. What changed is that I no longer assume the flutter is visible, or that visibility would be catastrophic if it were.\n\nStatements\n(a) The writer overcame the nervousness itself before changing how she interpreted it.\n(b) A colleague's comment revealed that a listener had interpreted the writer's pauses positively.\n(c) The writer had previously assumed her pauses were read as a sign of weakness.\n(d) The writer no longer experiences any nervousness before speaking.\n(e) The writer changed her assumption about whether her nervousness was visible or catastrophic.\n(f) The writer's change came primarily from a specific breathing technique.",
+      "options": [
+        { "id": "1", "text": "2" },
+        { "id": "2", "text": "3" },
+        { "id": "3", "text": "4" },
+        { "id": "4", "text": "5" },
+        { "id": "5", "text": "6" }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "text": "How many of the following words are correctly matched with their meanings?",
+      "context": "(a) immigrate — to come to live permanently in a foreign country\n(b) exterminate — to carefully preserve and protect something from harm\n(c) outweigh — to be less significant or important than something else\n(d) outdated — no longer useful because of being old-fashioned\n(e) underestimate — to guess that something is greater than it really is\n(f) subconscious — occurring in the mind without one's full awareness\n(g) accumulate — to gather or acquire an increasing quantity over time\n(h) allocate — to distribute resources for a particular purpose\n(i) affirm — to state that something is untrue, or to deny it\n(j) prolong — to extend the duration of something",
+      "options": [
+        { "id": "1", "text": "4" },
+        { "id": "2", "text": "5" },
+        { "id": "3", "text": "6" },
+        { "id": "4", "text": "7" },
+        { "id": "5", "text": "8" }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "text": "Which statement does NOT agree with the two explanations given in the passage?",
+      "context": "Several songbird species are accomplished vocal mimics, weaving the calls of other birds, and occasionally mechanical sounds, into their own songs. One explanation holds that mimicry functions primarily as a display of cognitive ability aimed at potential mates: a male capable of reproducing a large, varied repertoire of borrowed sounds demonstrates superior learning capacity and memory, traits a discerning female might reasonably value in a partner. A second, competing explanation proposes that mimicry instead serves a defensive function, deterring rival males from entering a territory by inflating, through vocal variety alone, the apparent number of different birds already present and defending it.",
+      "options": [
+        { "id": "1", "text": "The first explanation treats mimicry as a signal of the male's cognitive and learning ability." },
+        { "id": "2", "text": "The first explanation suggests females may value the traits that mimicry demonstrates." },
+        { "id": "3", "text": "The second explanation proposes that mimicry deters rivals by suggesting a territory is more crowded than it is." },
+        { "id": "4", "text": "The second explanation agrees with the first that mimicry's primary function is attracting a mate." },
+        { "id": "5", "text": "Both explanations attempt to account for the same observed behaviour of vocal mimicry." }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT used appropriately in context?",
+      "options": [
+        { "id": "1", "text": "The twins share an _inborn_ talent for music, evident since early childhood." },
+        { "id": "2", "text": "The two departments have become so _interdependent_ that neither can function without the other." },
+        { "id": "3", "text": "She handled the negotiation with the _utmost_ care and professionalism." },
+        { "id": "4", "text": "Patients scheduled for the procedure must undergo a full medical evaluation _beforehand_." },
+        { "id": "5", "text": "Because his job required him to _telecommute_ daily to a crowded downtown office, he rarely saw his colleagues in person." }
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "text": "Which of the following best explains the meaning of the underlined phrase \"the curse of knowledge\"?",
+      "context": "An experienced pianist asked to teach a rank beginner routinely underestimates how many steps the beginner will need, having long since forgotten what it felt like not to know which finger goes where. This is not arrogance; the expert genuinely cannot easily reconstruct their own earlier state of ignorance, a phenomenon researchers term _the curse of knowledge_. It afflicts textbook authors who omit steps obvious only to themselves, engineers who write instructions no novice could follow, and any expert, in any field, tasked with explaining their expertise to someone who does not yet share it.",
+      "options": [
+        { "id": "1", "text": "a tendency for experts to deliberately withhold key information from beginners" },
+        { "id": "2", "text": "a tendency for experts to overestimate how difficult a skill actually is" },
+        { "id": "3", "text": "a difficulty experts have in imagining what it is like not to already know something" },
+        { "id": "4", "text": "a curse specifically affecting musicians who teach children" },
+        { "id": "5", "text": "the fact that expertise generally makes a person a worse performer over time" }
+      ]
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT appropriate in context?",
+      "context": "The division of labour, from which so many advantages are derived, does not originally proceed from any human wisdom which ① _prevents_ the general opulence to which it gives occasion. It is the necessary, though very slow and gradual, ② _consequence_ of a certain propensity in human nature: the propensity to truck, barter, and exchange one thing for another. Whether this propensity be one of those original principles in human nature which cannot be further accounted for, or whether it be the necessary ③ _consequence_ of reason and speech, is not our present business to inquire. It is common to all men, and to be found in no other race of animals. Two greyhounds, in running down the same hare, sometimes ④ _appear to cooperate_ as if by an agreement, but this is a common effect of a passion directed to the same object, not of a genuine contract between them. Nobody ever saw a dog make a ⑤ _fair and deliberate exchange_ of one bone for another with another dog.",
+      "options": [
+        { "id": "1", "text": "prevents" },
+        { "id": "2", "text": "consequence" },
+        { "id": "3", "text": "consequence" },
+        { "id": "4", "text": "appear to cooperate" },
+        { "id": "5", "text": "fair and deliberate exchange" }
+      ]
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "text": "Which of the following questions CANNOT be answered from the passage?",
+      "context": "Elephants communicate over distances of several kilometres using infrasound, low-frequency rumbles pitched below the threshold of human hearing, which travel efficiently through both open air and the ground itself. A herd separated by dense vegetation or considerable distance can coordinate movement, warn of danger, or signal reproductive readiness entirely outside human perception, which is why observers for decades underestimated how socially connected apparently isolated elephant groups actually were. Researchers now use buried seismic sensors, originally designed to detect earthquakes, to pick up the ground-borne component of these calls and track herd movements no visible survey could reveal.",
+      "options": [
+        { "id": "1", "text": "What frequency range do elephants use to communicate over long distances?" },
+        { "id": "2", "text": "Through what two mediums can elephant infrasound calls travel efficiently?" },
+        { "id": "3", "text": "How many separate calls does a typical elephant produce per day?" },
+        { "id": "4", "text": "What kind of sensor, originally built for another purpose, is now used to detect these calls?" },
+        { "id": "5", "text": "Why did observers previously underestimate the social connectedness of separated elephant herds?" }
+      ]
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "text": "How many of the underlined parts are grammatically INCORRECT?",
+      "context": "Placebo effects are usually described as the result of a patient's belief in a treatment, but the evidence increasingly points somewhere odder. ① _A pill described to a patient as expensive relieve pain more effectively than an identical pill described as cheap, even though both are chemically inert._ ② _Colour matters too: researchers have found that red or orange placebo pills are perceived as more stimulating, while blue or green pills are perceived as more calming._ ③ _Perhaps most strikingly, patients who is told honestly that they are receiving a placebo, and given a plausible explanation of the placebo effect, still show measurable symptom improvement compared to patients given no pill at all._ ④ _This suggests that ritual, expectation, and the act of treatment itself carry real physiological weight, independent of any active ingredient._ ⑤ _The nocebo effect, in which negative expectations produce genuinely worse outcomes, appears to operate through a broadly similar mechanism._",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "text": "Which underlined part is grammatically incorrect?",
+      "context": "The widely cited claim that ten thousand hours of practice ① _is_ sufficient to produce expertise in any field has been substantially oversimplified in its popular retelling. The original research ② _focused_ specifically on violinists at an elite conservatory, all of whom had already cleared a demanding admissions bar, and found that accumulated practice hours ③ _distinguished_ the best from the merely very good among that already-elite group — not that ten thousand hours ④ _guarantee_ expertise for an arbitrarily chosen beginner in an arbitrary field. Subsequent research across other domains has found that the role of deliberate practice ⑤ _varies_ considerably, mattering enormously in some fields and comparatively little in others.",
+      "options": [
+        { "id": "1", "text": "is" },
+        { "id": "2", "text": "focused" },
+        { "id": "3", "text": "distinguished" },
+        { "id": "4", "text": "guarantee" },
+        { "id": "5", "text": "varies" }
+      ]
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "text": "Among the dictionary definitions below, how many describe words that do NOT appear in the passage? (Ignore singular/plural forms, voice, and tense.)",
+      "context": "Modern office design increasingly tries to envision spaces that let employees multitask without friction, arranging desks, meeting pods, and quiet zones in a configuration that allows focused and collaborative work to coexist within the same floor. Employees are rarely entitled to choose their own layout, since the arrangement is typically fixed by a facilities team working from research on movement patterns rather than individual preference.\n\nDefinitions\n(a) to imagine or picture a future possibility\n(b) to do more than one task at the same time\n(c) an arrangement of parts in a particular form or pattern\n(d) to exist together at the same time or in the same place\n(e) to give someone the right to have or do something\n(f) to hand in or present something for consideration\n(g) to send away or reject something\n(h) to bring upon oneself something unwelcome",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "text": "Which sentence best fits the blank?",
+      "context": "Accident investigators increasingly describe major failures using the \"Swiss cheese model\": imagine several slices of cheese lined up in a row, each riddled with its own randomly placed holes, representing a different layer of safeguard — a warning system, a maintenance check, a trained operator, a backup mechanism. Any single slice, on its own, is full of gaps and would stop nothing. A catastrophic failure occurs only when ________. Add enough independent slices, each with holes in different places, and the odds of every hole aligning at once become vanishingly small, which is precisely why investigators searching for \"the one cause\" of a disaster so often come away disappointed, finding instead a chain of small, ordinary failures that happened to align.",
+      "options": [
+        { "id": "1", "text": "one single safeguard fails completely on its own, regardless of the others" },
+        { "id": "2", "text": "the holes in several successive slices happen to align, allowing a clear path straight through" },
+        { "id": "3", "text": "investigators remove too many slices of cheese from the model before testing it" },
+        { "id": "4", "text": "every safeguard functions exactly as intended, without exception" },
+        { "id": "5", "text": "the number of safeguards in place is deliberately reduced to improve efficiency" }
+      ]
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "text": "Which sentence does NOT fit the overall flow of the passage?",
+      "context": "Starlings gathering at dusk sometimes form murmurations: shape-shifting clouds of thousands of birds banking, folding, and reassembling in the sky as a single fluid mass, with no leader and no central plan. ① Each bird, researchers have found, tracks the movement of only a handful of its nearest neighbours, adjusting its own speed and direction to theirs many times per second. ② This local rule, repeated across the whole flock, is sufficient to generate the large-scale, coordinated patterns observed from the ground, without any bird perceiving the shape of the murmuration as a whole. ③ Starlings are also known for their remarkable vocal mimicry, incorporating car alarms and human speech into their calls. ④ The same local-coordination principle has since been used to model traffic flow, crowd movement, and the behaviour of some robotic swarms. ⑤ A murmuration, in this sense, is less a decision made by the group than a pattern that simply emerges from many individually simple decisions.",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "text": "Which words best complete blanks (A) and (B)?",
+      "context": "Veteran firefighters making split-second decisions inside a burning building rarely deliberate between explicit options in the way a chess player might weigh candidate moves. Interviewed afterward, many report having simply \"known\" the right action to take, with no memory of consciously comparing alternatives at all. Researchers studying this pattern have concluded that what looks like intuition is in fact (A) . Because the firefighter's brain has, across hundreds of prior fires, built a dense library of situation-action patterns, a new situation is instantly matched against that library, and the appropriate response surfaces without ever passing through deliberate, effortful comparison. A true novice, lacking that library entirely, cannot access this shortcut and so (B) , exactly the kind of explicit weighing the veteran appears to skip entirely.",
+      "options": [
+        { "id": "1", "text": "(A) a form of luck that cannot be taught or transferred to others\n(B) performs identically to the veteran once handed the same information" },
+        { "id": "2", "text": "(A) rapid, unconscious pattern-matching built from extensive prior experience\n(B) must fall back on slower, explicit deliberation between candidate actions" },
+        { "id": "3", "text": "(A) a random guess that happens to be correct more often than chance would predict\n(B) instinctively knows the correct action without any training at all" },
+        { "id": "4", "text": "(A) a physical reflex controlled entirely outside the brain's decision-making regions\n(B) becomes paralyzed and entirely unable to act in the situation" },
+        { "id": "5", "text": "(A) a skill unrelated to the number of fires previously experienced\n(B) outperforms the veteran precisely because of a lack of preconceptions" }
+      ]
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "text": "How many of the words below CANNOT fit into any of the blanks (A), (B), (C), or (D)? (More than one word may fit each blank.)",
+      "context": "Classrooms redesigned to reduce visual clutter — fewer competing posters, less decorative material lining every wall — have been shown to help young children (A)      more information from a lesson, since a developing visual system cannot yet filter irrelevant stimuli as efficiently as an adult's can. Cognitive scientists describe this as reducing extraneous (B)      on working memory, freeing capacity that would otherwise be spent processing decoration rather than content. Critics counter that a completely (C)      classroom may undermine the sense of ownership and warmth a personalised room provides, and that the effect size in the original studies was (D)      enough that a wholesale redesign may not be worth the disruption.\n\n< word box >\nretain / burden / bare / modest / absorb / load / decorated / substantial / ornate / vivid / negligible / sparse / distract",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence: \"Framed as a loss instead, the identical outcome is judged far more harshly, even though nothing about the underlying reality has changed.\"",
+      "context": "Decision researchers have long noted that people respond very differently to two descriptions of an identical outcome, depending only on whether that outcome is presented as a gain or as a loss. ( ① ) Told that a medical procedure has a \"90 percent survival rate,\" patients and physicians alike judge it considerably more favourably than when told the mathematically identical procedure has a \"10 percent mortality rate.\" ( ② ) The information conveyed is exactly the same; only the frame around it differs. ( ③ ) This asymmetry is not limited to medicine: identical policy outcomes are judged more harshly when described in terms of jobs lost than when described in terms of an equivalent number of jobs saved. ( ④ ) Marketers and policymakers alike have learned that the choice of frame, entirely apart from any change in substance, can shift public reaction substantially. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence: \"Mere repeated exposure to a stimulus, entirely absent any reward or new information attached to it, is sufficient to increase how much a person likes it.\"",
+      "context": "In one classic study, participants were briefly shown a series of unfamiliar shapes and nonsense syllables, some repeated many times across the session and others shown only once. ( ① ) Afterward, asked simply to rate how much they liked each item, participants consistently rated the frequently repeated shapes and syllables more favourably than the ones seen only once. ( ② ) None of the participants could reliably report which items had actually been repeated, ruling out a simple memory-based explanation. ( ③ ) Researchers call this the mere-exposure effect, and it has since been documented across music, faces, and even the letters of one's own name, which people rate slightly more favourably than other letters of the alphabet. ( ④ ) Advertisers exploit this reliably, favouring sheer repetition of a brand name over persuasive argument in many campaigns. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "text": "\"A fishing ground open to any vessel that wishes to use it presents every individual captain with the same narrow calculation.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Each additional boat reasons identically, since restraint by one captain only leaves a larger remaining share for every other captain who does not restrain themselves.\n(B) Because the benefit of one more catch accrues entirely to the captain who takes it, while the cost of a depleted fishery is shared among everyone who fishes there, no individual captain has a private incentive to hold back.\n(C) The result is a fishing ground fished down to collapse, arrived at not through anyone's malice or error, but through everyone individually following an incentive that made perfect sense from where they stood.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "text": "\"A sourdough starter is, in effect, a small ecosystem that its keeper must continually maintain rather than simply leave alone.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Left unfed for too long, the culture's chemistry shifts: acidity climbs, the balance between its resident yeast and bacteria tips, and the starter can become sluggish or develop off-flavours that are difficult to reverse.\n(B) Feeding the starter regularly with fresh flour and water dilutes accumulated acid and waste products while supplying the nutrients its yeast and bacteria need to remain active and in balance with one another.\n(C) Maintaining a starter for years, then, is less like preserving a static substance and more like sustaining a continuous, actively managed population, one whose stability depends entirely on the keeper's regular intervention.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?",
+      "context": "Psychologists have proposed that the mind operates through two distinct modes of thought, often labeled simply System 1 and System 2.\n\n① System 2, by contrast, is slow, deliberate, and effortful, engaged only when a problem resists the quick, automatic response System 1 supplies.\n② System 1 operates quickly and automatically, generating an immediate impression or answer with no sense of conscious effort at all.\n③ Most of the time, System 2 simply ratifies whatever answer System 1 has already supplied, rarely auditing it closely enough to catch a subtle error.\n④ Because effortful deliberation is metabolically costly, the mind defaults to System 1 whenever a plausible-seeming answer is available, reserving System 2 for situations that feel obviously effortful or unfamiliar.\n⑤ This default toward the fast system, rather than any specific failure of intelligence, is what makes otherwise capable people susceptible to a wide range of predictable reasoning errors.",
+      "options": [
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
+      ]
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate words for blanks (A) and (B).",
+      "context": "Offered a fifty-fifty gamble to either gain 100 dollars or lose 100 dollars, most people decline, even though the expected value of the gamble is exactly zero and a purely rational calculator of expected value should be indifferent to taking it. Losing 100 dollars, it turns out, registers as roughly twice as painful, psychologically, as gaining 100 dollars registers as pleasurable. Only when the potential gain is roughly double the potential loss does the average person become willing to accept the gamble, a ratio remarkably stable across countries, income levels, and the specific amounts involved, suggesting a deep asymmetry in how gains and losses are weighted rather than a simple failure of arithmetic.\n\nSince losses are weighted roughly (A) ________ the psychological impact of equivalent gains, people require a potential gain considerably (B) ________ a potential loss before judging a gamble worth taking.",
+      "options": [
+        { "id": "1", "text": "(A) twice  (B) larger than" },
+        { "id": "2", "text": "(A) identically to  (B) equal to" },
+        { "id": "3", "text": "(A) half  (B) smaller than" },
+        { "id": "4", "text": "(A) twice  (B) smaller than" },
+        { "id": "5", "text": "(A) identically to  (B) larger than" }
+      ]
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate words for blanks (A) and (B).",
+      "context": "In a staged emergency, a lone bystander who witnesses someone collapse almost always intervenes, calling for help or attempting aid within moments. Add several additional bystanders to the same staged scene, all of whom likewise merely observe rather than act, and the likelihood that any single person intervenes drops sharply, sometimes to a fraction of the lone-witness rate, even though the objective severity of the emergency has not changed at all. Each bystander, observing the others' inaction, quietly recalculates the situation as less urgent than it is, while simultaneously assuming that responsibility for acting has been distributed across everyone present, leaving, paradoxically, no one person who feels personally obligated to act.\n\nAs the number of witnesses to an emergency (A) ________, the likelihood that any single individual intervenes (B) ________, because responsibility is perceived as shared rather than personal.",
+      "options": [
+        { "id": "1", "text": "(A) increases  (B) increases proportionally" },
+        { "id": "2", "text": "(A) increases  (B) decreases" },
+        { "id": "3", "text": "(A) decreases  (B) increases" },
+        { "id": "4", "text": "(A) remains constant  (B) decreases sharply" },
+        { "id": "5", "text": "(A) increases  (B) remains entirely unaffected" }
+      ]
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "fill_blank",
+      "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
+      "context": "**Word Box: consolidate · empower · iconic · pervasive · deceased**\n\n(A) The merger aimed to __________ the two companies' overlapping departments into a single, more efficient division.\n(B) The training program was designed to __________ employees to make independent decisions without needing constant approval.\n(C) The building's distinctive spiral design has made it an __________ symbol of the city's skyline.\n(D) Concerns about data privacy have become so __________ that nearly every industry now addresses them in some form.\n(E) The lawyer was appointed to manage the __________ businessman's remaining assets according to his will."
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "written_multi",
+      "text": "Read and complete both tasks.",
+      "context": "**Task 27.1 (2)** — Choose the word closest in meaning to the underlined word.\n\nThe board's decision to relocate the factory was largely _arbitrary_, driven by no clear analysis of costs or benefits.\n\n① unanimous  ② random  ③ profitable  ④ delayed  ⑤ transparent\n\n**Task 27.2 (3)** — Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the more / a system / relies on / redundant / individual safeguards / the more / resilient / it / becomes)",
+      "subQuestions": [
+        {
+          "label": "27.1",
+          "placeholder": "Write the number of the closest synonym here..."
+        },
+        {
+          "label": "27.2",
+          "placeholder": "Write the complete sentence here..."
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "written_multi",
+      "text": "Read the passage and complete all three tasks below.",
+      "context": "Expert performance is often assumed to depend mainly on innate talent, but ① _this view have become increasingly difficult to sustain against the accumulated evidence._ ② _Studies tracking young musicians, chess players, and athletes over many years finds that early accumulated practice hours predict eventual skill level far more reliably than any early measure of raw aptitude does._ ③ _This does not mean talent plays no role whatsoever; rather, it means that among people who reach a serious competitive level at all, hours of deliberate, structured practice — not talent alone — separate the merely good from the exceptional._ ④ _Deliberate practice, crucially, is not the same as mere repetition: it requires a specific, demanding focus on the exact sub-skill just beyond a performer's current ability, accompanied by immediate feedback._ ⑤ _Repetition without this structure, several studies suggests, produces far smaller gains than an identical number of hours spent under deliberate, feedback-driven conditions._\n\n**Task 28.1 (6)** — Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.\n\n**Task 28.2 (2)** — Using expressions from the passage only, write in English what \"(A) this structure\" would refer to if inserted at the end of the passage (i.e., what specific structure does deliberate practice require that mere repetition lacks?).\n\n**Task 28.3 (2)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** more / than / talent alone / among / who / reach / a competitive level / deliberate practice / separates / people / the merely good / from the exceptional",
+      "subQuestions": [
+        {
+          "label": "28.1",
+          "placeholder": "Write the three grammatical errors and corrections here..."
+        },
+        {
+          "label": "28.2",
+          "placeholder": "Write what 'this structure' refers to here..."
+        },
+        {
+          "label": "28.3",
+          "placeholder": "Write the completed summary here..."
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "Voters asked directly whether they support a specific, named policy give one answer; voters asked about the same policy described only by its practical effects, with no party or politician attached, often give a strikingly different one. A tax described as funding \"welfare programmes\" draws less support than an identical tax described as funding \"assistance for families in need,\" even among respondents who, moments later, agree the two descriptions refer to the same policy. The words used to describe (A) _it_, rather than any feature of the policy itself, appear to carry independent persuasive weight — evidence that political language is not a neutral container for pre-formed opinions so much as an active ingredient in forming them.\n\n**Task 29.1 (2)** — Explain in English what \"(A) it\" refers to.\n\n**Task 29.2 (3)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** even / the same policy / can produce / how a policy is described / different levels of support / when describing / regardless of / whether the underlying substance is identical",
+      "subQuestions": [
+        {
+          "label": "29.1",
+          "placeholder": "Write what '(A) it' refers to here..."
+        },
+        {
+          "label": "29.2",
+          "placeholder": "Write the completed summary here..."
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "Long-haul pilots and surgeons performing repetitive, well-rehearsed procedures both report a specific, counterintuitive danger: the routine stretch of a task, precisely because it is so practised and undemanding, is where attention is most likely to drift, not the unfamiliar or difficult stretch a novice would expect to fear. In one striking finding, experienced pilots made more errors during the routine cruise phase of a simulated flight, when workload was deliberately kept low and uneventful, than during a demanding simulated emergency requiring their full concentration. The danger of expertise, it seems, is not incompetence but under-engagement: a task performed too smoothly for too long invites the mind to (A) ________.\n\n**Task 30.1 (2)** — Identify TWO specific findings from the passage described, and explain them in English.\n\n**Task 30.2 (3)** — Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(elsewhere / attention / demands / wander / to / whatever / genuinely)",
+      "subQuestions": [
+        {
+          "label": "30.1",
+          "placeholder": "Write the two findings here..."
+        },
+        {
+          "label": "30.2",
+          "placeholder": "Write the completed blank (A) here..."
+        }
+      ]
+    }
+  ]
+}

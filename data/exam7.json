@@ -1,0 +1,435 @@
+{
+  "id": "mock-exam-7",
+  "title": "Exam 7",
+  "description": "25 MC + 5 written · 50 min",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "text": "Which of the following is the most appropriate title for the passage?",
+      "context": "Asked to predict how a stranger will react to a minor inconvenience — a delayed flight, a spilled coffee, a rude comment — most people forecast a stronger and longer-lasting emotional reaction than the stranger actually reports experiencing once the event occurs. The same overestimation applies to our own future feelings: people preparing for a breakup, a job loss, or a disappointing exam result consistently predict deeper and more prolonged misery than they later recall actually feeling. Human beings, it turns out, are reliably poor forecasters of their own emotional resilience, routinely underestimating how quickly both good and bad feelings fade.",
+      "options": [
+        { "id": "1", "text": "Why Strangers Misjudge Each Other's Emotions" },
+        { "id": "2", "text": "The Durability Bias: Why We Overestimate How Long Feelings Last" },
+        { "id": "3", "text": "How to Accurately Predict a Stranger's Reaction" },
+        { "id": "4", "text": "The Emotional Cost of Job Loss and Exam Failure" },
+        { "id": "5", "text": "Why Coffee Spills Provoke Stronger Reactions Than Expected" }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "Quite often the interaction between two people negotiating is not a pure conflict but a mix of shared and opposing interests, and the strategies suited to one differ sharply from strategies suited to the other. Treating a negotiation with substantial shared interest — dividing a shared resource both parties want preserved, say — as if it were purely adversarial tends to leave value unclaimed on the table, since neither side explores the trades that would have benefited both. Conversely, treating a purely adversarial negotiation as if goodwill alone will produce a fair split often leaves one side badly exploited.",
+      "options": [
+        { "id": "1", "text": "why negotiations always contain more shared interest than conflict" },
+        { "id": "2", "text": "how mismatching a negotiation strategy to its actual mix of shared and opposing interests carries real costs" },
+        { "id": "3", "text": "techniques for dividing shared resources fairly between two parties" },
+        { "id": "4", "text": "the psychological profile of a successful negotiator" },
+        { "id": "5", "text": "why adversarial negotiations are more common than cooperative ones" }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "Cities founded along a navigable river or a natural harbour often retain their commercial advantage for centuries after the original reason for the advantage has become irrelevant to modern transport, a pattern economists call path dependence. Rail lines were built to connect to already-established ports; roads and later motorways were built to connect to already-established rail hubs; each new layer of infrastructure reinforced advantages that were, by the time of construction, no longer tied to any river or harbour at all. Undoing this accumulated advantage would require abandoning enormous sunk infrastructure investments, which is why geographically arbitrary historical accidents can shape a country's economic geography for centuries.",
+      "options": [
+        { "id": "1", "text": "the engineering techniques used to build early rail networks" },
+        { "id": "2", "text": "how early geographic advantages become self-reinforcing through successive infrastructure investment" },
+        { "id": "3", "text": "why rivers and harbours are no longer relevant to modern transport" },
+        { "id": "4", "text": "the total economic output of port cities compared to inland cities" },
+        { "id": "5", "text": "methods for relocating infrastructure away from historically advantaged regions" }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "text": "Which of the following best states the main point of the passage?",
+      "context": "A committee tasked with approving a project rarely does so through a single, decisive vote; instead, the project accumulates small procedural approvals — a budget line here, a preliminary sign-off there — each of which feels individually minor and reversible, until the accumulated momentum makes cancelling the project feel far more costly than continuing it, regardless of whether continuing is actually the better choice. No single approval was ever a considered commitment to the whole; the commitment emerged from the sum of steps that each felt too small to refuse.",
+      "options": [
+        { "id": "1", "text": "Committees should require a single, decisive vote before approving any major project." },
+        { "id": "2", "text": "Large commitments can accumulate gradually through small approvals that individually feel minor and reversible." },
+        { "id": "3", "text": "Procedural approvals are always a more considered decision than a single decisive vote." },
+        { "id": "4", "text": "Projects are cancelled more often than they are approved once procedural momentum builds." },
+        { "id": "5", "text": "Committees are generally more rational than individual decision-makers." }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "text": "How many of the statements below do NOT agree with the passage?",
+      "context": "When I first started coaching my daughter's recreational football team, I ran every drill exactly as I remembered them from my own childhood training, certain that whatever had worked on me would work on eight-year-olds thirty years later. The kids were bored within ten minutes and I blamed their attention spans rather than my drills. A more experienced coach watching from the sideline suggested cutting every drill to a third of its length and adding a competitive element, however small. I resisted at first, assuming this was a concession to laziness rather than a genuine improvement. The shorter, gamified version of the same drills produced noticeably sharper focus almost immediately, and I still feel a flash of embarrassment recalling how long I blamed the children before considering my own methods.\n\nStatements\n(a) The writer initially attributed the children's boredom to her coaching methods rather than their attention spans.\n(b) A more experienced coach suggested shortening the drills and adding a competitive element.\n(c) The writer immediately agreed that the suggested changes were a genuine improvement.\n(d) The shortened, gamified drills produced noticeably sharper focus.\n(e) The writer still feels some embarrassment about how long she blamed the children.\n(f) The writer's original drills were based on her own childhood training.",
+      "options": [
+        { "id": "1", "text": "2" },
+        { "id": "2", "text": "3" },
+        { "id": "3", "text": "4" },
+        { "id": "4", "text": "5" },
+        { "id": "5", "text": "6" }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "text": "How many of the following words are correctly matched with their meanings?",
+      "context": "(a) compassion — sympathetic concern for the suffering of others\n(b) compromise — to refuse absolutely to make any concession\n(c) consequence — a result or effect of an action or condition\n(d) contemporary — belonging to a distant, long-past historical era\n(e) confront — to face up to and deal with a difficult situation directly\n(f) conform — to behave according to socially expected standards or rules\n(g) correspond — to match or be in agreement with something\n(h) coexist — to exist together at the same time or in the same place\n(i) endanger — to put someone or something at risk of harm\n(j) enlighten — to deliberately keep someone confused or misinformed",
+      "options": [
+        { "id": "1", "text": "4" },
+        { "id": "2", "text": "5" },
+        { "id": "3", "text": "6" },
+        { "id": "4", "text": "7" },
+        { "id": "5", "text": "8" }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "text": "Which statement does NOT agree with the two explanations given in the passage?",
+      "context": "Firms operating in the same industry often cluster geographically rather than spreading evenly across a country, even when transport costs would seem to favour dispersal. One explanation holds that clustering allows firms to draw on a shared, specialised local labour pool: workers with industry-specific skills move to where the jobs are concentrated, and firms in turn locate where such workers already live, each reinforcing the other. A second, competing explanation emphasises knowledge spillovers: informal contact among employees of nearby competing firms, through shared suppliers, industry events, or simple proximity, spreads innovations faster than could occur if firms were geographically dispersed, giving clustered firms a collective advantage over isolated ones.",
+      "options": [
+        { "id": "1", "text": "The first explanation attributes clustering to a mutually reinforcing relationship between skilled workers and firms." },
+        { "id": "2", "text": "The first explanation suggests worker mobility follows the location of specialised job opportunities." },
+        { "id": "3", "text": "The second explanation attributes clustering to faster informal spread of innovation among nearby firms." },
+        { "id": "4", "text": "The second explanation agrees with the first that clustering's primary advantage is a shared specialised labour pool." },
+        { "id": "5", "text": "Both explanations attempt to account for the same observed pattern of industry clustering." }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT used appropriately in context?",
+      "options": [
+        { "id": "1", "text": "The proposal was ultimately a _consolidation_ of several smaller, competing initiatives into one coherent plan." },
+        { "id": "2", "text": "The two datasets showed a strong _correlation_, with one variable rising consistently alongside the other." },
+        { "id": "3", "text": "Years of joint research fostered genuine _cooperation_ between the two rival laboratories." },
+        { "id": "4", "text": "The soil here is so _enriched_ with nutrients that most crops fail to grow at all without extensive fertiliser." },
+        { "id": "5", "text": "The scholarship programme was designed to _empower_ students who lacked the financial means to study abroad." }
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "text": "Which of the following best explains the meaning of the underlined phrase \"the spotlight effect\"?",
+      "context": "Ask someone to wear a slightly embarrassing item into a room of strangers and then estimate what percentage of people noticed it; the guess reliably runs two or three times higher than the number who actually did, according to those same strangers questioned afterward. Underlying this is what researchers call _the spotlight effect_: an assumption that one's own appearance and mistakes occupy far more space in others' attention than they actually do, largely because each of us is so absorbed in our own experience that we mistake that absorption for everyone else's.",
+      "options": [
+        { "id": "1", "text": "a tendency to deliberately draw attention to one's own mistakes in public" },
+        { "id": "2", "text": "a tendency to overestimate how much other people notice and remember about oneself" },
+        { "id": "3", "text": "the fact that embarrassing clothing objectively attracts more attention than ordinary clothing" },
+        { "id": "4", "text": "a curse affecting only public performers and entertainers" },
+        { "id": "5", "text": "self-absorption making a person genuinely indifferent to how others perceive them" }
+      ]
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT appropriate in context?",
+      "context": "It is the peculiar and ① _fortunate_ character of the law of England, that its principles have been derived from the practice of the ages, from the never-interrupted exercise of judicial functions, and from a course of decisions ② _adapted_ to the circumstances of the times as they arose. The law was thus, if such an expression may be used, made by the ③ _chaos_ of the courts; the same rules of property, the same rules of interpretation, the same rules of decision, have obtained for ages on the same subjects. The whole of this vast body of law is ④ _founded_ upon precedent, and is worked into a system by a train of decisions, which extend through a long series of years. Whatever is not established by ⑤ _positive_ law is derived from usage and precedent.",
+      "options": [
+        { "id": "1", "text": "fortunate" },
+        { "id": "2", "text": "adapted" },
+        { "id": "3", "text": "chaos" },
+        { "id": "4", "text": "founded" },
+        { "id": "5", "text": "positive" }
+      ]
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "text": "Which of the following questions CANNOT be answered from the passage?",
+      "context": "Deep-diving sperm whales rely on echolocation to hunt squid in total darkness, producing a rapid series of clicks whose echoes reveal the location, distance, and even approximate size of potential prey hundreds of metres below the surface where no light penetrates at all. Just before striking, a hunting whale emits a distinctive burst of rapid clicks known as a \"creak,\" so tightly spaced they resemble a creaking door, allowing it to update its target's position almost continuously as the final approach closes in. Researchers studying tagged whales have found individual whales develop slightly distinct clicking patterns, suggesting something like individual acoustic signatures.",
+      "options": [
+        { "id": "1", "text": "What sense do sperm whales rely on to hunt in total darkness?" },
+        { "id": "2", "text": "What information can a whale's echolocation clicks reveal about potential prey?" },
+        { "id": "3", "text": "How many squid does a typical sperm whale consume during a single dive?" },
+        { "id": "4", "text": "What is the name given to the rapid burst of clicks made just before a strike?" },
+        { "id": "5", "text": "What did researchers find when comparing the clicking patterns of individual whales?" }
+      ]
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "text": "How many of the underlined parts are grammatically INCORRECT?",
+      "context": "Cooperative behaviour among unrelated animals poses a puzzle for evolutionary theory, since helping a competitor would seem to reduce one's own relative advantage. ① _Vampire bats that failed to feed on a given night is regularly given regurgitated blood by a roosting neighbour who fed successfully._ ② _Bats that have previously shared blood with a hungry neighbour are considerably more likely to receive blood in return when their own positions is reversed._ ③ _This reciprocal arrangement functions only because individual bats can recognise and remember specific past partners over repeated encounters._ ④ _A bat that never reciprocates a favour is eventually excluded from the network and left more vulnerable to future starvation._ ⑤ _The arrangement therefore resembles a long-term account each bat maintains with several specific partners, rather than indiscriminate generosity toward the colony as a whole._",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "text": "Which underlined part is grammatically incorrect?",
+      "context": "Restorative justice programmes bring offenders face to face with the people they have harmed, a format that ① _challenges_ the assumption that punishment alone repairs harm. Facilitators ② _have found_ that victims frequently report a greater sense of closure from a structured meeting than from a conventional trial, in which they are typically confined to a narrow evidentiary role. Offenders, for their part, ③ _confronts_ the concrete human impact of their actions in a way an abstract legal proceeding rarely requires. Programmes of this kind ④ _operate_ alongside, rather than instead of, the conventional justice system in most jurisdictions that have adopted them. Early evidence ⑤ _suggests_ reoffending rates may be modestly lower among participants, though researchers caution that participation is voluntary and may already select for offenders inclined toward genuine remorse.",
+      "options": [
+        { "id": "1", "text": "challenges" },
+        { "id": "2", "text": "have found" },
+        { "id": "3", "text": "confronts" },
+        { "id": "4", "text": "operate" },
+        { "id": "5", "text": "suggests" }
+      ]
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "text": "Among the dictionary definitions below, how many describe words that do NOT appear in the passage? (Ignore singular/plural forms, voice, and tense.)",
+      "context": "Peer review is meant to filter weak research before publication, but reviewers themselves operate under incentives that can quietly distort the process. A reviewer who recommends rejection risks little, since a rejected paper's fate is invisible to the wider field, while a reviewer who champions a paper that later proves flawed risks visible professional embarrassment. This asymmetry may push reviewers toward excessive caution, rejecting borderline but potentially valuable work rather than risk being publicly associated with an eventual failure. Some journals have experimented with open review, in which reviewer identities and comments are published alongside the paper, specifically to make this asymmetry visible and, proponents hope, correct for it.\n\nDefinitions\n(a) a lack of balance or equal treatment between two things\n(b) to publicly support or advocate strongly for something\n(c) careful avoidance of risk or unnecessary danger\n(d) a feeling of shame or awkwardness caused by an embarrassing situation\n(e) to formally reject or refuse to accept something\n(f) able to be perceived or noticed, not hidden\n(g) to postpone a decision until further evidence is available\n(h) a general tendency to favour one outcome over another",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "text": "Which sentence best fits the blank?",
+      "context": "Founder's syndrome describes a recurring pattern in small organisations where the very founder whose vision and drive built the institution eventually becomes the main obstacle to its continued growth, resisting the delegation, formal structure, and shared decision-making an organisation needs once it outgrows what one person can personally oversee. The syndrome is not really about a decline in the founder's ability; it is that ________. Boards that recognise the pattern early sometimes manage a gradual transition of authority, but many organisations only address it after a damaging conflict forces the issue.",
+      "options": [
+        { "id": "1", "text": "the organisation's growth has made the founder's original, hands-on style increasingly unsuited to its needs" },
+        { "id": "2", "text": "the founder was never genuinely capable of building a successful organisation in the first place" },
+        { "id": "3", "text": "boards are typically unwilling to intervene in any founder-led organisation under any circumstances" },
+        { "id": "4", "text": "small organisations should avoid growth entirely in order to preserve the founder's original vision" },
+        { "id": "5", "text": "formal structure and shared decision-making are unnecessary for any organisation regardless of size" }
+      ]
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "text": "Which sentence does NOT fit the overall flow of the passage?",
+      "context": "Wolves reintroduced to a national park after a decades-long absence altered the landscape in ways ecologists had not fully anticipated. With wolves present again, deer and elk avoided lingering in open ① valleys and riverbanks, where they had previously overgrazed young trees undisturbed. This ② behavioural shift allowed willow and aspen saplings to recover in areas that had been grazed bare for generations. Wolves themselves typically live in tightly structured family packs with a clear and stable ③ social hierarchy. The recovering vegetation stabilised riverbanks, which had been eroding without root ④ systems to hold the soil in place. Beavers, which depend on the recovering willow for both food and ⑤ dam-building material, returned to stretches of river they had abandoned for decades.",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "text": "Which words best complete blanks (A) and (B)?",
+      "context": "Simultaneous interpreters, converting spoken language in real time at international conferences, report an experience closer to reflex than deliberate translation, producing a fluent target-language sentence before the source sentence has even finished. Studies of experienced interpreters suggest this fluency reflects (A) . Years of practice have built dense, automatic mappings between entire phrase-level chunks in one language and their equivalents in another, allowing the interpreter to output a chunk almost as soon as it is recognised rather than translating word by word. A trainee interpreter, lacking this chunk-level mapping, (B) , producing far more halting and delayed output even when their vocabulary knowledge is otherwise strong.",
+      "options": [
+        { "id": "1", "text": "(A) a rare natural talent unrelated to how many hours have been practised\n(B) instantly matches the fluency of an experienced interpreter regardless of training" },
+        { "id": "2", "text": "(A) automatic, chunk-level pattern-matching built from extensive practice\n(B) must translate more slowly, working closer to the level of individual words" },
+        { "id": "3", "text": "(A) a memorised script prepared in advance of the specific conference\n(B) performs identically to an experienced interpreter on unfamiliar material" },
+        { "id": "4", "text": "(A) a skill entirely unrelated to prior exposure to either language\n(B) becomes too anxious to produce any translation at all" },
+        { "id": "5", "text": "(A) random guessing that happens to align with the source sentence\n(B) outperforms experienced interpreters precisely due to less accumulated habit" }
+      ]
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "text": "How many of the words below CANNOT fit into any of the blanks (A), (B), (C), or (D)? (More than one word may fit each blank.)",
+      "context": "Public consultations are often criticised for (A)      mainly the residents who are already engaged and vocal, leaving quieter or more marginal groups systematically underrepresented in the feedback a council receives. Planners describe this as a (B)      sample masquerading as broad community input. Some cities have experimented with randomly selected citizen panels specifically to (C)      this imbalance, deliberately including residents who would never have attended a traditional public meeting. Critics counter that a panel too small or too briefly convened remains just as (D)      as the meetings it was meant to replace.\n\n< word box >\nattracting / skewed / correct / representative / distorted / involving / balanced / unrepresentative / rectify / neutral / engaging / genuine / random",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence: \"Crucially, none of the participants could say why they preferred the repeatedly viewed image over the new one.\"",
+      "context": "In one study, participants were briefly shown a series of abstract shapes, some repeated several times across the session, others displayed only once. ( ① ) Afterward, asked simply to rate how much they liked each shape, participants consistently favoured the frequently shown ones over those seen only once. ( ② ) This preference persisted even though participants could not reliably identify which shapes had actually been repeated when asked directly. ( ③ ) Researchers call this the mere-exposure effect, and note that it operates below conscious awareness rather than through any deliberate reasoning about familiarity. ( ④ ) The effect has since been documented across music, faces, and even the letters that make up a person's own name. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence: \"This appears to depend less on skill at deception and more on unfamiliarity with what a genuine bluff typically looks like.\"",
+      "context": "Poker players occasionally attempt to signal false confidence through posture and betting pattern, hoping to convince opponents they hold a stronger hand than they do. ( ① ) Experienced players, however, are frequently more successful at spotting a novice's bluff than a fellow professional's. ( ② ) A novice unfamiliar with typical betting rhythms often bluffs in a way that, however confident it looks to the novice themselves, deviates noticeably from patterns experienced players have seen thousands of times before. ( ③ ) An experienced player's bluff, by contrast, is calibrated specifically against what other experienced players expect, making it considerably harder for another expert to distinguish from a genuine strong hand. ( ④ ) Deception, in this sense, is a skill that must be calibrated against a specific, well-informed audience to be effective. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "text": "\"A city bike-share programme illustrates how a system optimised for one goal can undermine a related one.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Because riders overwhelmingly travel downhill or with the wind, bikes accumulate at low-lying or downwind stations while uphill and upwind stations sit empty, leaving would-be riders there without a bike when they need one.\n(B) The programme's initial design succeeded in maximising total rides by placing stations exactly where demand was highest at each specific point in the city.\n(C) Solving this distribution problem now requires the operator to run trucks that physically redistribute bikes overnight, an ongoing cost the original station-placement design never anticipated.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "text": "\"Coral polyps host microscopic algae inside their own tissue in a relationship neither partner can easily survive without.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) In exchange, the algae receive a protected, sunlit home and a steady supply of the polyp's waste compounds, which the algae use as raw material for photosynthesis.\n(B) The algae, in turn, photosynthesise and pass a substantial share of the resulting sugars directly to their coral host, typically covering most of the polyp's daily energy needs.\n(C) This tightly balanced exchange is precisely why a stressed coral, forced to expel its algae, faces near-total starvation within weeks rather than a merely reduced food supply.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?",
+      "context": "Negotiators distinguish between positions, the specific demands a party states out loud, and interests, the underlying needs those demands are meant to satisfy.\n\n① Two parties can hold flatly incompatible positions while sharing a compatible, or even identical, underlying interest.\n② A tenant demanding a lower rent and a landlord refusing any reduction appear, at the level of position, to have no room for agreement.\n③ Skilled negotiators therefore probe beneath stated positions, asking why a particular demand matters, in search of the interest actually driving it.\n④ If the tenant's real interest is predictable monthly costs rather than the lowest possible figure, and the landlord's is minimising vacancy risk, a longer fixed-term lease may satisfy both without either side's stated position moving at all.\n⑤ Focusing exclusively on position, in other words, can obscure a solution that would satisfy both sides' actual interests.",
+      "options": [
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
+      ]
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate words for blanks (A) and (B).",
+      "context": "Told a wine costs 90 dollars, tasters rate its flavour more favourably, and show greater activation in brain regions associated with pleasure, than when tasting the identical wine told it costs 10 dollars. The wine in both cases is chemically and physically identical; only the stated price differs. Researchers conclude that price functions here not merely as information about quality but as an active ingredient in the sensory experience itself, genuinely altering how the same liquid is perceived rather than simply altering the taster's stated opinion about it.\n\nA stated price can (A) ________ the sensory experience of an identical product, rather than merely (B) ________ a taster's reported opinion of it.",
+      "options": [
+        { "id": "1", "text": "(A) genuinely alter  (B) reflecting" },
+        { "id": "2", "text": "(A) leave unchanged  (B) genuinely altering" },
+        { "id": "3", "text": "(A) genuinely alter  (B) genuinely altering" },
+        { "id": "4", "text": "(A) leave unchanged  (B) reflecting" },
+        { "id": "5", "text": "(A) subtly disguise  (B) revealing" }
+      ]
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate words for blanks (A) and (B).",
+      "context": "Students who explain a concept aloud to an imaginary listener, even one who is not actually present, recall that concept substantially better on a later test than students who simply reread the same material an equivalent number of times. The act of constructing a clear verbal explanation appears to force a kind of processing that passive rereading never requires: gaps in understanding become immediately obvious the moment an explanation must be produced, in a way they never do while silently reading a fluent, already-complete textbook paragraph.\n\nExplaining a concept aloud improves later recall more than rereading because the act of explaining (A) ________, whereas rereading (B) ________.",
+      "options": [
+        { "id": "1", "text": "(A) exposes gaps in understanding immediately  (B) can mask those same gaps behind the text's fluency" },
+        { "id": "2", "text": "(A) conceals gaps in understanding  (B) reveals them clearly" },
+        { "id": "3", "text": "(A) requires no real understanding  (B) requires deep understanding" },
+        { "id": "4", "text": "(A) exposes gaps in understanding immediately  (B) exposes them just as clearly" },
+        { "id": "5", "text": "(A) is always less effective  (B) is always more effective" }
+      ]
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "fill_blank",
+      "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
+      "context": "**Word Box: consolidate · correlation · cooperation · enrich · empower**\n\n(A) Years of joint fieldwork fostered genuine __________ between the two research teams.\n(B) The scholarship was designed to __________ students who lacked the financial means to study abroad.\n(C) Analysts found a strong __________ between hours of sleep and exam performance.\n(D) The merger will __________ several smaller regional offices into a single headquarters.\n(E) Regular exposure to new vocabulary can meaningfully __________ a young writer's style."
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "written_multi",
+      "text": "Read and complete both tasks.",
+      "context": "**Task 27.1 (2)** — Choose the word closest in meaning to the underlined word.\n\nThe negotiations reached a point of genuine _compromise_, with both sides accepting terms neither had originally wanted.\n\n① victory  ② concession  ③ betrayal  ④ postponement  ⑤ confusion\n\n**Task 27.2 (3)** — Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the more / two firms / cooperate / the more / quickly / innovation / spreads / between them)",
+      "subQuestions": [
+        {
+          "label": "27.1",
+          "placeholder": "Write the number of the closest synonym here..."
+        },
+        {
+          "label": "27.2",
+          "placeholder": "Write the complete sentence here..."
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "written_multi",
+      "text": "Read the passage and complete all three tasks below.",
+      "context": "Online reviews are often assumed to reflect the average customer's genuine experience, but ① _this assumption have proven difficult to defend once reviewing incentives are examined closely._ ② _Customers who had an unusually bad or unusually good experience leaves reviews far more often than customers whose experience was simply adequate, since an ordinary experience rarely feels worth the effort of writing about._ ③ _This means published review averages are skewed by the very customers least representative of the typical experience, while the silent majority, whose experience was merely fine, never weighs in at all._ ④ _Some platforms now prompt every customer for a rating regardless of how they felt, specifically to counteract this selection effect._ ⑤ _Early data from these platforms suggest average ratings shifts modestly upward once ordinary, non-extreme experiences are systematically included._\n\n**Task 28.1 (6)** — Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.\n\n**Task 28.2 (2)** — Using expressions from the passage only, write in English which customers are described as \"least representative of the typical experience.\"\n\n**Task 28.3 (2)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** because / extreme experiences / are / more likely / to be reviewed / than / ordinary ones / review averages / tend to be skewed",
+      "subQuestions": [
+        {
+          "label": "28.1",
+          "placeholder": "Write the three grammatical errors and corrections here..."
+        },
+        {
+          "label": "28.2",
+          "placeholder": "Write which customers are least representative here..."
+        },
+        {
+          "label": "28.3",
+          "placeholder": "Write the completed summary here..."
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "A job advertisement that lists a wide, exhaustive set of required qualifications receives measurably fewer applications from qualified female candidates than an otherwise identical advertisement listing only the qualifications that are genuinely essential, even though the actual job and its true requirements are unchanged in both versions. Surveyed applicants suggest women are more likely to interpret a long list of preferred qualifications as a strict requirement, disqualifying themselves from consideration, while men are more likely to apply despite lacking several listed items. The wording used to describe (A) _it_, rather than any change in the position itself, appears to shape who ultimately applies.\n\n**Task 29.1 (2)** — Explain in English what \"(A) it\" refers to.\n\n**Task 29.2 (3)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** how a job's requirements / are worded / can influence / who applies / even when / the actual position / remains unchanged",
+      "subQuestions": [
+        {
+          "label": "29.1",
+          "placeholder": "Write what '(A) it' refers to here..."
+        },
+        {
+          "label": "29.2",
+          "placeholder": "Write the completed summary here..."
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "Surgeons performing a long, familiar procedure report that complications are more likely to arise not during the technically demanding opening or closing stages, which naturally command full attention, but during the routine middle stretch, when the procedure has become so practised that focus quietly drifts. In one review of operating-room incident reports, a disproportionate share of avoidable errors clustered in exactly this comfortable middle segment rather than in the objectively harder stages surrounding it. The real risk, it seems, lies not in the moments that feel most difficult, but in the ones that (A) ________.\n\n**Task 30.1 (2)** — Identify TWO specific findings from the passage described, and explain them in English.\n\n**Task 30.2 (3)** — Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(feel / most / while / still / genuinely / comfortable / requiring / focus)",
+      "subQuestions": [
+        {
+          "label": "30.1",
+          "placeholder": "Write the two findings here..."
+        },
+        {
+          "label": "30.2",
+          "placeholder": "Write the completed blank (A) here..."
+        }
+      ]
+    }
+  ]
+}

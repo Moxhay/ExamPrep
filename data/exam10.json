@@ -1,0 +1,438 @@
+{
+  "id": "mock-exam-10",
+  "title": "Exam 10",
+  "description": "25 MC + 5 written · 50 min",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "text": "Which of the following is the most appropriate title for the passage?",
+      "context": "Shoppers offered twenty-four varieties of jam sampled more, and expressed more interest, than shoppers offered only six, yet the smaller assortment converted to actual purchases at several times the rate of the larger one. Faced with two dozen similar-looking jars, shoppers lingered, compared, and disproportionately often walked away empty-handed, seemingly unable to justify any single choice while so many unexamined alternatives remained on the shelf. Reduce the assortment to a manageable handful, and the same shoppers convert to buyers far more readily, apparently relieved rather than deprived by having fewer options in front of them.",
+      "options": [
+        { "id": "1", "text": "Why Larger Product Displays Always Attract More Browsers" },
+        { "id": "2", "text": "The Paradox of Choice: Why Fewer Options Can Sell More" },
+        { "id": "3", "text": "How Supermarkets Decide Which Products to Stock" },
+        { "id": "4", "text": "The History of Jam Manufacturing and Retail Display" },
+        { "id": "5", "text": "Why Shoppers Prefer Familiar Brands to New Ones" }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "A single dominant firm's early technical choice can lock an entire industry into a standard long after superior alternatives become available, simply because switching costs for every other participant now outweigh the marginal benefit of the improvement. Keyboard layouts, video formats, and file standards have all, at various points, persisted well past the point at which a superior alternative existed, not because users were unaware of the alternative but because coordinating a simultaneous switch across an entire user base proved more costly than tolerating the inferior standard indefinitely.",
+      "options": [
+        { "id": "1", "text": "why keyboard layouts are objectively superior to all proposed alternatives" },
+        { "id": "2", "text": "how an early technical standard can persist despite superior alternatives, due to switching costs" },
+        { "id": "3", "text": "the history of video format development in the twentieth century" },
+        { "id": "4", "text": "methods for designing a universally superior keyboard layout" },
+        { "id": "5", "text": "why coordinating industry-wide standards is always straightforward" }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "A single queen ant can found an entire colony from nothing, but the colony's later capacity to defend territory, gather food efficiently, and raise new reproductive ants depends almost entirely on reaching a large enough worker population first, a threshold below which the colony remains fragile regardless of the queen's own individual capabilities. Colonies that fail to cross this threshold before a harsh season or a rival colony's raid often collapse entirely, while colonies of comparable age that happened to cross it survive and continue growing. The queen's biology barely changes across this divide; what changes is the collective capacity a sufficiently large worker population makes possible.",
+      "options": [
+        { "id": "1", "text": "the reproductive biology of queen ants specifically" },
+        { "id": "2", "text": "how crossing a worker-population threshold determines a young colony's survival" },
+        { "id": "3", "text": "the total lifespan of a typical ant colony" },
+        { "id": "4", "text": "why some ant species are more aggressive than others" },
+        { "id": "5", "text": "methods used to relocate an ant colony to a new site" }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "text": "Which of the following best states the main point of the passage?",
+      "context": "A junior employee who watches a senior colleague handle a difficult client gracefully often cannot articulate afterward exactly which specific words or gestures made the interaction work, yet reliably performs noticeably better in a similar situation of their own weeks later, having absorbed something from the observation that never passed through explicit, conscious instruction at all. Skill of this kind appears to transfer partly through modelling rather than exclusively through direct explanation, suggesting that observing skilled practice, even without any accompanying commentary, carries some genuine instructional value.",
+      "options": [
+        { "id": "1", "text": "Skills can only be transferred effectively through explicit, conscious verbal instruction." },
+        { "id": "2", "text": "Observing skilled practice can transfer some genuine skill even without explicit verbal instruction." },
+        { "id": "3", "text": "Junior employees are generally unable to learn anything from observing senior colleagues." },
+        { "id": "4", "text": "Senior employees should always narrate their reasoning explicitly for junior colleagues to learn effectively." },
+        { "id": "5", "text": "Client interactions are too variable for any general skill to transfer between situations." }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "text": "How many of the statements below do NOT agree with the passage?",
+      "context": "When I started running, I assumed the way to get faster was simply to run every training session as fast as I possibly could, and I did so for the better part of a year with results that plateaued early and then quietly reversed. A coach eventually convinced me to run the overwhelming majority of my weekly mileage at a deliberately slow, conversational pace, reserving genuine hard efforts for only one or two sessions a week. I resisted this for months, convinced that slow running could not possibly be making me faster. My times improved more in the following six months of mostly slow running than they had in the entire previous year of running everything hard.\n\nStatements\n(a) The writer initially believed that running every session as fast as possible was the best way to improve.\n(b) Her results plateaued and then improved steadily during her first year of training hard.\n(c) A coach suggested running most weekly mileage at a slow, conversational pace.\n(d) The writer immediately accepted the coach's suggestion without any resistance.\n(e) Most of her hard training sessions occurred only once or twice per week under the new approach.\n(f) Her times improved more under the new approach than under her original training method.",
+      "options": [
+        { "id": "1", "text": "2" },
+        { "id": "2", "text": "3" },
+        { "id": "3", "text": "4" },
+        { "id": "4", "text": "5" },
+        { "id": "5", "text": "6" }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "text": "How many of the following words are correctly matched with their meanings?",
+      "context": "(a) individualise — to make something suited to a particular person's needs\n(b) differentiate — to fail to notice any difference between things\n(c) artistry — exceptional skill demonstrated in a creative activity\n(d) mastery — comprehensive knowledge or skill in a particular subject\n(e) immediacy — a lengthy delay between an event and its effects\n(f) presidency — the position or term of office of a president\n(g) egocentrism — a tendency to consider only one's own perspective\n(h) approximation — an exact and precisely calculated figure\n(i) domination — control or power over someone or something\n(j) dependence — the state of relying on something or someone",
+      "options": [
+        { "id": "1", "text": "4" },
+        { "id": "2", "text": "5" },
+        { "id": "3", "text": "6" },
+        { "id": "4", "text": "7" },
+        { "id": "5", "text": "8" }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "text": "Which statement does NOT agree with the two explanations given in the passage?",
+      "context": "Many desert plants store water in thick, fleshy tissue rather than relying on deep root systems alone, a strategy with two competing explanations. One explanation holds that fleshy water storage evolved primarily to survive the specific, unpredictable timing of desert rainfall, allowing a plant to draw on stored reserves through however long an unpredictable dry spell happens to last. A second, competing explanation emphasises temperature regulation: water stored near the surface acts as thermal mass, buffering the plant's internal tissue against the extreme temperature swings between scorching desert days and near-freezing desert nights.",
+      "options": [
+        { "id": "1", "text": "The first explanation attributes water storage to surviving unpredictable dry spells between rainfall." },
+        { "id": "2", "text": "The first explanation suggests stored water reserves are drawn upon during unpredictable dry periods." },
+        { "id": "3", "text": "The second explanation attributes water storage to buffering against extreme day-night temperature swings." },
+        { "id": "4", "text": "The second explanation agrees with the first that water storage evolved primarily to survive dry spells." },
+        { "id": "5", "text": "Both explanations attempt to account for the same observed water-storage strategy." }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT used appropriately in context?",
+      "options": [
+        { "id": "1", "text": "The lawyer's closing argument was structured to _exemplify_ a much broader pattern of negligence." },
+        { "id": "2", "text": "The two colleagues developed a strong sense of _companionship_ after years of working closely together." },
+        { "id": "3", "text": "The retired athlete's daily routine remains remarkably _habitual_, varying significantly from one day to the next with no fixed pattern at all." },
+        { "id": "4", "text": "The new evidence will likely _override_ the tribunal's earlier, provisional ruling." },
+        { "id": "5", "text": "The committee's decision to _disregard_ the minority report drew criticism from several members." }
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "text": "Which of the following best explains the meaning of the underlined phrase \"the paradox of skill\"?",
+      "context": "As every competitor in a sport becomes more skilled through better training and coaching, the gap in raw ability between the best and the merely very good narrows, and once that gap narrows sufficiently, small, uncontrollable factors — a lucky bounce, a gust of wind — begin determining more of the outcome than skill differences do. Analysts call this _the paradox of skill_: as a population's average skill rises, luck's share of the outcome rises alongside it, not because anyone became less skilled, but because skill stopped being the main thing separating competitors.",
+      "options": [
+        { "id": "1", "text": "luck becomes entirely irrelevant once every competitor reaches an elite skill level" },
+        { "id": "2", "text": "as overall skill in a field rises, differences in luck explain more of the outcome, not less" },
+        { "id": "3", "text": "highly skilled competitors are more prone to unlucky errors than less skilled ones" },
+        { "id": "4", "text": "increasing skill always widens the observable gap between top and average competitors" },
+        { "id": "5", "text": "luck and skill are completely unrelated factors in any competitive outcome" }
+      ]
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT appropriate in context?",
+      "context": "The concept of justice implies two things — a rule of conduct and a sentiment which ① _sanctions_ the rule. The first of these must be supposed common to all mankind; the second, the sentiment, is a natural feeling of ② _retaliation_, rendered by intellect and sympathy applicable to those injuries which wound us through, or in common with, society at large. This sentiment, in itself, has nothing ③ _moral_ in it; what is moral is the exclusive ④ _subordination_ of it to the social sympathies, so as to wait on and obey their call. If the sympathetic feeling does not respond, nothing has yet been done toward ⑤ _obstructing_ this response, and the moral element cannot be said to exist in the case at all.",
+      "options": [
+        { "id": "1", "text": "sanctions" },
+        { "id": "2", "text": "retaliation" },
+        { "id": "3", "text": "moral" },
+        { "id": "4", "text": "subordination" },
+        { "id": "5", "text": "obstructing" }
+      ]
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "text": "Which of the following questions CANNOT be answered from the passage?",
+      "context": "Pistol shrimp hunt using a specialised claw that snaps shut fast enough to create a cavitation bubble in the surrounding water; when this bubble subsequently collapses, it produces a shockwave powerful enough to stun or kill small prey without any direct physical contact between the claw and the target at all. The collapsing bubble also briefly produces light and heat momentarily rivalling temperatures found near the sun's surface, though the shrimp itself experiences none of this extreme energy directly. Researchers studying the mechanism have found the claw's snapping speed to be among the fastest documented movements in the entire animal kingdom.",
+      "options": [
+        { "id": "1", "text": "What structure does a pistol shrimp use to stun its prey?" },
+        { "id": "2", "text": "What phenomenon does the shrimp's claw create in the surrounding water?" },
+        { "id": "3", "text": "How many prey items does a typical pistol shrimp consume per day?" },
+        { "id": "4", "text": "What two things does the collapsing bubble briefly produce?" },
+        { "id": "5", "text": "How does the claw's snapping speed compare to other animal movements?" }
+      ]
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "text": "How many of the underlined parts are grammatically INCORRECT?",
+      "context": "Placebo effects are usually attributed entirely to a patient's belief in a treatment, but the evidence increasingly complicates that simple picture. ① _A pill described as expensive relieve pain more effectively than an identical pill described as cheap, despite both being chemically inert._ ② _Injections, more invasive than pills, is generally perceived as more powerful still, independent of the injected substance's actual pharmacological content._ ③ _Even branding appears to matter: a well-known brand name attached to an inert pill outperforms an unbranded, chemically identical version in controlled trials._ ④ _Researchers now describe placebo response as a genuine physiological phenomenon rather than a simple failure of trial design._ ⑤ _The nocebo effect, in which negative expectations produce measurably worse outcomes, appears to operate through a broadly similar underlying mechanism._",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "text": "Which underlined part is grammatically incorrect?",
+      "context": "The Dunning-Kruger effect ① _describes_ a pattern in which people with limited competence in a skill tend to rate their own ability more highly than their actual performance warrants. Researchers ② _have found_ that the specific skills required to perform a task well often overlap with the skills required to judge that performance accurately. A person who cannot yet identify a well-reasoned argument, for instance, ③ _struggle_ to notice that their own argument is not well-reasoned either. Genuine experts, by contrast, often ④ _underestimate_ their relative standing, correctly perceiving a task's difficulty but wrongly assuming it feels equally difficult to everyone else. Awareness of the effect ⑤ _does not, by itself, reliably improve_ a person's self-assessment.",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "text": "Among the dictionary definitions below, how many describe words that do NOT appear in the passage? (Ignore singular/plural forms, voice, and tense.)",
+      "context": "Wine critics rating the same bottle blind, without knowing its price or label, show measurably lower agreement with each other than critics rating the identical bottle with full label information visible, suggesting that shared contextual expectations, not shared underlying sensory experience alone, drive much of the apparent consensus in professional wine criticism. Some researchers now argue that expert consensus in fields relying on subjective judgement should be interpreted cautiously whenever the experts involved were not genuinely blinded to information capable of shaping their independent assessment.\n\nDefinitions\n(a) done or evaluated without knowledge of identifying information\n(b) general agreement among a group about a particular matter\n(c) the surrounding circumstances relevant to understanding something\n(d) to shape or influence the form or nature of something\n(e) careful and cautious, avoiding unnecessary risk\n(f) to postpone a decision until further evidence is available\n(g) a formal request submitted for official approval\n(h) money paid regularly to support a cause or organisation",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "text": "Which sentence best fits the blank?",
+      "context": "Parkinson's law of triviality holds that organisations often spend disproportionate time debating minor, easily understood matters while giving comparatively little scrutiny to genuinely major, complex decisions. A committee might spend an hour debating the colour of a new bicycle shed while approving a multi-million-pound infrastructure budget in minutes, precisely because ________. The complexity that makes a decision important is often the very same complexity that makes it resistant to easy, confident debate by a general committee.",
+      "options": [
+        { "id": "1", "text": "everyone present feels equally qualified to have a confident opinion about something as simple as paint colour" },
+        { "id": "2", "text": "the infrastructure budget is objectively less important than the appearance of a bicycle shed" },
+        { "id": "3", "text": "committees always allocate time in exact proportion to a decision's genuine importance" },
+        { "id": "4", "text": "complex financial decisions are inherently easier to discuss than simple visual ones" },
+        { "id": "5", "text": "genuine expertise is required to have any opinion at all about paint colour" }
+      ]
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "text": "Which sentence does NOT fit the overall flow of the passage?",
+      "context": "Emperor penguins huddle together in tight, shifting formations throughout the Antarctic winter, a behaviour essential to surviving temperatures that would kill an isolated individual within hours. ① Individual penguins at the freezing outer edge of the huddle periodically rotate toward the warmer centre, while penguins that have warmed sufficiently move back out toward the edge. ② This constant, coordinated rotation ensures that no single bird bears the full cost of the coldest position for too long, spreading the burden across the entire group over time. ③ Emperor penguins are the only penguin species that breeds during the Antarctic winter rather than the milder summer months. ④ Thermal imaging studies show the huddle's outer surface temperature remains dramatically colder than its core, despite the constant rotation redistributing individual birds between the two zones. ⑤ No central signal appears to coordinate the rotation; it emerges instead from each individual bird's own local response to how cold or warm it currently feels.",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "text": "Which words best complete blanks (A) and (B)?",
+      "context": "Veteran air traffic controllers scanning a radar screen report noticing a developing conflict between two aircraft's flight paths well before they can articulate exactly which specific data points alerted them. Researchers studying this pattern attribute the speed to (A). Years spent scanning radar screens have trained a controller's visual system to flag statistically unusual configurations automatically, well before slow, deliberate analysis of each aircraft's individual data would begin. A trainee, lacking this accumulated library of prior scans, (B), checking each aircraft's data systematically rather than being drawn immediately to the specific pair that matters.",
+      "options": [
+        { "id": "1", "text": "(A) a lucky guess unrelated to any prior radar-screen experience\n(B) instantly matches a veteran's speed without any training at all" },
+        { "id": "2", "text": "(A) rapid, unconscious pattern recognition built from extensive prior scanning experience\n(B) must instead work through each aircraft's data deliberately and in sequence" },
+        { "id": "3", "text": "(A) a physical reflex entirely unrelated to visual processing\n(B) becomes anxious and unable to examine the radar screen at all" },
+        { "id": "4", "text": "(A) a skill entirely unrelated to how many radar screens have previously been scanned\n(B) outperforms the veteran controller specifically due to a fresh perspective" },
+        { "id": "5", "text": "(A) a form of luck that varies with the controller's mood that day\n(B) performs identically to the veteran regardless of experience" }
+      ]
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "text": "How many of the words below CANNOT fit into any of the blanks (A), (B), (C), or (D)? (More than one word may fit each blank.)",
+      "context": "Habits formed in a stable, unchanging environment tend to (A) ________ automatically once the familiar surrounding cues reappear, which is why a habit resists change far more effectively through altering the environment than through willpower directed at the habit itself. A person trying to eliminate a habitual behaviour therefore often finds it more effective to (B) ________ the environmental cue entirely than to rely on conscious resistance in the cue's continued presence. Habits transplanted into a genuinely new environment, lacking their original triggering cues, frequently (C) ________ substantially weaker, sometimes failing to reassert themselves at all without deliberate effort to rebuild them. This suggests that a habit's apparent strength is partly (D) ________ on the stability of the environment surrounding it, rather than being a fixed property of the habit itself.\n\nWord box: trigger / remove / emerge / contingent / conditional / eliminate / strengthen / weaken / persist / independent / vivid / decorated",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Crucially, none of the participants could explain why they found the familiar option more appealing when asked directly.",
+      "context": "In one classic study, participants were repeatedly shown a series of abstract geometric shapes, some appearing many times across the session and others appearing only once. ( ① ) Afterward, asked simply to rate how much they liked each shape, participants consistently rated the frequently shown shapes more favourably than those seen only once. ( ② ) This preference held even though participants could not reliably identify which shapes had actually appeared more often. ( ③ ) Researchers call this the mere-exposure effect, noting that it operates below the threshold of conscious recognition rather than through deliberate reasoning about familiarity. ( ④ ) The effect has since been documented across music, faces, and even the individual letters that make up a person's own name. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] This suggests the brain treats a smell less like a retrievable fact and more like a scene being relived in its original context.",
+      "context": "Of all the senses, smell has an unusually direct route to memory and emotion. ( ① ) The olfactory bulb sits only a few synapses from the amygdala and hippocampus, the brain's centres for emotion and memory respectively, a notably shorter anatomical path than any other sense takes. ( ② ) Yet anatomy alone does not fully explain why a specific scent, encountered unexpectedly decades later, can summon a memory complete with its original emotional intensity, all at once and without conscious effort. ( ③ ) This is why the identical perfume can feel neutral to one person and overwhelming to another, entirely depending on the specific afternoon, room, and person it happened to become attached to the first time it was inhaled. ( ④ ) No deliberate effort was required to form that original association, and none is readily available to dissolve it afterward. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate order for the paragraphs following the given passage.\n\nA river's floodplain performs an ecological function that engineered flood barriers cannot easily replicate.\n\n(A) Development that fills in floodplains for housing or agriculture removes this natural buffer, forcing flood defence entirely onto engineered barriers that must now absorb the full force of a flood the floodplain would once have quietly dispersed.\n(B) During periods of high flow, a floodplain allows a river to spread laterally across a wide, shallow area rather than remaining confined to a single, deepening, fast-moving channel.\n(C) This lateral spreading slows the water's velocity considerably and allows sediment to settle out across the floodplain rather than being carried downstream to accumulate somewhere else entirely.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate order for the paragraphs following the given passage.\n\nLichens are, in fact, two entirely different organisms functioning so closely together that they were long mistaken for a single species.\n\n(A) The fungal partner provides structure and protection, absorbing moisture and minerals from the surrounding surface, while the algal or bacterial partner photosynthesises, producing sugars that feed them both.\n(B) Neither partner, isolated from the other, can survive for long in the harsh, exposed environments lichens typically colonise, from bare rock faces to tree bark.\n(C) This tight mutual dependency is precisely why lichens can colonise environments too extreme for most standalone plants or fungi to survive in on their own.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?\n\nPsychologists distinguish between fluid intelligence, the capacity to reason and solve genuinely novel problems, and crystallised intelligence, the accumulated knowledge and skills built up over a lifetime.\n\n① Fluid intelligence tends to peak relatively early in adulthood and gradually decline from there, reflecting the raw processing speed and working-memory capacity it depends on.\n② Crystallised intelligence, by contrast, tends to hold steady or even continue increasing well into later life, since accumulated knowledge does not require the same raw processing speed to draw upon.\n③ This produces a genuine trade-off across a working life: a younger worker may solve an unfamiliar problem faster, while an older worker may recognise a familiar pattern in it instantly from accumulated experience.\n④ Neither form of intelligence is simply superior to the other; each proves more valuable depending on whether a task is genuinely novel or draws on extensive accumulated experience.\n⑤ Organisations that pair younger and older workers deliberately can draw on both forms of intelligence simultaneously, rather than favouring one age group's cognitive profile over the other.",
+      "options": [
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
+      ]
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).\n\nTold that a stranger's unkind behaviour reflects a permanent, fixed personality trait, observers judge that behaviour more harshly than when told the identical behaviour resulted from a temporary, situational pressure, such as an unusually stressful day. This asymmetry reverses when people explain their own unkind behaviour, which they far more readily attribute to situational pressure than to a fixed trait of their own character. Psychologists call this the fundamental attribution error: a tendency to over-attribute others' behaviour to fixed character while over-attributing our own identical behaviour to circumstance.\n\nPeople tend to attribute a stranger's negative behaviour to (A) ________ traits, while attributing their own identical behaviour to (B) ________ circumstances.",
+      "options": [
+        { "id": "1", "text": "(A) fixed personality (B) temporary, situational" },
+        { "id": "2", "text": "(A) temporary, situational (B) fixed personality" },
+        { "id": "3", "text": "(A) fixed personality (B) equally fixed personality" },
+        { "id": "4", "text": "(A) random (B) equally random" },
+        { "id": "5", "text": "(A) temporary, situational (B) equally temporary, situational" }
+      ]
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).\n\nJob candidates who send a brief, personalised thank-you note after an interview are rated more favourably by interviewers in follow-up evaluations than equally qualified candidates who send no note at all, even when the note itself contains no new information relevant to the candidate's actual qualifications. Researchers attribute the effect partly to a broader halo effect: a single positive, thoughtful gesture subtly colours an evaluator's overall impression of the candidate's competence, well beyond what the gesture itself could logically justify.\n\nA single positive gesture, such as a thank-you note, can (A) ________ an evaluator's overall impression of a candidate, extending (B) ________ what the gesture itself logically justifies.",
+      "options": [
+        { "id": "1", "text": "(A) subtly improve (B) beyond" },
+        { "id": "2", "text": "(A) subtly worsen (B) beyond" },
+        { "id": "3", "text": "(A) subtly improve (B) no further than" },
+        { "id": "4", "text": "(A) leave unchanged (B) beyond" },
+        { "id": "5", "text": "(A) subtly improve (B) exactly to" }
+      ]
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "fill_blank",
+      "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
+      "context": "Word Box: exemplify · override · disregard · individualise · differentiate\n\n(A) The judge's ruling will ________ the lower court's earlier decision entirely.\n(B) The tutoring programme was redesigned to ________ each lesson to the specific student's needs.\n(C) Critics accused the panel of choosing to ________ the minority report altogether.\n(D) The case is often cited to ________ a much broader pattern seen across the industry.\n(E) The training helps new staff learn to ________ between genuinely urgent requests and routine ones."
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "written_multi",
+      "text": "Read and complete both tasks.",
+      "subQuestions": [
+        {
+          "label": "27.1 (2)",
+          "text": "Choose the word closest in meaning to the underlined word.\n\nThe spokesperson's account of the incident was widely regarded as a considerable _distortion_ of what actually occurred.\n\n① exaggeration  ② summary  ③ translation  ④ confirmation  ⑤ postponement",
+          "placeholder": "Write the number of the correct option."
+        },
+        {
+          "label": "27.2 (3)",
+          "text": "Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the more / an environment / is changed / the more / difficult / an old habit / becomes)",
+          "placeholder": "Write the complete sentence here."
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "written_multi",
+      "text": "Read the passage and complete all three tasks below.",
+      "context": "Job interviews are widely assumed to help employers select the strongest candidate, but ① _this assumption have proven difficult to defend once hiring outcomes are studied systematically._ ② _Structured interviews, in which every candidate answers identical, pre-planned questions scored against a fixed rubric, predicts subsequent job performance considerably better than unstructured, conversational interviews do._ ③ _The likely explanation is that unstructured interviews allow an interviewer's early, often superficial impression to shape which questions get asked and how ambiguous answers get interpreted._ ④ _Structured formats remove much of this discretion, requiring every candidate to be evaluated against the same fixed criteria regardless of the interviewer's initial impression._ ⑤ _Despite this evidence, most companies, several researchers notes, continue to rely primarily on unstructured, conversational interviews._",
+      "subQuestions": [
+        {
+          "label": "28.1 (6)",
+          "text": "Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.",
+          "placeholder": "Error 1: __ → __\nError 2: __ → __\nError 3: __ → __"
+        },
+        {
+          "label": "28.2 (2)",
+          "text": "Using expressions from the passage only, write in English what allows \"an interviewer's early, often superficial impression\" to distort an unstructured interview.",
+          "placeholder": "Write your answer here."
+        },
+        {
+          "label": "28.3 (2)",
+          "text": "Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\nWord box: because / structured interviews / predict / job performance / better than / unstructured ones / remove discretion / do, since / they\n\n→ ___________________________________________________.",
+          "placeholder": "Write the complete sentence here."
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "A crowdfunding campaign that displays a specific, ambitious funding goal receives more total contributions than an identical campaign displaying a lower, more easily achievable goal, even among backers who say a project's actual merit, not its stated target, is what genuinely persuades them to contribute. The number used to frame (A) _it_, specifically how ambitious the stated goal appears, seems to shape perceived worthiness independently of backers' own claimed reasoning.",
+      "subQuestions": [
+        {
+          "label": "29.1 (2)",
+          "text": "Explain in English what \"(A) it\" refers to.",
+          "placeholder": "Write your answer here."
+        },
+        {
+          "label": "29.2 (3)",
+          "text": "Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\nWord box: even though / how a goal is framed / can shape / backers say / perceived worthiness / a project's actual merit / persuades them\n\n→ ___________________________________________________.",
+          "placeholder": "Write the complete sentence here."
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "Assembly-line inspectors report that defects most often slip through not during visibly complex assembly stages, which naturally command careful attention, but during long, repetitive stretches of straightforward, familiar work, where vigilance is hardest to sustain deliberately over time. In one review of quality-control data, a disproportionate share of missed defects occurred during exactly these repetitive, low-complexity stretches rather than during the objectively more demanding stages surrounding them. The real risk, it seems, lies not in the moments that feel most difficult, but in the ones that (A) ________.",
+      "subQuestions": [
+        {
+          "label": "30.1 (2)",
+          "text": "Identify TWO specific findings from the passage described, and explain them in English.",
+          "placeholder": "Finding 1:\nFinding 2:"
+        },
+        {
+          "label": "30.2 (3)",
+          "text": "Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(feel / most / while / still / genuinely / routine / requiring / vigilance)\n\n→ The real risk lies not in the moments that feel most difficult, but in the ones that (A) ________.",
+          "placeholder": "Write the completed phrase for blank (A) here."
+        }
+      ]
+    }
+  ]
+}

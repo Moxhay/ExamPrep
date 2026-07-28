@@ -1,0 +1,438 @@
+{
+  "id": "mock-exam-9",
+  "title": "Exam 9",
+  "description": "25 MC + 5 written · 50 min",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "text": "Which of the following is the most appropriate title for the passage?",
+      "context": "Told that a wristband is a genuine antique from a famous historical figure, people report it as more meaningful and are willing to pay considerably more for it than for an identical wristband described as a modern reproduction, even when no physical test could ever distinguish the two objects apart. The object itself has not changed in any measurable way; what has changed is its perceived causal history, its connection to a particular chain of past events. Philosophers call this an object's essentialist value: worth derived not from physical properties but from an invisible, believed-in history behind the object.",
+      "options": [
+        { "id": "1", "text": "Why Antiques Are Always More Valuable Than Reproductions" },
+        { "id": "2", "text": "Essentialist Value: Why an Object's Believed History Matters More Than Its Properties" },
+        { "id": "3", "text": "How Physical Tests Can Distinguish Genuine Antiques From Reproductions" },
+        { "id": "4", "text": "The Psychology of Wristband Collecting" },
+        { "id": "5", "text": "Why Modern Reproductions Are Indistinguishable From Originals" }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "A single degraded copy of a photograph, repeatedly recopied across generations with each copy made from the previous copy rather than the original, accumulates visible degradation far faster than a single copy made directly from a well-preserved original would. Digital information faces an analogous risk from format obsolescence rather than physical degradation: a file saved in a format no current software can open is, for practical purposes, as lost as data on a decayed physical medium, regardless of how perfectly the underlying bits themselves have been preserved. Archivists therefore treat active format migration, not simply storage, as essential to genuine long-term preservation.",
+      "options": [
+        { "id": "1", "text": "why photographs degrade more quickly than digital files" },
+        { "id": "2", "text": "how format obsolescence threatens digital preservation as seriously as physical decay threatens photographs" },
+        { "id": "3", "text": "techniques for repairing a degraded photographic copy" },
+        { "id": "4", "text": "the total storage capacity required for archiving digital files" },
+        { "id": "5", "text": "why archivists prefer physical media over digital storage" }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate topic of the passage.",
+      "context": "Termite mounds, some rising several metres above the surrounding savannah, maintain remarkably stable internal temperatures and humidity despite extreme swings in outside conditions, achieved entirely through the mound's passive architecture rather than any active climate control by the termites themselves. A network of internal chimneys and tunnels drives continuous air circulation, drawing warm, stale air upward and out while pulling cooler air in near the base, powered by nothing more than temperature differences between the mound's interior and the surrounding air. Architects studying the design have adapted similar passive-ventilation principles for buildings that maintain comfortable temperatures using drastically less energy than conventional air conditioning requires.",
+      "options": [
+        { "id": "1", "text": "the total height that termite mounds can reach" },
+        { "id": "2", "text": "how a termite mound's passive architecture regulates temperature without active climate control" },
+        { "id": "3", "text": "the diet and foraging behaviour of termite colonies" },
+        { "id": "4", "text": "why savannah temperatures fluctuate more than other climates" },
+        { "id": "5", "text": "methods architects use to demolish outdated buildings" }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "text": "Which of the following best states the main point of the passage?",
+      "context": "A translator working between two languages with fundamentally different grammatical structures for describing time and causation often finds that certain thoughts, easily expressed in one language, resist natural expression in the other without extensive rephrasing, not because the target language lacks the vocabulary but because its grammar simply does not carve up events the same way. This has led some researchers to argue that the language a person habitually thinks in may subtly shape which distinctions feel natural to draw at all, without making any distinction literally impossible to express with enough effort.",
+      "options": [
+        { "id": "1", "text": "Some languages are objectively more sophisticated than others at describing time and causation." },
+        { "id": "2", "text": "The grammar of a person's habitual language may subtly shape which distinctions feel natural, without making other distinctions impossible." },
+        { "id": "3", "text": "Translators should avoid working between languages with different grammatical structures." },
+        { "id": "4", "text": "Certain thoughts are permanently impossible to express in some languages, regardless of effort." },
+        { "id": "5", "text": "Vocabulary differences, not grammar, are the primary source of translation difficulty." }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "text": "How many of the statements below do NOT agree with the passage?",
+      "context": "For most of my twenties, I treated every piece of critical feedback on my writing as evidence I should quit, and would avoid showing anyone a draft until it felt completely finished, by which point revising it felt like undoing all the work I had already done. An editor I worked with briefly gave me one piece of advice that actually changed things: share a draft you know is unfinished and rough, specifically so that feedback arrives while revision still feels natural rather than like demolition. I still find early feedback uncomfortable to receive. What changed is that I now share drafts roughly three times earlier in the process than I used to, and the discomfort no longer stops me from doing it.\n\nStatements\n(a) The writer used to treat critical feedback as a signal that she should quit writing.\n(b) She used to wait until a draft felt completely finished before sharing it.\n(c) The editor advised sharing a draft only once it felt entirely polished.\n(d) She no longer finds early feedback uncomfortable to receive.\n(e) She now shares drafts earlier in her process than she previously did.\n(f) The discomfort of early feedback no longer prevents her from sharing drafts.",
+      "options": [
+        { "id": "1", "text": "2" },
+        { "id": "2", "text": "3" },
+        { "id": "3", "text": "4" },
+        { "id": "4", "text": "5" },
+        { "id": "5", "text": "6" }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "text": "How many of the following words are correctly matched with their meanings?",
+      "context": "(a) degrade — to reduce something to a lower quality or condition\n(b) aggressive — markedly calm and unwilling to confront others\n(c) progressive — developing or advancing gradually, by stages\n(d) intermittent — occurring continuously without any interruption\n(e) dismiss — to send away or reject something\n(f) infer — to reach a conclusion based on evidence and reasoning\n(g) recur — to happen again after a period of time\n(h) impede — to help something proceed more quickly and smoothly\n(i) venture — a risky or uncertain undertaking\n(j) intervene — to become involved in a situation to change its outcome",
+      "options": [
+        { "id": "1", "text": "4" },
+        { "id": "2", "text": "5" },
+        { "id": "3", "text": "6" },
+        { "id": "4", "text": "7" },
+        { "id": "5", "text": "8" }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "text": "Which statement does NOT agree with the two explanations given in the passage?",
+      "context": "Salmon return, after years spent at sea, to spawn in the specific freshwater stream where they themselves hatched, navigating hundreds of kilometres of open ocean to find it. One explanation holds that salmon imprint on their home stream's distinctive chemical signature as juveniles, before migrating to sea, and recognise this signature again upon returning, using it to guide the final stages of the journey. A second, competing explanation emphasises magnetic sensitivity: salmon may register the specific geomagnetic signature of their home stream's location and navigate toward that magnetic coordinate across the open ocean, well before any chemical cue could possibly be detected.",
+      "options": [
+        { "id": "1", "text": "The first explanation attributes stream recognition to a chemical signature imprinted during the juvenile stage." },
+        { "id": "2", "text": "The first explanation suggests salmon recognise the chemical cue only upon returning to fresh water." },
+        { "id": "3", "text": "The second explanation attributes long-distance ocean navigation to sensitivity to geomagnetic signatures." },
+        { "id": "4", "text": "The second explanation agrees with the first that chemical imprinting guides navigation across the entire ocean journey." },
+        { "id": "5", "text": "Both explanations attempt to account for the same observed homing behaviour." }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT used appropriately in context?",
+      "options": [
+        { "id": "1", "text": "The negotiations grew unexpectedly _aggressive_ once the final deadline passed." },
+        { "id": "2", "text": "The committee's approval will _precede_ the official launch of the new programme by several weeks." },
+        { "id": "3", "text": "Doctors advised the patient to _dismiss_ her prescribed medication carefully, following the schedule exactly as written." },
+        { "id": "4", "text": "The symptoms were _intermittent_, appearing for a day or two and then vanishing entirely for weeks at a time." },
+        { "id": "5", "text": "Two independent research teams reached the same conclusion, a striking _concurrence_ given that neither was aware of the other's work." }
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "text": "Which of the following best explains the meaning of the underlined phrase \"the illusion of explanatory depth\"?",
+      "context": "Asked to rate how well they understand how a bicycle's gears work, most people respond confidently, but when subsequently asked to actually explain the mechanism step by step, their confidence collapses almost immediately, and the explanation they produce is noticeably thinner than their initial rating suggested. Researchers call this _the illusion of explanatory depth_: a sense of understanding borrowed from having seen a mechanism function reliably many times, mistaken for genuine comprehension of why it functions at all.",
+      "options": [
+        { "id": "1", "text": "a genuine, deep understanding of mechanical systems that most people already possess" },
+        { "id": "2", "text": "a false sense of understanding that collapses once a person is asked to actually explain the mechanism" },
+        { "id": "3", "text": "a preference for simple mechanisms over genuinely complex ones" },
+        { "id": "4", "text": "the fact that bicycles are more mechanically complex than most people realise" },
+        { "id": "5", "text": "a bias that only affects people with no mechanical experience whatsoever" }
+      ]
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "text": "Which underlined word is NOT appropriate in context?",
+      "context": "Whatever is at all discoverable, men before us have discovered. There is a limit to the possible growth of prudence; and after a certain period, no sage retains any ① _material_ advantage over his fellows. Every wise man's son knows that ② _persistent_ inquiry into first causes will lead him where no one has yet arrived. It is one of the beautiful compensations of this life that no one can sincerely try to ③ _hinder_ another without helping himself. Men do what is called a good business when they find that a little more labour bestowed on their ordinary occupation ④ _yields_ a greater return than before. There is a deep ⑤ _suspicion_ in the popular mind that the intellect is inversely as the strength of the back.",
+      "options": [
+        { "id": "1", "text": "material" },
+        { "id": "2", "text": "persistent" },
+        { "id": "3", "text": "hinder" },
+        { "id": "4", "text": "yields" },
+        { "id": "5", "text": "suspicion" }
+      ]
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "text": "Which of the following questions CANNOT be answered from the passage?",
+      "context": "Cuttlefish can alter both the colour and texture of their skin within a fraction of a second, using specialised pigment cells called chromatophores that expand and contract under direct neural control, entirely bypassing the slower hormonal pathways most other camouflaging animals rely on. Remarkably, cuttlefish themselves are colour-blind, which has led researchers to a competing hypothesis: photoreceptor cells embedded directly in the skin may allow the animal to sense light and colour information without routing it through the eyes at all, though this remains only partly confirmed. A startled cuttlefish can also rapidly raise small skin projections called papillae to mimic the rough texture of coral or rock.",
+      "options": [
+        { "id": "1", "text": "What structures allow a cuttlefish to change its skin colour so quickly?" },
+        { "id": "2", "text": "Is the mechanism behind cuttlefish colour-matching fully confirmed by researchers?" },
+        { "id": "3", "text": "How many distinct skin colours can a cuttlefish produce simultaneously?" },
+        { "id": "4", "text": "What is one hypothesis for how a colour-blind cuttlefish detects colour information?" },
+        { "id": "5", "text": "What additional change can a startled cuttlefish make to its skin besides colour?" }
+      ]
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "text": "How many of the underlined parts are grammatically INCORRECT?",
+      "context": "The sunk cost fallacy describes a pattern in which people continue investing in a failing course of action because of resources already spent, rather than resources likely to be gained going forward. ① _A company that has spent heavily on a failing product line often continue funding it well past the point a fresh evaluation would recommend._ ② _Behavioural economists attribute this partly to a reluctance to publicly acknowledge that prior spending was, in effect, wasted._ ③ _The same pattern extend to personal decisions, such as finishing a boring book solely because of the hours already invested in it._ ④ _Rationally, only future costs and benefits should influence a decision going forward, regardless of what has already been spent._ ⑤ _Recognising the fallacy explicitly, some evidence suggests, modestly improves people's ability to resist it in subsequent decisions._",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "text": "Which underlined part is grammatically incorrect?",
+      "context": "The availability heuristic ① _describes_ a tendency to judge the likelihood of an event by how easily examples of it come to mind, rather than by its actual statistical frequency. Vivid, heavily reported events such as plane crashes ② _are recalled_ far more easily than statistically more common but less dramatic risks, such as routine car accidents. This mismatch between vividness and actual frequency ③ _lead_ people to systematically overestimate rare, dramatic risks while underestimating common, mundane ones. Insurance purchasing patterns ④ _reflect_ this bias clearly, with sales of disaster coverage spiking noticeably after a widely reported disaster elsewhere. Awareness of the heuristic ⑤ _does not reliably eliminate_ its influence on judgement.",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "text": "Among the dictionary definitions below, how many describe words that do NOT appear in the passage? (Ignore singular/plural forms, voice, and tense.)",
+      "context": "Auction houses selling a painting of uncertain attribution typically commission a technical analysis examining pigment composition, canvas weave, and brushstroke patterns before publishing a formal opinion on authorship, since a mistaken attribution can expose the house to significant financial and reputational liability. Even with this precaution, expert opinion on attribution can shift substantially as analytical techniques improve, and a painting confidently attributed to a master's own hand in one decade is sometimes reclassified as the work of a skilled student or workshop assistant in the next, without any change to the physical object itself.\n\nDefinitions\n(a) the act of identifying who created a particular work\n(b) legal responsibility for loss or damage\n(c) to formally place someone in a different category than before\n(d) a repeated pattern that recurs at intervals\n(e) careful preparation made in advance to prevent a problem\n(f) to reduce something to a smaller or lower amount\n(g) money paid regularly to support a cause or organisation\n(h) a formal request submitted for official permission",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "text": "Which sentence best fits the blank?",
+      "context": "Goodhart's law is often summarised as: when a measure becomes a target, it ceases to be a good measure. A school system that begins rewarding teachers based purely on students' standardised test scores may see those scores rise steadily, yet find that broader educational quality has not improved to match, because ________. Teachers rationally begin optimising specifically for whatever the test measures, at the expense of everything valuable the test was originally only a rough proxy for.",
+      "options": [
+        { "id": "1", "text": "the test scores and broader educational quality always move in perfect alignment with one another" },
+        { "id": "2", "text": "the measure itself becomes the object of direct optimisation, diverging from the broader goal it was meant to represent" },
+        { "id": "3", "text": "standardised tests are inherently more reliable than any other method of measuring educational quality" },
+        { "id": "4", "text": "teachers are incapable of improving their students' performance under any incentive structure" },
+        { "id": "5", "text": "rewarding teachers based on test scores has no effect on their behaviour whatsoever" }
+      ]
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "text": "Which sentence does NOT fit the overall flow of the passage?",
+      "context": "Slime moulds, single-celled organisms with no brain or nervous system whatsoever, can solve surprisingly sophisticated spatial problems, such as finding the shortest path through a maze toward a food source. ① Researchers placed oat flakes at locations corresponding to major cities on a map and allowed a slime mould to grow between them inside a miniature replica of the surrounding terrain. ② The resulting network of the mould's tendrils closely resembled the actual layout of an existing regional rail network, built by human engineers over decades. ③ Slime moulds reproduce through spores that can remain dormant for years under unfavourable conditions. ④ The mould appears to solve the problem through a simple, local process of reinforcing efficient connections and withdrawing from inefficient ones, with no central planning of any kind. ⑤ This suggests that sophisticated network optimisation does not necessarily require anything resembling a brain to emerge.",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "text": "Which words best complete blanks (A) and (B)?",
+      "context": "Grandmasters shown a chessboard mid-game for a few seconds can reconstruct nearly the entire position from memory, yet shown the same pieces scattered randomly, with no relation to any plausible game, their recall drops to roughly a beginner's level. The difference reflects (A). Years of study have built a grandmaster's memory around recurring configurations of pieces rather than each piece as an individually memorised item, so a realistic position is recognised as a small number of familiar patterns rather than thirty-two separate facts. A random arrangement, containing no such recognisable patterns, (B), exactly as it would for any novice encountering thirty-two unrelated pieces of information at once.",
+      "options": [
+        { "id": "1", "text": "(A) a superior raw visual memory that grandmasters are simply born with\n(B) is recalled with unusual and effortless precision by a grandmaster" },
+        { "id": "2", "text": "(A) recurring patterns recognised through extensive practice, not raw memory capacity\n(B) must be memorised piece by piece, offering no shortcut even to a grandmaster" },
+        { "id": "3", "text": "(A) a talent entirely unrelated to how many games have previously been studied\n(B) is discarded entirely by the grandmaster's memory as irrelevant" },
+        { "id": "4", "text": "(A) a physical rather than cognitive skill, unrelated to visual processing\n(B) becomes easier to memorise the longer the grandmaster studies it" },
+        { "id": "5", "text": "(A) a skill that depends more on mood than on accumulated practice\n(B) triggers the same response as a real, meaningful position would" }
+      ]
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "text": "How many of the words below CANNOT fit into any of the blanks (A), (B), (C), or (D)? (More than one word may fit each blank.)",
+      "context": "Meetings held standing up, researchers have found, tend to (A) ________ noticeably shorter than the identical agenda handled while seated, without any measurable (B) ________ in the quality of decisions reached. The physical discomfort of prolonged standing appears to (C) ________ participants toward reaching a workable conclusion more quickly, rather than allowing discussion to expand indefinitely simply because a comfortable chair removes any incentive to conclude. Critics note the effect may not (D) ________ to meetings requiring extended, detailed technical discussion, where genuine complexity, not mere comfort, is the actual reason for a meeting's length.\n\nWord box: run / decline / prompt / extend / drop / motivate / generalise / worsen / improvement / apply / lengthen / deteriorate",
+      "options": [
+        { "id": "1", "text": "1" },
+        { "id": "2", "text": "2" },
+        { "id": "3", "text": "3" },
+        { "id": "4", "text": "4" },
+        { "id": "5", "text": "5" }
+      ]
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Crucially, the effect appears even when participants are explicitly told in advance that the price is randomly assigned and bears no relation to quality.",
+      "context": "Participants asked to taste and rate an identical wine sample rate it more favourably when told it costs ninety dollars than when told the same wine costs ten dollars. ( ① ) Brain imaging conducted during tasting shows measurably greater activity in pleasure-related regions for the \"expensive\" sample, not merely a difference in the rating participants later report. ( ② ) This suggests the price is altering the actual sensory experience itself, not simply biasing participants' willingness to admit disliking an \"expensive\" product. ( ③ ) Researchers describe price, in this context, as functioning like an active ingredient in the tasting experience rather than mere external information about the product. ( ④ ) The finding complicates any simple assumption that people's stated preferences straightforwardly reflect an underlying, price-independent sensory reality. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Only later, once enough investors had lost enough money, did the practice fall out of favour almost entirely.",
+      "context": "In the years leading up to a major market downturn, financial commentators frequently described a \"new era\" of permanently higher valuations, arguing that traditional measures of a company's worth no longer applied to a transformed economy. ( ① ) Such claims tend to recur, in slightly different language, before nearly every major speculative bubble in recorded financial history. ( ② ) Investors who might otherwise have been cautious found the \"this time is different\" argument persuasive precisely because each specific version was tailored to that era's genuinely novel circumstances. ( ③ ) Skeptical voices warning that valuations remained fundamentally tethered to ordinary economic principles were routinely dismissed as failing to understand the new landscape. ( ④ ) The pattern's persistence across otherwise very different historical episodes suggests something structural about how bubbles are rationalised while they are still inflating. ( ⑤ )",
+      "options": [
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
+      ]
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate order for the paragraphs following the given passage.\n\nA public library's decision to eliminate all late fees illustrates how removing a measurable penalty can improve the very behaviour the penalty was meant to enforce.\n\n(A) Return rates, measured by the percentage of borrowed items eventually returned at all, actually improved slightly after fees were removed, since patrons no longer avoided the library altogether once a fine had accumulated past what they felt able to pay.\n(B) Librarians had long assumed late fees were necessary to encourage timely returns, and worried that eliminating them entirely would result in significantly more books never being returned at all.\n(C) The library's experience suggests the fee had been discouraging embarrassed patrons from returning items and reengaging with the library at all, a cost the original fee structure never accounted for.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "text": "Choose the most appropriate order for the paragraphs following the given passage.\n\nA wetland positioned between farmland and a river performs a filtering function that would otherwise require expensive engineered infrastructure.\n\n(A) Excess nitrogen and phosphorus from agricultural runoff are absorbed and processed by wetland plants and soil microbes before the water ever reaches the river's main channel.\n(B) Removing a wetland to expand farmland, therefore, does not merely eliminate habitat; it removes a filtering function whose engineered replacement can cost far more than the value of the reclaimed land.\n(C) Without this filtering step, the same nutrients would flow directly into the river, feeding the kind of algal blooms that starve river ecosystems of oxygen downstream.",
+      "options": [
+        { "id": "1", "text": "(A)-(B)-(C)" },
+        { "id": "2", "text": "(A)-(C)-(B)" },
+        { "id": "3", "text": "(B)-(A)-(C)" },
+        { "id": "4", "text": "(B)-(C)-(A)" },
+        { "id": "5", "text": "(C)-(A)-(B)" }
+      ]
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?\n\nNegotiation researchers distinguish between distributive bargaining, in which one party's gain is necessarily the other's loss, and integrative bargaining, in which both parties can gain simultaneously.\n\n① Distributive bargaining suits situations genuinely limited to a single, fixed resource being divided between two parties, such as agreeing on a single sale price for an existing object.\n② Integrative bargaining becomes possible whenever the two parties value different aspects of a deal differently, allowing trades that leave both sides better off than a simple fixed split would.\n③ A common mistake is treating every negotiation as distributive by default, searching only for a fair split rather than exploring whether trades exist that could benefit both sides.\n④ Skilled negotiators therefore begin by identifying which parts of a negotiation are genuinely fixed and which parts allow for value-creating trades before settling into a purely competitive stance.\n⑤ Treating an integrative opportunity as if it were purely distributive, in other words, can leave real, mutually beneficial value unclaimed on the table.",
+      "options": [
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
+      ]
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).\n\nEmployees told their bonus depends on \"individual performance relative to peers\" compete more aggressively, and cooperate with colleagues noticeably less, than employees told an identical bonus depends on \"meeting an absolute performance standard,\" even when the actual likelihood of receiving the bonus is calibrated to be the same under both framings. Managers designing compensation structures, researchers argue, should weigh not only how much a bonus motivates individual effort but also how its specific framing shapes cooperative behaviour among colleagues who must still work together.\n\nFraming a bonus as based on relative comparison with peers, rather than an absolute standard, can (A) ________ competition and (B) ________ cooperation among colleagues.",
+      "options": [
+        { "id": "1", "text": "(A) increase (B) reduce" },
+        { "id": "2", "text": "(A) reduce (B) increase" },
+        { "id": "3", "text": "(A) increase (B) increase" },
+        { "id": "4", "text": "(A) reduce (B) reduce" },
+        { "id": "5", "text": "(A) increase (B) have no effect on" }
+      ]
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).\n\nRestaurant patrons seated near a display kitchen, where they can watch food actually being prepared, consistently rate the same dish as tastier and rate the restaurant more favourably overall than patrons seated where no preparation is visible, even when the dish itself, down to the exact plate, is identical in both cases. Researchers attribute the effect to visible effort: watching the labour behind a dish appears to genuinely enhance its perceived value, not merely the diner's willingness to say something complimentary about it.\n\nVisible evidence of the effort behind a dish's preparation can (A) ________ how a diner actually perceives its quality, not merely (B) ________ what they are willing to say about it.",
+      "options": [
+        { "id": "1", "text": "(A) genuinely enhance (B) reflect" },
+        { "id": "2", "text": "(A) leave unchanged (B) genuinely enhance" },
+        { "id": "3", "text": "(A) genuinely enhance (B) genuinely enhance" },
+        { "id": "4", "text": "(A) leave unchanged (B) reflect" },
+        { "id": "5", "text": "(A) subtly diminish (B) reveal" }
+      ]
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "fill_blank",
+      "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
+      "context": "Word Box: precede · impede · venture · intervene · concurrent\n\n(A) Heavy fog continued to ________ the search efforts throughout the morning.\n(B) Opening the new branch was considered a risky ________ by most of the board.\n(C) A brief introduction will ________ the main presentation.\n(D) Staff were trained to ________ early if a customer dispute began to escalate.\n(E) The two research projects, though unrelated, were entirely ________, running through the same calendar year."
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "written_multi",
+      "text": "Read and complete both tasks.",
+      "subQuestions": [
+        {
+          "label": "27.1 (2)",
+          "text": "Choose the word closest in meaning to the underlined word.\n\nThe candidate's account of her qualifications was later found to have been substantially _embellished_.\n\n① understated  ② exaggerated  ③ falsified entirely  ④ translated  ⑤ shortened",
+          "placeholder": "Write the number of the correct option."
+        },
+        {
+          "label": "27.2 (3)",
+          "text": "Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the more / a procedure / is rehearsed / the more / reliable / its outcome / becomes)",
+          "placeholder": "Write the complete sentence here."
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "written_multi",
+      "text": "Read the passage and complete all three tasks below.",
+      "context": "Customer complaints are often treated by companies as a nuisance to be minimised, but ① _this attitude have become harder to justify once complaint-handling data is studied properly._ ② _Customers whose complaint is resolved quickly and generously frequently shows greater loyalty afterward than customers who never had a problem requiring resolution at all, a pattern researchers call the service recovery paradox._ ③ _The likely explanation is that a well-handled complaint provides direct, memorable evidence of a company's values in a way routine, trouble-free service never has the opportunity to demonstrate._ ④ _Companies that train staff to resolve complaints generously, rather than minimally, report measurably higher long-term customer retention than companies that treat complaints as costs to be minimised._ ⑤ _This suggests that a complaint, handled well, several researchers now argues, can become a genuine loyalty-building opportunity rather than simply a cost._",
+      "subQuestions": [
+        {
+          "label": "28.1 (6)",
+          "text": "Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.",
+          "placeholder": "Error 1: __ → __\nError 2: __ → __\nError 3: __ → __"
+        },
+        {
+          "label": "28.2 (2)",
+          "text": "Using expressions from the passage only, write in English what the passage calls \"the service recovery paradox.\"",
+          "placeholder": "Write your answer here."
+        },
+        {
+          "label": "28.3 (2)",
+          "text": "Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\nWord box: a well-handled complaint / can build / more loyalty / than / routine / trouble-free service / ever demonstrates\n\n→ ___________________________________________________.",
+          "placeholder": "Write the complete sentence here."
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "An email requesting a favour that begins by acknowledging the recipient is busy receives a higher response rate than an identical request without that acknowledgement, even though the acknowledgement provides no new information relevant to the actual decision at hand. The wording used to frame (A) _it_, specifically whether the recipient's time and effort are explicitly recognised, appears to shape willingness to help independently of the favour's actual size or difficulty.",
+      "subQuestions": [
+        {
+          "label": "29.1 (2)",
+          "text": "Explain in English what \"(A) it\" refers to.",
+          "placeholder": "Write your answer here."
+        },
+        {
+          "label": "29.2 (3)",
+          "text": "Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\nWord box: even though / how a request is worded / can influence / the favour itself / whether people help / remains unchanged\n\n→ ___________________________________________________.",
+          "placeholder": "Write the complete sentence here."
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "written_multi",
+      "text": "Read the passage and complete both tasks below.",
+      "context": "Long-haul truck drivers report that the most dangerous stretch of a journey is rarely the difficult mountain pass or the crowded city approach, both of which naturally sharpen attention, but the long, featureless motorway stretch in between, where conditions feel entirely manageable and vigilance is hardest to sustain deliberately. In one analysis of logged incidents, a disproportionate share of near-miss events occurred during exactly these long, low-difficulty stretches rather than during the visibly more demanding sections surrounding them. The real risk, it seems, lies not in the moments that feel hardest, but in the ones that (A) ________.",
+      "subQuestions": [
+        {
+          "label": "30.1 (2)",
+          "text": "Identify TWO specific findings from the passage described, and explain them in English.",
+          "placeholder": "Finding 1:\nFinding 2:"
+        },
+        {
+          "label": "30.2 (3)",
+          "text": "Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(feel / most / while / still / genuinely / manageable / requiring / attention)\n\n→ The real risk lies not in the moments that feel hardest, but in the ones that (A) ________.",
+          "placeholder": "Write the completed phrase for blank (A) here."
+        }
+      ]
+    }
+  ]
+}
