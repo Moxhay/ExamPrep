@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Suspense } from 'react';
 import Sidebar from './components/Sidebar';
+import { Analytics } from '@vercel/analytics/next';
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -36,6 +37,7 @@ export default function RootLayout({
         <div className="ml-0 lg:ml-60 lg:in-[.sidebar-collapsed]:ml-14 transition-[margin-left] duration-200 flex flex-col min-h-full print:ml-0">
           {children}
         </div>
+        <Analytics />
       </body>
     </html>
   );
