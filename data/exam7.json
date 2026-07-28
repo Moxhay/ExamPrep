@@ -219,11 +219,11 @@
       "text": "Which sentence does NOT fit the overall flow of the passage?",
       "context": "Wolves reintroduced to a national park after a decades-long absence altered the landscape in ways ecologists had not fully anticipated. With wolves present again, deer and elk avoided lingering in open ① valleys and riverbanks, where they had previously overgrazed young trees undisturbed. This ② behavioural shift allowed willow and aspen saplings to recover in areas that had been grazed bare for generations. Wolves themselves typically live in tightly structured family packs with a clear and stable ③ social hierarchy. The recovering vegetation stabilised riverbanks, which had been eroding without root ④ systems to hold the soil in place. Beavers, which depend on the recovering willow for both food and ⑤ dam-building material, returned to stretches of river they had abandoned for decades.",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -261,11 +261,11 @@
       "text": "Choose the most appropriate place for the given sentence: \"Crucially, none of the participants could say why they preferred the repeatedly viewed image over the new one.\"",
       "context": "In one study, participants were briefly shown a series of abstract shapes, some repeated several times across the session, others displayed only once. ( ① ) Afterward, asked simply to rate how much they liked each shape, participants consistently favoured the frequently shown ones over those seen only once. ( ② ) This preference persisted even though participants could not reliably identify which shapes had actually been repeated when asked directly. ( ③ ) Researchers call this the mere-exposure effect, and note that it operates below conscious awareness rather than through any deliberate reasoning about familiarity. ( ④ ) The effect has since been documented across music, faces, and even the letters that make up a person's own name. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -275,11 +275,11 @@
       "text": "Choose the most appropriate place for the given sentence: \"This appears to depend less on skill at deception and more on unfamiliarity with what a genuine bluff typically looks like.\"",
       "context": "Poker players occasionally attempt to signal false confidence through posture and betting pattern, hoping to convince opponents they hold a stronger hand than they do. ( ① ) Experienced players, however, are frequently more successful at spotting a novice's bluff than a fellow professional's. ( ② ) A novice unfamiliar with typical betting rhythms often bluffs in a way that, however confident it looks to the novice themselves, deviates noticeably from patterns experienced players have seen thousands of times before. ( ③ ) An experienced player's bluff, by contrast, is calibrated specifically against what other experienced players expect, making it considerably harder for another expert to distinguish from a genuine strong hand. ( ④ ) Deception, in this sense, is a skill that must be calibrated against a specific, well-informed audience to be effective. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {

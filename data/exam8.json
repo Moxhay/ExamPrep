@@ -219,11 +219,11 @@
       "text": "Which sentence does NOT fit the overall flow of the passage?",
       "context": "Migratory monarch butterflies travelling from Canada to central Mexico complete a journey no single individual butterfly has ever made before, since the generation that arrives in Mexico is several generations removed from the one that made the outbound journey the previous year. ① No monarch alive at journey's end has any personal memory of the route, since the ones who began it have long since died. ② The navigational information must therefore be inherited rather than learned, encoded somehow in the insect's biology rather than passed down through experience or observation. ③ Monarch caterpillars feed exclusively on milkweed plants, which contain toxins that make the adult butterfly unpalatable to most predators. ④ Researchers suspect a combination of a time-compensated sun compass and sensitivity to the Earth's magnetic field allows each new generation to orient correctly without ever having seen the route before. ⑤ The precision of the destination, often the very same forest groves each year, remains one of the more striking examples of inherited, rather than learned, animal navigation.",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -261,11 +261,11 @@
       "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Crucially, the correction is rarely permanent, fading back toward the original overconfident estimate within a matter of weeks.",
       "context": "Project planners asked to estimate how long a task will take routinely underestimate the actual time required, a pattern so consistent it has its own name: the planning fallacy. ( ① ) Even planners who have personally experienced this exact bias on previous, similar projects continue to underestimate on the next one, suggesting the bias is not simply a lack of relevant experience. ( ② ) One of the few interventions that reliably improves accuracy is asking planners to imagine, in specific detail, everything that could plausibly go wrong before finalising an estimate. ( ③ ) This \"premortem\" exercise measurably lengthens the resulting estimate and brings it closer to the eventual actual outcome. ( ④ ) Organisations that adopt premortems as a standing practice, rather than a one-off exercise, report more durable improvements in estimate accuracy. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -275,11 +275,11 @@
       "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] This is why a familiar face glimpsed unexpectedly in an unfamiliar setting, such as a colleague encountered on holiday in another country, can take a disorienting extra moment to place.",
       "context": "Face recognition, though remarkably fast and accurate under ordinary conditions, depends more heavily on context than most people realise. ( ① ) The brain appears to use expected context as a genuine input to the recognition process itself, not merely as a helpful afterthought once a face has already been identified. ( ② ) Experiments briefly showing familiar faces against an unexpected background context measurably slow recognition time and increase the error rate compared with the same faces shown in an expected setting. ( ③ ) The delay is not a failure of memory for the face itself, since recognition eventually succeeds; it is a failure of the context-matching step that ordinarily happens so quickly it goes unnoticed. ( ④ ) Once the surrounding context is consciously supplied — \"of course, that's my colleague\" — recognition suddenly resolves. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {

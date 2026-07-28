@@ -219,11 +219,11 @@
       "text": "Which sentence does NOT fit the overall flow of the passage?",
       "context": "Emperor penguins huddle together in tight, shifting formations throughout the Antarctic winter, a behaviour essential to surviving temperatures that would kill an isolated individual within hours. ① Individual penguins at the freezing outer edge of the huddle periodically rotate toward the warmer centre, while penguins that have warmed sufficiently move back out toward the edge. ② This constant, coordinated rotation ensures that no single bird bears the full cost of the coldest position for too long, spreading the burden across the entire group over time. ③ Emperor penguins are the only penguin species that breeds during the Antarctic winter rather than the milder summer months. ④ Thermal imaging studies show the huddle's outer surface temperature remains dramatically colder than its core, despite the constant rotation redistributing individual birds between the two zones. ⑤ No central signal appears to coordinate the rotation; it emerges instead from each individual bird's own local response to how cold or warm it currently feels.",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -261,11 +261,11 @@
       "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Crucially, none of the participants could explain why they found the familiar option more appealing when asked directly.",
       "context": "In one classic study, participants were repeatedly shown a series of abstract geometric shapes, some appearing many times across the session and others appearing only once. ( ① ) Afterward, asked simply to rate how much they liked each shape, participants consistently rated the frequently shown shapes more favourably than those seen only once. ( ② ) This preference held even though participants could not reliably identify which shapes had actually appeared more often. ( ③ ) Researchers call this the mere-exposure effect, noting that it operates below the threshold of conscious recognition rather than through deliberate reasoning about familiarity. ( ④ ) The effect has since been documented across music, faces, and even the individual letters that make up a person's own name. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -275,11 +275,11 @@
       "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] This suggests the brain treats a smell less like a retrievable fact and more like a scene being relived in its original context.",
       "context": "Of all the senses, smell has an unusually direct route to memory and emotion. ( ① ) The olfactory bulb sits only a few synapses from the amygdala and hippocampus, the brain's centres for emotion and memory respectively, a notably shorter anatomical path than any other sense takes. ( ② ) Yet anatomy alone does not fully explain why a specific scent, encountered unexpectedly decades later, can summon a memory complete with its original emotional intensity, all at once and without conscious effort. ( ③ ) This is why the identical perfume can feel neutral to one person and overwhelming to another, entirely depending on the specific afternoon, room, and person it happened to become attached to the first time it was inhaled. ( ④ ) No deliberate effort was required to form that original association, and none is readily available to dissolve it afterward. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -352,7 +352,7 @@
       "number": 26,
       "type": "fill_blank",
       "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
-      "context": "Word Box: exemplify · override · disregard · individualise · differentiate\n\n(A) The judge's ruling will ________ the lower court's earlier decision entirely.\n(B) The tutoring programme was redesigned to ________ each lesson to the specific student's needs.\n(C) Critics accused the panel of choosing to ________ the minority report altogether.\n(D) The case is often cited to ________ a much broader pattern seen across the industry.\n(E) The training helps new staff learn to ________ between genuinely urgent requests and routine ones."
+      "context": "Word Box: exemplify · override · disregard · individualise · differentiate\n\n(A) The judge's ruling will __________ the lower court's earlier decision entirely.\n(B) The tutoring programme was redesigned to __________ each lesson to the specific student's needs.\n(C) Critics accused the panel of choosing to __________ the minority report altogether.\n(D) The case is often cited to __________ a much broader pattern seen across the industry.\n(E) The training helps new staff learn to __________ between genuinely urgent requests and routine ones."
     },
     {
       "id": "q27",

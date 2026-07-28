@@ -219,11 +219,11 @@
       "text": "Which sentence does NOT fit the overall flow of the passage?",
       "context": "Many flowers that appear plain or uniformly coloured to the human eye display elaborate patterns under ultraviolet light, patterns invisible to us but perfectly visible to the bees the flowers depend on for pollination. ① These UV patterns often form a kind of runway, guiding a bee's approach directly toward the nectar and pollen at the flower's centre. ② Some patterns concentrate UV-absorbing pigment only at the base of each petal, creating a bullseye that becomes more pronounced the closer a bee gets. ③ Bees also communicate the location of food sources to other bees through a figure-eight waggle dance performed inside the hive. ④ Because the pattern is invisible to humans, plant breeders selecting for showy, human-pleasing colours have sometimes inadvertently bred flowers whose UV guides are faint or absent. ⑤ Such flowers, however visually striking to us, can be less attractive to the pollinators whose visits they still depend on for reproduction.",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -261,11 +261,11 @@
       "text": "Choose the most appropriate place for the given sentence: \"A negotiator who opens with a number far outside any reasonable range is, perhaps counterintuitively, often more successful than one who opens moderately.\"",
       "context": "Anchoring is among the most reliable effects in the study of judgement: an initial number, even an obviously arbitrary one, exerts measurable pull on every estimate that follows it. ( ① ) In one classic demonstration, participants spun a wheel rigged to stop at either a low or a high number, then were asked an entirely unrelated question about the percentage of African countries in the United Nations; participants who saw the high number guessed substantially higher than those who saw the low one. ( ② ) The wheel had nothing to do with the question, and participants knew it, yet the anchor pulled their estimates anyway. ( ③ ) This has obvious implications for negotiation. ( ④ ) Later offers and counteroffers tend to be adjusted from that opening anchor rather than calculated independently, so the final agreed price sits closer to the extreme opening number than a neutral analysis would predict. ( ⑤ ) The lesson is not that dishonesty pays, but that the first number spoken in any negotiation is doing more work than either party usually realises.",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -275,11 +275,11 @@
       "text": "Choose the most appropriate place for the given sentence: \"Instead, the brain appears to store not the odor itself but the emotional and contextual scene in which it was first encountered.\"",
       "context": "Of all the senses, smell has the strangest relationship to memory. A specific scent encountered unexpectedly can summon a memory decades old, complete with emotional intensity, faster and more vividly than a photograph or a piece of music from the same period ever could. ( ① ) Part of the explanation lies in anatomy: the olfactory bulb is only a few synapses away from the amygdala and hippocampus, the brain's centres for emotion and memory, a far shorter route than any other sense takes. ( ② ) But anatomy alone does not explain why a smell functions less like a fact retrieved and more like a scene revisited. ( ③ ) This is why the same perfume can feel neutral on one person and overwhelming on another: what is stored is not a chemical fingerprint but a specific afternoon, a specific room, a specific person, bound permanently to that molecule by the accident of when it was first inhaled. ( ④ ) No deliberate effort is required to form the link, and none is available to dissolve it afterward. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {

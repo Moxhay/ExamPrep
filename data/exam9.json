@@ -219,11 +219,11 @@
       "text": "Which sentence does NOT fit the overall flow of the passage?",
       "context": "Slime moulds, single-celled organisms with no brain or nervous system whatsoever, can solve surprisingly sophisticated spatial problems, such as finding the shortest path through a maze toward a food source. ① Researchers placed oat flakes at locations corresponding to major cities on a map and allowed a slime mould to grow between them inside a miniature replica of the surrounding terrain. ② The resulting network of the mould's tendrils closely resembled the actual layout of an existing regional rail network, built by human engineers over decades. ③ Slime moulds reproduce through spores that can remain dormant for years under unfavourable conditions. ④ The mould appears to solve the problem through a simple, local process of reinforcing efficient connections and withdrawing from inefficient ones, with no central planning of any kind. ⑤ This suggests that sophisticated network optimisation does not necessarily require anything resembling a brain to emerge.",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -261,11 +261,11 @@
       "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Crucially, the effect appears even when participants are explicitly told in advance that the price is randomly assigned and bears no relation to quality.",
       "context": "Participants asked to taste and rate an identical wine sample rate it more favourably when told it costs ninety dollars than when told the same wine costs ten dollars. ( ① ) Brain imaging conducted during tasting shows measurably greater activity in pleasure-related regions for the \"expensive\" sample, not merely a difference in the rating participants later report. ( ② ) This suggests the price is altering the actual sensory experience itself, not simply biasing participants' willingness to admit disliking an \"expensive\" product. ( ③ ) Researchers describe price, in this context, as functioning like an active ingredient in the tasting experience rather than mere external information about the product. ( ④ ) The finding complicates any simple assumption that people's stated preferences straightforwardly reflect an underlying, price-independent sensory reality. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -275,11 +275,11 @@
       "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Only later, once enough investors had lost enough money, did the practice fall out of favour almost entirely.",
       "context": "In the years leading up to a major market downturn, financial commentators frequently described a \"new era\" of permanently higher valuations, arguing that traditional measures of a company's worth no longer applied to a transformed economy. ( ① ) Such claims tend to recur, in slightly different language, before nearly every major speculative bubble in recorded financial history. ( ② ) Investors who might otherwise have been cautious found the \"this time is different\" argument persuasive precisely because each specific version was tailored to that era's genuinely novel circumstances. ( ③ ) Skeptical voices warning that valuations remained fundamentally tethered to ordinary economic principles were routinely dismissed as failing to understand the new landscape. ( ④ ) The pattern's persistence across otherwise very different historical episodes suggests something structural about how bubbles are rationalised while they are still inflating. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {

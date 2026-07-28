@@ -219,11 +219,11 @@
       "text": "Which sentence does NOT fit the overall flow of the passage?",
       "context": "Starlings gathering at dusk sometimes form murmurations: shape-shifting clouds of thousands of birds banking, folding, and reassembling in the sky as a single fluid mass, with no leader and no central plan. ① Each bird, researchers have found, tracks the movement of only a handful of its nearest neighbours, adjusting its own speed and direction to theirs many times per second. ② This local rule, repeated across the whole flock, is sufficient to generate the large-scale, coordinated patterns observed from the ground, without any bird perceiving the shape of the murmuration as a whole. ③ Starlings are also known for their remarkable vocal mimicry, incorporating car alarms and human speech into their calls. ④ The same local-coordination principle has since been used to model traffic flow, crowd movement, and the behaviour of some robotic swarms. ⑤ A murmuration, in this sense, is less a decision made by the group than a pattern that simply emerges from many individually simple decisions.",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -261,11 +261,11 @@
       "text": "Choose the most appropriate place for the given sentence: \"Framed as a loss instead, the identical outcome is judged far more harshly, even though nothing about the underlying reality has changed.\"",
       "context": "Decision researchers have long noted that people respond very differently to two descriptions of an identical outcome, depending only on whether that outcome is presented as a gain or as a loss. ( ① ) Told that a medical procedure has a \"90 percent survival rate,\" patients and physicians alike judge it considerably more favourably than when told the mathematically identical procedure has a \"10 percent mortality rate.\" ( ② ) The information conveyed is exactly the same; only the frame around it differs. ( ③ ) This asymmetry is not limited to medicine: identical policy outcomes are judged more harshly when described in terms of jobs lost than when described in terms of an equivalent number of jobs saved. ( ④ ) Marketers and policymakers alike have learned that the choice of frame, entirely apart from any change in substance, can shift public reaction substantially. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -275,11 +275,11 @@
       "text": "Choose the most appropriate place for the given sentence: \"Mere repeated exposure to a stimulus, entirely absent any reward or new information attached to it, is sufficient to increase how much a person likes it.\"",
       "context": "In one classic study, participants were briefly shown a series of unfamiliar shapes and nonsense syllables, some repeated many times across the session and others shown only once. ( ① ) Afterward, asked simply to rate how much they liked each item, participants consistently rated the frequently repeated shapes and syllables more favourably than the ones seen only once. ( ② ) None of the participants could reliably report which items had actually been repeated, ruling out a simple memory-based explanation. ( ③ ) Researchers call this the mere-exposure effect, and it has since been documented across music, faces, and even the letters of one's own name, which people rate slightly more favourably than other letters of the alphabet. ( ④ ) Advertisers exploit this reliably, favouring sheer repetition of a brand name over persuasive argument in many campaigns. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {

@@ -219,11 +219,11 @@
       "text": "Which sentence does NOT fit the overall flow of the passage?",
       "context": "Many reef corals across a stretch of ocean spawn on the very same night each year, releasing eggs and sperm into the water within the same narrow hour. This synchrony is cued primarily by the lunar cycle, ① with spawning typically occurring several nights after a full moon. Water temperature and the timing of ② sunset appear to provide secondary cues that fine-tune the precise night within that lunar window. Coral ③ reefs also provide critical habitat for a huge proportion of the ocean's fish species during their juvenile life stages. Synchronising the release across an entire reef dramatically increases the odds that any given ④ egg encounters compatible sperm before currents disperse them. Reefs where this synchrony has broken ⑤ down, often due to disrupted temperature patterns, show measurably reduced fertilisation success.",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -261,11 +261,11 @@
       "text": "Choose the most appropriate place for the given sentence: \"Crucially, the task doesn't have to be unpleasant — simply incomplete is enough to keep it active in memory.\"",
       "context": "Waiters in one classic study could recall complex, multi-item orders in remarkable detail while those orders were still open, yet forgot the details almost immediately once the order was delivered and paid for. ( ① ) Psychologists call this the Zeigarnik effect: unfinished tasks appear to occupy a more active, accessible place in memory than completed ones, which the mind seems to file away and stop tracking. ( ② ) The effect has since been used to explain why an unresolved argument or an unsent email can intrude on unrelated thoughts far more persistently than a resolved one does. ( ③ ) Some productivity techniques exploit this directly, encouraging people to jot down an unfinished task's next concrete step, which appears to satisfy enough of the \"open loop\" to quiet the intrusive recall. ( ④ ) Once a task is marked genuinely complete, by contrast, the mind appears to release it from active tracking almost immediately. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
@@ -275,11 +275,11 @@
       "text": "Choose the most appropriate place for the given sentence: \"Unlike a centralised nervous system, this arrangement allows each arm to continue coordinated movement and even simple problem-solving even when severed from the brain entirely.\"",
       "context": "An octopus has roughly two-thirds of its neurons located not in its central brain but distributed along its eight arms, each arm capable of processing sensory information and initiating movement with a striking degree of independence. ( ① ) A severed octopus arm, in laboratory studies, has been observed reaching toward and grasping food, seemingly without any central directive to do so. ( ② ) Researchers describe the whole system as a kind of distributed intelligence, in which the central brain issues broad goals while the arms work out much of the specific execution locally. ( ③ ) This division of labour may explain how an octopus can simultaneously explore several crevices with different arms while its central attention remains on an entirely different task, such as watching for predators. ( ④ ) Such an architecture is almost unrecognisable compared to the tightly centralised nervous systems of most other intelligent animals. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "①" },
-        { "id": "2", "text": "②" },
-        { "id": "3", "text": "③" },
-        { "id": "4", "text": "④" },
-        { "id": "5", "text": "⑤" }
+        { "id": "1", "text": "" },
+        { "id": "2", "text": "" },
+        { "id": "3", "text": "" },
+        { "id": "4", "text": "" },
+        { "id": "5", "text": "" }
       ]
     },
     {
