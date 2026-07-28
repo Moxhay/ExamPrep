@@ -157,6 +157,11 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
             return (
               <div key={i}>
                 <p className="text-xs font-semibold text-gray-500 mb-1">{sub.label}</p>
+                {sub.text && (
+                  <div className="text-sm text-gray-800 mb-2 whitespace-pre-wrap leading-relaxed">
+                    {parseInline(sub.text)}
+                  </div>
+                )}
                 {review ? (
                   <div className={`px-3.5 py-2.5 rounded-lg border-2 text-sm whitespace-pre-wrap
                     ${subAnswer?.trim() ? 'border-gray-900 bg-gray-100 text-gray-900' : 'border-gray-200 bg-gray-50 text-gray-400 italic'}`}>
