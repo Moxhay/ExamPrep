@@ -1,8 +1,7 @@
 import React from 'react'
 
-// _text_ → <u>  **text** → <strong>
 export function parseInline(text: string): React.ReactNode {
-  const parts = text.split(/(\*\*.*?\*\*|_[^_]+_)/g)
+  const parts = text.split(/(\*\*.*?\*\*|_[^ _](?:[^_]*[^ _])?_)/g)
   if (parts.length === 1) return text
   return (
     <>
