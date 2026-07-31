@@ -1,9 +1,8 @@
 'use client'
 
 import { useState, useRef, useEffect, memo } from 'react'
-import { CIRCLED } from '../const'
-import type { Question } from '../types'
-import { parseInline } from '../lib/parseInline'
+import type { Question } from '@/app/types'
+import { parseInline } from '@/app/lib/parseInline'
 
 export interface QuestionCardProps {
   q: Question
@@ -11,6 +10,8 @@ export interface QuestionCardProps {
   locked: boolean
   onAnsweredChange: (qId: string, answered: boolean) => void
 }
+
+const CARD = 'bg-surface rounded-xl shadow-[0_4px_14px_-8px_rgba(90,60,30,0.25)]'
 
 const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredChange }: QuestionCardProps) {
   const [answer, setAnswer] = useState('')
@@ -49,10 +50,10 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
             {parseInline(part)}
             {i < parts.length - 1 && (
               review ? (
-                <span className={`inline-block min-w-[4.5rem] sm:min-w-[5.5rem] border-b-2 border-gray-900 px-1.5 mx-0.5 text-center ${
-                  blankAnswer[i]?.trim() ? 'text-gray-900 font-semibold' : 'text-gray-400 italic'
+                <span className={`inline-block min-w-14 sm:min-w-18 border-b border-dashed px-1 mx-0.5 text-center ${
+                  blankAnswer[i]?.trim() ? 'border-dark text-dark font-semibold' : 'border-muted text-muted italic'
                 }`}>
-                  {blankAnswer[i] || '___'}
+                  {blankAnswer[i] || '···'}
                 </span>
               ) : (
                 <input
@@ -61,8 +62,8 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
                   value={blankAnswer[i] ?? ''}
                   onChange={(e) => handleBlankChange(i, e.target.value)}
                   readOnly={locked}
-                  className={`inline-block w-20 sm:w-28 max-w-[45%] border-0 border-b-2 border-gray-900 text-sm text-gray-900 text-center outline-none px-1 mx-0.5 font-sans ${
-                    locked ? 'bg-gray-200 cursor-not-allowed' : 'bg-transparent cursor-text'
+                  className={`inline-block w-20 sm:w-28 max-w-[45%] bg-transparent border-0 border-b border-dashed text-sm text-dark text-center outline-none px-1 mx-0.5 font-sans ${
+                    locked ? 'border-border cursor-not-allowed' : 'border-muted cursor-text'
                   }`}
                 />
               )
@@ -76,39 +77,38 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
   const unanswered = !isAnswered
 
   return (
-    <div className="mb-10 pb-10 border-b border-gray-100">
-      <div className={`text-base font-semibold text-gray-900 whitespace-pre-wrap ${q.context ? 'mb-2' : 'mb-4'}`}>
+    <div className="mb-6">
+      <div className={`text-base font-semibold text-dark whitespace-pre-wrap ${q.context ? 'mb-3' : 'mb-3.5'}`}>
         <span className="mr-1">{q.number})</span>
         {parseInline(q.text)}
       </div>
 
       {q.context && (
-        <div className="bg-gray-50 border border-gray-200 rounded-md px-4 py-3 text-sm text-gray-700 mb-4 leading-relaxed whitespace-pre-wrap">
+        <div className={`${CARD} px-4 sm:px-5 py-3.5 sm:py-4 text-sm text-dark mb-4 leading-relaxed whitespace-pre-wrap`}>
           {q.type === 'fill_blank' ? renderInlineBlanks(q.context) : parseInline(q.context)}
         </div>
       )}
 
       {q.type === 'multiple_choice' && q.options && (
-        <div className={`flex flex-col ${review ? 'gap-1.5' : 'gap-2'}`}>
-          {q.options.map((opt, idx) => {
+        <div className="flex flex-col gap-3">
+          {q.options.map((opt) => {
             const selected = answer === opt.id
             return review ? (
               <div
                 key={opt.id}
-                className={`flex items-start gap-2.5 px-3 py-2 rounded-lg border-2 text-sm text-gray-900
-                  ${selected ? 'border-gray-900 bg-gray-200' : 'border-gray-300 bg-gray-100'}`}
+                className={`${CARD} flex items-center gap-3 px-4 sm:px-5 py-3 text-sm text-dark
+                  ${selected ? 'ring-2 ring-primary' : ''}`}
               >
-                <strong className="min-w-5">{CIRCLED[idx]}</strong>
+                <span className={`w-4 h-4 rounded-full border-2 shrink-0 ${selected ? 'border-primary bg-primary' : 'border-border'}`} />
                 {parseInline(opt.text)}
-                {selected && <span className="ml-auto text-xs font-semibold">← your answer</span>}
+                {selected && <span className="ml-auto text-xs font-semibold text-primary">← your answer</span>}
               </div>
             ) : (
               <label
                 key={opt.id}
-                className={`flex items-start gap-3 px-3.5 py-2.5 rounded-lg border-2 transition-colors
-                  ${selected ? 'border-gray-900 bg-gray-200' : 'border-gray-300 bg-gray-100'}
-                  ${locked ? 'cursor-not-allowed' : 'cursor-pointer'}
-                  ${locked && !selected ? 'opacity-50' : ''}`}
+                className={`${CARD} flex items-center gap-3 px-4 sm:px-5 py-3 transition-shadow
+                  ${selected ? 'ring-2 ring-primary' : ''}
+                  ${locked ? 'cursor-not-allowed opacity-60' : 'cursor-pointer hover:shadow-[0_6px_18px_-8px_rgba(90,60,30,0.35)]'}`}
               >
                 <input
                   type="radio"
@@ -116,25 +116,22 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
                   value={opt.id}
                   checked={selected}
                   onChange={() => !locked && setAnswer(opt.id)}
-                  className="mt-0.5 accent-gray-900"
+                  className="accent-primary"
                 />
-                <span className="text-sm text-gray-900">
-                  <strong className="mr-1.5">{CIRCLED[idx]}</strong>
-                  {parseInline(opt.text)}
-                </span>
+                <span className="text-sm text-dark">{parseInline(opt.text)}</span>
               </label>
             )
           })}
           {review && unanswered && (
-            <p className="text-xs text-gray-400 italic mt-1">No answer selected</p>
+            <p className="text-xs text-muted italic">No answer selected</p>
           )}
         </div>
       )}
 
       {q.type === 'written' && (
         review ? (
-          <div className={`px-3.5 py-3 rounded-lg border-2 text-sm min-h-12 whitespace-pre-wrap
-            ${unanswered ? 'border-gray-200 bg-gray-50 text-gray-400 italic' : 'border-gray-900 bg-gray-100 text-gray-900'}`}>
+          <div className={`${CARD} px-4 sm:px-5 py-3.5 text-sm min-h-12 whitespace-pre-wrap
+            ${unanswered ? 'text-muted italic' : 'text-dark'}`}>
             {unanswered ? 'No answer written' : answer}
           </div>
         ) : (
@@ -144,27 +141,27 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
             onChange={(e) => !locked && setAnswer(e.target.value)}
             readOnly={locked}
             placeholder={q.placeholder ?? 'Write your answer here...'}
-            className={`w-full px-3.5 py-3 rounded-lg border-2 border-gray-300 text-sm resize-y outline-none font-sans text-gray-900
-              ${locked ? 'bg-gray-200 cursor-not-allowed' : 'bg-gray-100 cursor-text'}`}
+            className={`${CARD} w-full px-4 sm:px-5 py-3.5 text-sm resize-y outline-none font-sans text-dark
+              ${locked ? 'cursor-not-allowed opacity-60' : 'cursor-text'}`}
           />
         )
       )}
 
       {q.type === 'written_multi' && (
-        <div className="flex flex-col gap-3">
+        <div className="flex flex-col gap-4">
           {(q.subQuestions ?? []).map((sub, i) => {
             const subAnswer = subAnswers[i]
             return (
               <div key={i}>
-                <p className="text-xs font-semibold text-gray-500 mb-1">{sub.label}</p>
+                <p className="text-xs font-semibold text-muted-dark mb-1.5">{sub.label}</p>
                 {sub.text && (
-                  <div className="text-sm text-gray-800 mb-2 whitespace-pre-wrap leading-relaxed">
+                  <div className="text-sm text-dark mb-2 whitespace-pre-wrap leading-relaxed">
                     {parseInline(sub.text)}
                   </div>
                 )}
                 {review ? (
-                  <div className={`px-3.5 py-2.5 rounded-lg border-2 text-sm whitespace-pre-wrap
-                    ${subAnswer?.trim() ? 'border-gray-900 bg-gray-100 text-gray-900' : 'border-gray-200 bg-gray-50 text-gray-400 italic'}`}>
+                  <div className={`${CARD} px-4 sm:px-5 py-3 text-sm whitespace-pre-wrap
+                    ${subAnswer?.trim() ? 'text-dark' : 'text-muted italic'}`}>
                     {subAnswer?.trim() || 'No answer written'}
                   </div>
                 ) : (
@@ -174,8 +171,8 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
                     onChange={(e) => handleSubChange(i, e.target.value)}
                     readOnly={locked}
                     placeholder={sub.placeholder}
-                    className={`w-full px-3.5 py-3 rounded-lg border-2 border-gray-300 text-sm resize-y outline-none font-sans text-gray-900
-                      ${locked ? 'bg-gray-200 cursor-not-allowed' : 'bg-gray-100 cursor-text'}`}
+                    className={`${CARD} w-full px-4 sm:px-5 py-3.5 text-sm resize-y outline-none font-sans text-dark
+                      ${locked ? 'cursor-not-allowed opacity-60' : 'cursor-text'}`}
                   />
                 )}
               </div>
@@ -185,7 +182,7 @@ const QuestionCard = memo(function QuestionCard({ q, review, locked, onAnsweredC
       )}
 
       {review && q.type === 'fill_blank' && unanswered && (
-        <p className="text-xs text-gray-400 italic mt-1">No blanks filled in</p>
+        <p className="text-xs text-muted italic mt-1">No blanks filled in</p>
       )}
     </div>
   )

@@ -8,13 +8,13 @@
       "number": 1,
       "type": "multiple_choice",
       "text": "Which of the following is the most appropriate title for the passage?",
-      "context": "Asked to predict how a stranger will react to a minor inconvenience — a delayed flight, a spilled coffee, a rude comment — most people forecast a stronger and longer-lasting emotional reaction than the stranger actually reports experiencing once the event occurs. The same overestimation applies to our own future feelings: people preparing for a breakup, a job loss, or a disappointing exam result consistently predict deeper and more prolonged misery than they later recall actually feeling. Human beings, it turns out, are reliably poor forecasters of their own emotional resilience, routinely underestimating how quickly both good and bad feelings fade.",
+      "context": "When a disease outbreak is first detected, public health officials often assume the earliest reported case counts already capture the outbreak's true scale, an assumption that shapes how quickly a response is scaled. Retrospective analysis of past outbreaks complicates this assumption considerably: mild or entirely asymptomatic cases routinely go undetected in an outbreak's earliest weeks, meaning the true number of infections at any given moment is almost always substantially higher than official counts suggest, sometimes by a factor of ten or more. Officials who wait for confirmed case counts to justify a response therefore risk acting weeks after the outbreak's actual scale would have warranted a far earlier intervention.",
       "options": [
-        { "id": "1", "text": "Why Strangers Misjudge Each Other's Emotions" },
-        { "id": "2", "text": "The Durability Bias: Why We Overestimate How Long Feelings Last" },
-        { "id": "3", "text": "How to Accurately Predict a Stranger's Reaction" },
-        { "id": "4", "text": "The Emotional Cost of Job Loss and Exam Failure" },
-        { "id": "5", "text": "Why Coffee Spills Provoke Stronger Reactions Than Expected" }
+        { "id": "1", "text": "Why Official Case Counts Always Overstate an Outbreak's True Scale" },
+        { "id": "2", "text": "Why Early Outbreak Case Counts Systematically Understate the True Number of Infections" },
+        { "id": "3", "text": "A History of Disease Surveillance Methods" },
+        { "id": "4", "text": "Why Public Health Officials Always Respond Too Quickly" },
+        { "id": "5", "text": "How Asymptomatic Cases Are Diagnosed in Clinical Settings" }
       ]
     },
     {
@@ -22,13 +22,13 @@
       "number": 2,
       "type": "multiple_choice",
       "text": "Choose the most appropriate topic of the passage.",
-      "context": "Quite often the interaction between two people negotiating is not a pure conflict but a mix of shared and opposing interests, and the strategies suited to one differ sharply from strategies suited to the other. Treating a negotiation with substantial shared interest — dividing a shared resource both parties want preserved, say — as if it were purely adversarial tends to leave value unclaimed on the table, since neither side explores the trades that would have benefited both. Conversely, treating a purely adversarial negotiation as if goodwill alone will produce a fair split often leaves one side badly exploited.",
+      "context": "A museum that reports rising annual visitor enrollment in its membership programme is often assumed to be attracting a genuinely broader, more contemporary audience than in previous decades. Attendance data broken down by age and repeat-visit frequency complicates this assumption: much of the reported growth turns out to come from existing members renewing rather than new members joining, meaning the museum's actual audience base may be barely expanding at all even as headline membership numbers climb steadily year after year, since a stable core of repeat visitors renewing consistently produces exactly the same growth curve as genuine audience expansion would.",
       "options": [
-        { "id": "1", "text": "why negotiations always contain more shared interest than conflict" },
-        { "id": "2", "text": "how mismatching a negotiation strategy to its actual mix of shared and opposing interests carries real costs" },
-        { "id": "3", "text": "techniques for dividing shared resources fairly between two parties" },
-        { "id": "4", "text": "the psychological profile of a successful negotiator" },
-        { "id": "5", "text": "why adversarial negotiations are more common than cooperative ones" }
+        { "id": "1", "text": "the historical development of museum membership programmes" },
+        { "id": "2", "text": "how rising membership numbers can mask a stagnant audience base rather than genuine audience expansion" },
+        { "id": "3", "text": "the total revenue museums generate from membership fees annually" },
+        { "id": "4", "text": "why museums rarely publish detailed membership renewal data" },
+        { "id": "5", "text": "a comparison of two specific museums' membership growth rates" }
       ]
     },
     {
@@ -36,13 +36,13 @@
       "number": 3,
       "type": "multiple_choice",
       "text": "Choose the most appropriate topic of the passage.",
-      "context": "Cities founded along a navigable river or a natural harbour often retain their commercial advantage for centuries after the original reason for the advantage has become irrelevant to modern transport, a pattern economists call path dependence. Rail lines were built to connect to already-established ports; roads and later motorways were built to connect to already-established rail hubs; each new layer of infrastructure reinforced advantages that were, by the time of construction, no longer tied to any river or harbour at all. Undoing this accumulated advantage would require abandoning enormous sunk infrastructure investments, which is why geographically arbitrary historical accidents can shape a country's economic geography for centuries.",
+      "context": "A defendant's decision to concentrate legal resources on discrediting a single key witness, rather than spreading limited resources across contesting every piece of evidence, is often assumed by observers to reflect a weak overall case. Trial strategists who study jury deliberations closely find the opposite pattern just as often true: juries asked to weigh dozens of contested details frequently lose track of which pieces actually mattered, while a defence that concentrates entirely on one witness's credibility gives jurors a single, memorable thread to follow through an otherwise complicated case, sometimes producing an acquittal precisely because the strategy appeared, superficially, too narrow to be a genuine defence.",
       "options": [
-        { "id": "1", "text": "the engineering techniques used to build early rail networks" },
-        { "id": "2", "text": "how early geographic advantages become self-reinforcing through successive infrastructure investment" },
-        { "id": "3", "text": "why rivers and harbours are no longer relevant to modern transport" },
-        { "id": "4", "text": "the total economic output of port cities compared to inland cities" },
-        { "id": "5", "text": "methods for relocating infrastructure away from historically advantaged regions" }
+        { "id": "1", "text": "the legal qualifications required to become a defence attorney" },
+        { "id": "2", "text": "how concentrating a defence on a single witness's credibility can be a deliberately effective strategy, not a sign of weakness" },
+        { "id": "3", "text": "the total number of jury trials held annually in a given country" },
+        { "id": "4", "text": "why juries are instructed to disregard a defendant's demeanour" },
+        { "id": "5", "text": "a comparison of two specific historical jury trials" }
       ]
     },
     {
@@ -50,13 +50,13 @@
       "number": 4,
       "type": "multiple_choice",
       "text": "Which of the following best states the main point of the passage?",
-      "context": "A committee tasked with approving a project rarely does so through a single, decisive vote; instead, the project accumulates small procedural approvals — a budget line here, a preliminary sign-off there — each of which feels individually minor and reversible, until the accumulated momentum makes cancelling the project feel far more costly than continuing it, regardless of whether continuing is actually the better choice. No single approval was ever a considered commitment to the whole; the commitment emerged from the sum of steps that each felt too small to refuse.",
+      "context": "Species that reproduce in enormous numbers, producing thousands of offspring per breeding cycle, are sometimes assumed to be evolutionarily more successful than species that reproduce sparingly, since a larger raw number of offspring intuitively seems safer against extinction. Population biologists studying long-term survival rates complicate this assumption: species investing heavily in a small number of offspring, providing extensive parental care to each, often show more stable population trends over centuries than species relying on sheer reproductive volume, since quality of individual survival, not raw quantity produced, ultimately determines a population's long-term stability.",
       "options": [
-        { "id": "1", "text": "Committees should require a single, decisive vote before approving any major project." },
-        { "id": "2", "text": "Large commitments can accumulate gradually through small approvals that individually feel minor and reversible." },
-        { "id": "3", "text": "Procedural approvals are always a more considered decision than a single decisive vote." },
-        { "id": "4", "text": "Projects are cancelled more often than they are approved once procedural momentum builds." },
-        { "id": "5", "text": "Committees are generally more rational than individual decision-makers." }
+        { "id": "1", "text": "Species producing the most offspring are always the most evolutionarily successful." },
+        { "id": "2", "text": "Long-term population stability may depend more on offspring survival quality than on raw reproductive volume." },
+        { "id": "3", "text": "Species with extensive parental care always produce more offspring overall." },
+        { "id": "4", "text": "Population biologists agree that reproductive strategy has no effect on long-term survival." },
+        { "id": "5", "text": "Extinction risk is entirely unrelated to a species' reproductive strategy." }
       ]
     },
     {
@@ -64,7 +64,7 @@
       "number": 5,
       "type": "multiple_choice",
       "text": "How many of the statements below do NOT agree with the passage?",
-      "context": "When I first started coaching my daughter's recreational football team, I ran every drill exactly as I remembered them from my own childhood training, certain that whatever had worked on me would work on eight-year-olds thirty years later. The kids were bored within ten minutes and I blamed their attention spans rather than my drills. A more experienced coach watching from the sideline suggested cutting every drill to a third of its length and adding a competitive element, however small. I resisted at first, assuming this was a concession to laziness rather than a genuine improvement. The shorter, gamified version of the same drills produced noticeably sharper focus almost immediately, and I still feel a flash of embarrassment recalling how long I blamed the children before considering my own methods.\n\nStatements\n(a) The writer initially attributed the children's boredom to her coaching methods rather than their attention spans.\n(b) A more experienced coach suggested shortening the drills and adding a competitive element.\n(c) The writer immediately agreed that the suggested changes were a genuine improvement.\n(d) The shortened, gamified drills produced noticeably sharper focus.\n(e) The writer still feels some embarrassment about how long she blamed the children.\n(f) The writer's original drills were based on her own childhood training.",
+      "context": "I spent the first year after my divorce assuming my friendships would naturally sort themselves out, that the people who mattered would simply come over more often once I was living alone, and the rest would quietly fade without any effort on my part. What actually happened was closer to the opposite: the friends I heard from most were the ones I had, without quite realising it, been the one reaching out to all along, and several people I had assumed were close friends never once initiated contact once I stopped doing it for both of us. A friend I hadn't spoken to in years reunited with me entirely by accident at a mutual acquaintance's birthday, and we have been close ever since, closer than several people I had actively maintained contact with throughout the marriage.\n\nStatements\n(a) The writer initially assumed friendships would sort themselves out naturally after the divorce.\n(b) The friends who stayed in contact were, in most cases, the ones the writer had been reaching out to.\n(c) Every person the writer assumed was a close friend continued initiating contact afterward.\n(d) The writer reunited with an old friend by accident at a mutual acquaintance's birthday.\n(e) The writer became closer with this reunited friend than with some people maintained throughout the marriage.\n(f) The writer deliberately arranged the reunion with the old friend in advance.",
       "options": [
         { "id": "1", "text": "2" },
         { "id": "2", "text": "3" },
@@ -78,13 +78,13 @@
       "number": 6,
       "type": "multiple_choice",
       "text": "How many of the following words are correctly matched with their meanings?",
-      "context": "(a) compassion — sympathetic concern for the suffering of others\n(b) compromise — to refuse absolutely to make any concession\n(c) consequence — a result or effect of an action or condition\n(d) contemporary — belonging to a distant, long-past historical era\n(e) confront — to face up to and deal with a difficult situation directly\n(f) conform — to behave according to socially expected standards or rules\n(g) correspond — to match or be in agreement with something\n(h) coexist — to exist together at the same time or in the same place\n(i) endanger — to put someone or something at risk of harm\n(j) enlighten — to deliberately keep someone confused or misinformed",
+      "context": "(a) degenerative — tending to become progressively worse over time\n(b) antisocial — highly skilled at interacting comfortably with others\n(c) unreasonable — not guided by or based on good sense\n(d) indivisible — able to be easily divided into separate parts\n(e) illiterate — unable to read or write\n(f) intersection — a point where two or more things cross or meet\n(g) subconsciously — in a way that occurs below the level of conscious awareness\n(h) underestimate — to judge something as larger or more significant than it really is\n(i) accumulate — to gather or acquire an increasing quantity over time\n(j) outbreak — a sudden, widespread occurrence of something undesirable, such as a disease",
       "options": [
-        { "id": "1", "text": "4" },
-        { "id": "2", "text": "5" },
-        { "id": "3", "text": "6" },
-        { "id": "4", "text": "7" },
-        { "id": "5", "text": "8" }
+        { "id": "1", "text": "5" },
+        { "id": "2", "text": "6" },
+        { "id": "3", "text": "7" },
+        { "id": "4", "text": "8" },
+        { "id": "5", "text": "9" }
       ]
     },
     {
@@ -92,13 +92,13 @@
       "number": 7,
       "type": "multiple_choice",
       "text": "Which statement does NOT agree with the two explanations given in the passage?",
-      "context": "Firms operating in the same industry often cluster geographically rather than spreading evenly across a country, even when transport costs would seem to favour dispersal. One explanation holds that clustering allows firms to draw on a shared, specialised local labour pool: workers with industry-specific skills move to where the jobs are concentrated, and firms in turn locate where such workers already live, each reinforcing the other. A second, competing explanation emphasises knowledge spillovers: informal contact among employees of nearby competing firms, through shared suppliers, industry events, or simple proximity, spreads innovations faster than could occur if firms were geographically dispersed, giving clustered firms a collective advantage over isolated ones.",
+      "context": "Contemporary artworks by a living artist sometimes sell at auction for prices far exceeding anything the same artist commanded just years earlier, a jump two competing explanations attempt to account for. One explanation holds that a single prominent collector's public purchase confers a kind of institutional legitimacy on the artist, after which other collectors, previously uncertain how to value largely untested contemporary work, treat that purchase as reliable confirmation of genuine long-term value. A second, competing explanation instead proposes that auction prices for contemporary art are driven substantially by scarcity manufactured through the artist's own limited output, meaning the price jump reflects collectors competing over an increasingly limited supply of new pieces rather than any change in perceived artistic merit at all.",
       "options": [
-        { "id": "1", "text": "The first explanation attributes clustering to a mutually reinforcing relationship between skilled workers and firms." },
-        { "id": "2", "text": "The first explanation suggests worker mobility follows the location of specialised job opportunities." },
-        { "id": "3", "text": "The second explanation attributes clustering to faster informal spread of innovation among nearby firms." },
-        { "id": "4", "text": "The second explanation agrees with the first that clustering's primary advantage is a shared specialised labour pool." },
-        { "id": "5", "text": "Both explanations attempt to account for the same observed pattern of industry clustering." }
+        { "id": "1", "text": "The first explanation attributes the price jump to institutional legitimacy conferred by a prominent collector's purchase." },
+        { "id": "2", "text": "The first explanation suggests other collectors treat that purchase as confirmation of genuine long-term value." },
+        { "id": "3", "text": "The second explanation claims the artist's output has become more abundant rather than more limited." },
+        { "id": "4", "text": "The second explanation attributes the price jump to competition over an increasingly scarce supply of new pieces." },
+        { "id": "5", "text": "Both explanations attempt to account for the same sharp rise in a living artist's auction prices." }
       ]
     },
     {
@@ -107,25 +107,25 @@
       "type": "multiple_choice",
       "text": "Which underlined word is NOT used appropriately in context?",
       "options": [
-        { "id": "1", "text": "The proposal was ultimately a _consolidation_ of several smaller, competing initiatives into one coherent plan." },
-        { "id": "2", "text": "The two datasets showed a strong _correlation_, with one variable rising consistently alongside the other." },
-        { "id": "3", "text": "Years of joint research fostered genuine _cooperation_ between the two rival laboratories." },
-        { "id": "4", "text": "The soil here is so _enriched_ with nutrients that most crops fail to grow at all without extensive fertiliser." },
-        { "id": "5", "text": "The scholarship programme was designed to _empower_ students who lacked the financial means to study abroad." }
+        { "id": "1", "text": "Sales figures suggest customers are increasingly willing to _come over_ to the newer, more expensive product line." },
+        { "id": "2", "text": "The publisher decided to _bring out_ a revised edition once the original manuscript's errors were corrected." },
+        { "id": "3", "text": "Roughly a third of the students who enrolled in the course _drop out_ before completing it." },
+        { "id": "4", "text": "The two former colleagues finally _reunited_ after nearly two decades of no contact at all." },
+        { "id": "5", "text": "The engineer had significantly _overestimated_ the bridge's remaining lifespan, which is why it collapsed decades ahead of every prediction." }
       ]
     },
     {
       "id": "q9",
       "number": 9,
       "type": "multiple_choice",
-      "text": "Which of the following best explains the meaning of the underlined phrase \"the spotlight effect\"?",
-      "context": "Ask someone to wear a slightly embarrassing item into a room of strangers and then estimate what percentage of people noticed it; the guess reliably runs two or three times higher than the number who actually did, according to those same strangers questioned afterward. Underlying this is what researchers call _the spotlight effect_: an assumption that one's own appearance and mistakes occupy far more space in others' attention than they actually do, largely because each of us is so absorbed in our own experience that we mistake that absorption for everyone else's.",
+      "text": "Which of the following best explains the meaning of the underlined phrase \"the scarcity premium\"?",
+      "context": "A living artist who deliberately limits new output to a handful of pieces per year often sees each individual piece command a dramatically higher price than an equally skilled but far more prolific peer, a pattern collectors call _the scarcity premium_: collectors appear willing to pay substantially more not for demonstrably superior craftsmanship, but simply for the assurance that very few comparable pieces will ever exist, a premium that has little to do with the artwork's intrinsic quality and everything to do with its engineered rarity.",
       "options": [
-        { "id": "1", "text": "a tendency to deliberately draw attention to one's own mistakes in public" },
-        { "id": "2", "text": "a tendency to overestimate how much other people notice and remember about oneself" },
-        { "id": "3", "text": "the fact that embarrassing clothing objectively attracts more attention than ordinary clothing" },
-        { "id": "4", "text": "a curse affecting only public performers and entertainers" },
-        { "id": "5", "text": "self-absorption making a person genuinely indifferent to how others perceive them" }
+        { "id": "1", "text": "collectors always pay more for objectively superior craftsmanship regardless of supply" },
+        { "id": "2", "text": "deliberately limited supply alone can drive up an artwork's price independent of its intrinsic quality" },
+        { "id": "3", "text": "prolific artists always command higher prices than artists with limited output" },
+        { "id": "4", "text": "an artwork's price is always a reliable indicator of its actual craftsmanship" },
+        { "id": "5", "text": "scarcity has no measurable effect on how collectors value an artwork" }
       ]
     },
     {
@@ -133,13 +133,13 @@
       "number": 10,
       "type": "multiple_choice",
       "text": "Which underlined word is NOT appropriate in context?",
-      "context": "It is the peculiar and ① _fortunate_ character of the law of England, that its principles have been derived from the practice of the ages, from the never-interrupted exercise of judicial functions, and from a course of decisions ② _adapted_ to the circumstances of the times as they arose. The law was thus, if such an expression may be used, made by the ③ _chaos_ of the courts; the same rules of property, the same rules of interpretation, the same rules of decision, have obtained for ages on the same subjects. The whole of this vast body of law is ④ _founded_ upon precedent, and is worked into a system by a train of decisions, which extend through a long series of years. Whatever is not established by ⑤ _positive_ law is derived from usage and precedent.",
+      "context": "A defence attorney preparing for trial must ① _concentrate_ resources on whichever evidence is most likely to sway a jury, rather than contesting every minor detail equally. Attorneys who ② _correspond_ with expert witnesses well before trial typically present more coherent, persuasive testimony than those who arrange expert input at the last minute. Jury selection itself is treated as a ③ _contemporary_ skill, with attorneys on both sides carefully screening for potential bias before opening statements even begin. A jury asked to weigh an unusually ④ _concurrent_ number of contested details often loses track of which specific pieces of evidence actually matter most. Some defence strategies deliberately ⑤ _endanger_ the prosecution's single strongest witness rather than attempting to discredit every witness equally.",
       "options": [
-        { "id": "1", "text": "fortunate" },
-        { "id": "2", "text": "adapted" },
-        { "id": "3", "text": "chaos" },
-        { "id": "4", "text": "founded" },
-        { "id": "5", "text": "positive" }
+        { "id": "1", "text": "concentrate" },
+        { "id": "2", "text": "correspond" },
+        { "id": "3", "text": "contemporary" },
+        { "id": "4", "text": "concurrent" },
+        { "id": "5", "text": "endanger" }
       ]
     },
     {
@@ -147,13 +147,13 @@
       "number": 11,
       "type": "multiple_choice",
       "text": "Which of the following questions CANNOT be answered from the passage?",
-      "context": "Deep-diving sperm whales rely on echolocation to hunt squid in total darkness, producing a rapid series of clicks whose echoes reveal the location, distance, and even approximate size of potential prey hundreds of metres below the surface where no light penetrates at all. Just before striking, a hunting whale emits a distinctive burst of rapid clicks known as a \"creak,\" so tightly spaced they resemble a creaking door, allowing it to update its target's position almost continuously as the final approach closes in. Researchers studying tagged whales have found individual whales develop slightly distinct clicking patterns, suggesting something like individual acoustic signatures.",
+      "context": "Coastal fortifications built to withstand naval bombardment relied heavily on angled, sloped walls rather than the vertical walls typical of earlier inland fortresses, since a sloped surface deflects a cannonball's impact rather than absorbing its full force directly. Military engineers who studied the effectiveness of these coastal forts found that sloped-wall designs suffered measurably less structural damage per assault than vertical-wall designs facing an identical bombardment, a finding that led most coastal powers to adopt sloped fortification as standard practice within a few decades, even as the underlying cannon technology itself continued to improve independently of any change in fortification design.",
       "options": [
-        { "id": "1", "text": "What sense do sperm whales rely on to hunt in total darkness?" },
-        { "id": "2", "text": "What information can a whale's echolocation clicks reveal about potential prey?" },
-        { "id": "3", "text": "How many squid does a typical sperm whale consume during a single dive?" },
-        { "id": "4", "text": "What is the name given to the rapid burst of clicks made just before a strike?" },
-        { "id": "5", "text": "What did researchers find when comparing the clicking patterns of individual whales?" }
+        { "id": "1", "text": "Why did coastal fortifications rely on angled, sloped walls rather than vertical ones?" },
+        { "id": "2", "text": "What does a sloped wall do differently to a cannonball's impact compared to a vertical wall?" },
+        { "id": "3", "text": "How many coastal fortresses adopted sloped-wall design historically?" },
+        { "id": "4", "text": "What did military engineers find when comparing sloped and vertical wall designs?" },
+        { "id": "5", "text": "Did cannon technology continue to improve independently of fortification design?" }
       ]
     },
     {
@@ -161,7 +161,7 @@
       "number": 12,
       "type": "multiple_choice",
       "text": "How many of the underlined parts are grammatically INCORRECT?",
-      "context": "Cooperative behaviour among unrelated animals poses a puzzle for evolutionary theory, since helping a competitor would seem to reduce one's own relative advantage. ① _Vampire bats that failed to feed on a given night is regularly given regurgitated blood by a roosting neighbour who fed successfully._ ② _Bats that have previously shared blood with a hungry neighbour are considerably more likely to receive blood in return when their own positions is reversed._ ③ _This reciprocal arrangement functions only because individual bats can recognise and remember specific past partners over repeated encounters._ ④ _A bat that never reciprocates a favour is eventually excluded from the network and left more vulnerable to future starvation._ ⑤ _The arrangement therefore resembles a long-term account each bat maintains with several specific partners, rather than indiscriminate generosity toward the colony as a whole._",
+      "context": "① _A regional highway authority proposing a new toll system often overlook how quickly a toll's administrative cost can outweigh the revenue it actually raises._ ② _Authorities that has introduced a toll without adequate planning report spending significant staff time simply resolving billing disputes._ ③ _Some authorities eventually conclude a proposed toll is not worth pursuing at all, once the hidden administrative cost is properly accounted for._ ④ _Planners who designed the toll scheme assumes commuters would simply absorb the additional cost without changing their routes._ ⑤ _A simplified electronic payment system, introduced after years of complaints, has measurably reduced how many billing disputes actually arise._",
       "options": [
         { "id": "1", "text": "1" },
         { "id": "2", "text": "2" },
@@ -175,13 +175,13 @@
       "number": 13,
       "type": "multiple_choice",
       "text": "Which underlined part is grammatically incorrect?",
-      "context": "Restorative justice programmes bring offenders face to face with the people they have harmed, a format that ① _challenges_ the assumption that punishment alone repairs harm. Facilitators ② _have found_ that victims frequently report a greater sense of closure from a structured meeting than from a conventional trial, in which they are typically confined to a narrow evidentiary role. Offenders, for their part, ③ _confronts_ the concrete human impact of their actions in a way an abstract legal proceeding rarely requires. Programmes of this kind ④ _operate_ alongside, rather than instead of, the conventional justice system in most jurisdictions that have adopted them. Early evidence ⑤ _suggests_ reoffending rates may be modestly lower among participants, though researchers caution that participation is voluntary and may already select for offenders inclined toward genuine remorse.",
+      "context": "A homeowner planning to ① _erect_ a new extension must first confirm the plan complies with local zoning regulations. Contractors who ② _begin_ construction without the required permit risk having the entire extension demolished later, regardless of how well built it actually is. Neighbours who ③ _objects_ to a proposed extension during the public comment period can sometimes delay approval by several months. Homeowners who ④ _have consulted_ neighbours informally before submitting a formal application report noticeably fewer objections during the official review. A housewarming celebration, planners note, ⑤ _typically follows_ completion by several weeks rather than immediately.",
       "options": [
-        { "id": "1", "text": "challenges" },
-        { "id": "2", "text": "have found" },
-        { "id": "3", "text": "confronts" },
-        { "id": "4", "text": "operate" },
-        { "id": "5", "text": "suggests" }
+        { "id": "1", "text": "erect" },
+        { "id": "2", "text": "begin" },
+        { "id": "3", "text": "objects" },
+        { "id": "4", "text": "have consulted" },
+        { "id": "5", "text": "typically follows" }
       ]
     },
     {
@@ -189,13 +189,13 @@
       "number": 14,
       "type": "multiple_choice",
       "text": "Among the dictionary definitions below, how many describe words that do NOT appear in the passage? (Ignore singular/plural forms, voice, and tense.)",
-      "context": "Peer review is meant to filter weak research before publication, but reviewers themselves operate under incentives that can quietly distort the process. A reviewer who recommends rejection risks little, since a rejected paper's fate is invisible to the wider field, while a reviewer who champions a paper that later proves flawed risks visible professional embarrassment. This asymmetry may push reviewers toward excessive caution, rejecting borderline but potentially valuable work rather than risk being publicly associated with an eventual failure. Some journals have experimented with open review, in which reviewer identities and comments are published alongside the paper, specifically to make this asymmetry visible and, proponents hope, correct for it.\n\nDefinitions\n(a) a lack of balance or equal treatment between two things\n(b) to publicly support or advocate strongly for something\n(c) careful avoidance of risk or unnecessary danger\n(d) a feeling of shame or awkwardness caused by an embarrassing situation\n(e) to formally reject or refuse to accept something\n(f) able to be perceived or noticed, not hidden\n(g) to postpone a decision until further evidence is available\n(h) a general tendency to favour one outcome over another",
+      "context": "A defendant's attorney who consolidates every piece of evidence into a single, coherent narrative for the jury often achieves better outcomes than one who presents each fact in isolation without connecting them into a clear overall story. Legal scholars studying jury comprehension note that jurors asked to concentrate on dozens of disconnected details frequently lose track of which specific facts actually support the defence's central argument, whereas a consolidated narrative gives jurors a single thread to follow through an otherwise complicated case.\n\nDefinitions\n(a) a lawyer who represents a client in legal matters\n(b) to combine several things into a single, stronger whole\n(c) the person formally accused in a legal case\n(d) to focus attention or effort on a specific thing\n(e) a group of citizens who decide a verdict\n(f) to arrest or take into custody\n(g) to patrol or guard an area regularly\n(h) a formal, written request submitted for consideration",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "3" },
+        { "id": "2", "text": "4" },
+        { "id": "3", "text": "5" },
+        { "id": "4", "text": "6" },
+        { "id": "5", "text": "7" }
       ]
     },
     {
@@ -203,13 +203,13 @@
       "number": 15,
       "type": "multiple_choice",
       "text": "Which sentence best fits the blank?",
-      "context": "Founder's syndrome describes a recurring pattern in small organisations where the very founder whose vision and drive built the institution eventually becomes the main obstacle to its continued growth, resisting the delegation, formal structure, and shared decision-making an organisation needs once it outgrows what one person can personally oversee. The syndrome is not really about a decline in the founder's ability; it is that ________. Boards that recognise the pattern early sometimes manage a gradual transition of authority, but many organisations only address it after a damaging conflict forces the issue.",
+      "context": "A museum that reports a growing membership count is sometimes assumed by its board to be reaching an increasingly broad and contemporary audience, even when the actual increase comes almost entirely from existing members renewing rather than new visitors joining. A membership count treated this way ________. The museum's true audience reach, in other words, may look nothing like what the headline growth figure alone would suggest.",
       "options": [
-        { "id": "1", "text": "the organisation's growth has made the founder's original, hands-on style increasingly unsuited to its needs" },
-        { "id": "2", "text": "the founder was never genuinely capable of building a successful organisation in the first place" },
-        { "id": "3", "text": "boards are typically unwilling to intervene in any founder-led organisation under any circumstances" },
-        { "id": "4", "text": "small organisations should avoid growth entirely in order to preserve the founder's original vision" },
-        { "id": "5", "text": "formal structure and shared decision-making are unnecessary for any organisation regardless of size" }
+        { "id": "1", "text": "always accurately reflects genuine growth in the museum's underlying audience" },
+        { "id": "2", "text": "can mask a stagnant audience base behind a steadily rising renewal-driven total" },
+        { "id": "3", "text": "is impossible to calculate without a complete visitor survey" },
+        { "id": "4", "text": "has recently been replaced by a more transparent attendance metric everywhere" },
+        { "id": "5", "text": "depends entirely on which specific exhibitions the museum happens to host" }
       ]
     },
     {
@@ -217,13 +217,13 @@
       "number": 16,
       "type": "multiple_choice",
       "text": "Which sentence does NOT fit the overall flow of the passage?",
-      "context": "Wolves reintroduced to a national park after a decades-long absence altered the landscape in ways ecologists had not fully anticipated. With wolves present again, deer and elk avoided lingering in open ① valleys and riverbanks, where they had previously overgrazed young trees undisturbed. This ② behavioural shift allowed willow and aspen saplings to recover in areas that had been grazed bare for generations. Wolves themselves typically live in tightly structured family packs with a clear and stable ③ social hierarchy. The recovering vegetation stabilised riverbanks, which had been eroding without root ④ systems to hold the soil in place. Beavers, which depend on the recovering willow for both food and ⑤ dam-building material, returned to stretches of river they had abandoned for decades.",
+      "context": "A besieged fort's ability to withstand prolonged assault depended less on the thickness of its walls alone than on the design of its overall defensive layout, a lesson military engineers absorbed gradually across several centuries of fortress construction. ① _Early fortresses relied almost entirely on tall, thick vertical walls, a design that proved highly vulnerable once cannon technology advanced sufficiently to concentrate repeated fire on a single weak point._ ② _Later fortress designs instead incorporated angled bastions positioned to allow defenders to fire along the length of an attacking force's approach, rather than relying on wall thickness alone._ ③ _Modern museums now display many surviving cannon models from this era, allowing visitors to examine their construction up close._ ④ _This shift from passive wall thickness to active, coordinated defensive fire measurably reduced how often besieging armies successfully breached a fortress's outer defences._ ⑤ _Fortress design, in this sense, evolved less around resisting force directly and more around actively countering an attacker's specific approach._",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
@@ -231,13 +231,13 @@
       "number": 17,
       "type": "multiple_choice",
       "text": "Which words best complete blanks (A) and (B)?",
-      "context": "Simultaneous interpreters, converting spoken language in real time at international conferences, report an experience closer to reflex than deliberate translation, producing a fluent target-language sentence before the source sentence has even finished. Studies of experienced interpreters suggest this fluency reflects (A) . Years of practice have built dense, automatic mappings between entire phrase-level chunks in one language and their equivalents in another, allowing the interpreter to output a chunk almost as soon as it is recognised rather than translating word by word. A trainee interpreter, lacking this chunk-level mapping, (B) , producing far more halting and delayed output even when their vocabulary knowledge is otherwise strong.",
+      "context": "A defence strategy that concentrates entirely on discrediting a single prosecution witness can appear, to an inexperienced observer, dangerously narrow compared to a strategy that contests every piece of evidence equally. Trial strategists who study jury outcomes closely find the concentrated strategy (A) ________, precisely because a jury asked to track fewer, more memorable threads (B) ________.",
       "options": [
-        { "id": "1", "text": "(A) a rare natural talent unrelated to how many hours have been practised\n(B) instantly matches the fluency of an experienced interpreter regardless of training" },
-        { "id": "2", "text": "(A) automatic, chunk-level pattern-matching built from extensive practice\n(B) must translate more slowly, working closer to the level of individual words" },
-        { "id": "3", "text": "(A) a memorised script prepared in advance of the specific conference\n(B) performs identically to an experienced interpreter on unfamiliar material" },
-        { "id": "4", "text": "(A) a skill entirely unrelated to prior exposure to either language\n(B) becomes too anxious to produce any translation at all" },
-        { "id": "5", "text": "(A) random guessing that happens to align with the source sentence\n(B) outperforms experienced interpreters precisely due to less accumulated habit" }
+        { "id": "1", "text": "(A) always performs worse than a strategy contesting every piece of evidence  (B) becomes overwhelmed and disengages entirely from the case" },
+        { "id": "2", "text": "(A) can outperform a broader strategy despite appearing narrower  (B) retains and weighs that evidence more effectively than one asked to track dozens" },
+        { "id": "3", "text": "(A) is illegal in most jurisdictions and cannot actually be used  (B) requires no jury deliberation whatsoever" },
+        { "id": "4", "text": "(A) has recently been banned from criminal trials entirely  (B) was independently verified by an appeals court" },
+        { "id": "5", "text": "(A) is identical in effectiveness to any other possible strategy  (B) was selected using a fully randomised method" }
       ]
     },
     {
@@ -245,69 +245,69 @@
       "number": 18,
       "type": "multiple_choice",
       "text": "How many of the words below CANNOT fit into any of the blanks (A), (B), (C), or (D)? (More than one word may fit each blank.)",
-      "context": "Public consultations are often criticised for (A)      mainly the residents who are already engaged and vocal, leaving quieter or more marginal groups systematically underrepresented in the feedback a council receives. Planners describe this as a (B)      sample masquerading as broad community input. Some cities have experimented with randomly selected citizen panels specifically to (C)      this imbalance, deliberately including residents who would never have attended a traditional public meeting. Critics counter that a panel too small or too briefly convened remains just as (D)      as the meetings it was meant to replace.\n\n< word box >\nattracting / skewed / correct / representative / distorted / involving / balanced / unrepresentative / rectify / neutral / engaging / genuine / random",
+      "context": "A city council proposing a new highway toll must first (A) ________ enough commuter support to survive the initial public backlash, since a toll residents actively resent rarely (B) ________ long enough to demonstrate its intended traffic-reduction benefit. Councillors who (C) ________ commuter concerns during the planning stage typically face far stronger opposition later, once the toll is formally (D) ________.\n\n< word box >\nsecure / disregard / survive / amend / legalize / concur / progress / aggressive / count on / confer / convention / carry on / concurrent",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "7" },
+        { "id": "2", "text": "8" },
+        { "id": "3", "text": "9" },
+        { "id": "4", "text": "10" },
+        { "id": "5", "text": "11" }
       ]
     },
     {
       "id": "q19",
       "number": 19,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate place for the given sentence: \"Crucially, none of the participants could say why they preferred the repeatedly viewed image over the new one.\"",
-      "context": "In one study, participants were briefly shown a series of abstract shapes, some repeated several times across the session, others displayed only once. ( ① ) Afterward, asked simply to rate how much they liked each shape, participants consistently favoured the frequently shown ones over those seen only once. ( ② ) This preference persisted even though participants could not reliably identify which shapes had actually been repeated when asked directly. ( ③ ) Researchers call this the mere-exposure effect, and note that it operates below conscious awareness rather than through any deliberate reasoning about familiarity. ( ④ ) The effect has since been documented across music, faces, and even the letters that make up a person's own name. ( ⑤ )",
+      "text": "Choose the most appropriate place for the given sentence: \"The junior attorney who had actually identified the key inconsistency, however, was told to let a senior colleague present it as their own discovery in court.\"",
+      "context": "Legal case studies often credit whoever formally presented a winning argument in court, rather than whoever originally identified the underlying insight behind it. ( ① ) A famous acquittal, for instance, is often attributed entirely to the lead attorney's closing argument. ( ② ) Legal textbooks typically centre this closing argument as the case's decisive turning point. ( ③ ) ( ④ ) This pattern recurs across many legal case studies, where the credited presentation obscures the junior researcher whose earlier work actually made the argument possible. ( ⑤ ) Recognising it requires deliberately asking whose research the winning argument actually depended on.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q20",
       "number": 20,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate place for the given sentence: \"This appears to depend less on skill at deception and more on unfamiliarity with what a genuine bluff typically looks like.\"",
-      "context": "Poker players occasionally attempt to signal false confidence through posture and betting pattern, hoping to convince opponents they hold a stronger hand than they do. ( ① ) Experienced players, however, are frequently more successful at spotting a novice's bluff than a fellow professional's. ( ② ) A novice unfamiliar with typical betting rhythms often bluffs in a way that, however confident it looks to the novice themselves, deviates noticeably from patterns experienced players have seen thousands of times before. ( ③ ) An experienced player's bluff, by contrast, is calibrated specifically against what other experienced players expect, making it considerably harder for another expert to distinguish from a genuine strong hand. ( ④ ) Deception, in this sense, is a skill that must be calibrated against a specific, well-informed audience to be effective. ( ⑤ )",
+      "text": "Choose the most appropriate place for the given sentence: \"Unlike a permanent structural fix, however, this kind of maintenance must be repeated at regular intervals for as long as the fortification remains in active use.\"",
+      "context": "Historic fortifications kept in active military use through periodic maintenance, rather than a single comprehensive rebuild, often remain functional far longer than fortifications restored once and then left untouched. ( ① ) Military engineers studying these structures note that maintenance addressing only visibly urgent damage often lets less visible structural issues worsen quietly underneath. ( ② ) A fortification maintained this way can appear structurally sound for years while a serious hidden weakness continues developing unnoticed. ( ③ ) Fortifications that instead undergo smaller, more frequent maintenance tend to have each underlying weakness caught while still minor and inexpensive to address. ( ④ ) This is why some military heritage sites now schedule minor maintenance annually rather than waiting for one large restoration. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q21",
       "number": 21,
       "type": "multiple_choice",
-      "text": "\"A city bike-share programme illustrates how a system optimised for one goal can undermine a related one.\" Choose the most appropriate order for the paragraphs following the given passage.",
-      "context": "(A) Because riders overwhelmingly travel downhill or with the wind, bikes accumulate at low-lying or downwind stations while uphill and upwind stations sit empty, leaving would-be riders there without a bike when they need one.\n(B) The programme's initial design succeeded in maximising total rides by placing stations exactly where demand was highest at each specific point in the city.\n(C) Solving this distribution problem now requires the operator to run trucks that physically redistribute bikes overnight, an ongoing cost the original station-placement design never anticipated.",
+      "text": "\"A court system that introduced electronic case filing saw processing delays fall sharply within the first year.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Clerks had previously processed paper filings by hand, a method prone to misplaced documents and delays during periods of high case volume.\n\n(B) The electronic system instead flags a filing's missing documentation automatically, before a case can even be scheduled for its first hearing.\n\n(C) The improvement, court administrators concluded, came less from any change to legal procedure itself than from removing the specific human error the old paper process had allowed.",
       "options": [
-        { "id": "1", "text": "(A)-(B)-(C)" },
-        { "id": "2", "text": "(A)-(C)-(B)" },
-        { "id": "3", "text": "(B)-(A)-(C)" },
-        { "id": "4", "text": "(B)-(C)-(A)" },
-        { "id": "5", "text": "(C)-(A)-(B)" }
+        { "id": "1", "text": "(A) → (B) → (C)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(C) → (A) → (B)" }
       ]
     },
     {
       "id": "q22",
       "number": 22,
       "type": "multiple_choice",
-      "text": "\"Coral polyps host microscopic algae inside their own tissue in a relationship neither partner can easily survive without.\" Choose the most appropriate order for the paragraphs following the given passage.",
-      "context": "(A) In exchange, the algae receive a protected, sunlit home and a steady supply of the polyp's waste compounds, which the algae use as raw material for photosynthesis.\n(B) The algae, in turn, photosynthesise and pass a substantial share of the resulting sugars directly to their coral host, typically covering most of the polyp's daily energy needs.\n(C) This tightly balanced exchange is precisely why a stressed coral, forced to expel its algae, faces near-total starvation within weeks rather than a merely reduced food supply.",
+      "text": "\"A shipping port that colour-coded its cargo storage yards saw a measurable drop in misdirected containers within six months.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Before the change, containers bound for different destinations sat in adjacent, visually identical storage rows, distinguishable only by reading a small printed manifest number.\n\n(B) Dockworkers reported that a distinct colour let them identify the correct row instantly, without needing to pause and read a manifest under time pressure.\n\n(C) The improvement, port officials concluded, came less from any change to the containers themselves than from removing a moment of rushed, error-prone reading.",
       "options": [
-        { "id": "1", "text": "(A)-(B)-(C)" },
-        { "id": "2", "text": "(A)-(C)-(B)" },
-        { "id": "3", "text": "(B)-(A)-(C)" },
-        { "id": "4", "text": "(B)-(C)-(A)" },
-        { "id": "5", "text": "(C)-(A)-(B)" }
+        { "id": "1", "text": "(A) → (B) → (C)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(C) → (A) → (B)" }
       ]
     },
     {
@@ -315,41 +315,41 @@
       "number": 23,
       "type": "multiple_choice",
       "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?",
-      "context": "Negotiators distinguish between positions, the specific demands a party states out loud, and interests, the underlying needs those demands are meant to satisfy.\n\n① Two parties can hold flatly incompatible positions while sharing a compatible, or even identical, underlying interest.\n② A tenant demanding a lower rent and a landlord refusing any reduction appear, at the level of position, to have no room for agreement.\n③ Skilled negotiators therefore probe beneath stated positions, asking why a particular demand matters, in search of the interest actually driving it.\n④ If the tenant's real interest is predictable monthly costs rather than the lowest possible figure, and the landlord's is minimising vacancy risk, a longer fixed-term lease may satisfy both without either side's stated position moving at all.\n⑤ Focusing exclusively on position, in other words, can obscure a solution that would satisfy both sides' actual interests.",
+      "context": "Experienced trial attorneys are often assumed to weigh every piece of evidence with equal, methodical attention while preparing a defence, but research into how they actually work tells a more specific story.\n\n① A junior attorney, lacking this developed sense, must instead treat every piece of evidence as comparably important, a slower process that leaves less time to build any single argument thoroughly.\n\n② Experienced attorneys do not weigh every piece of evidence with equal attention; instead, they concentrate disproportionately on whichever single thread is most likely to sway a jury.\n\n③ Years of trial experience build a refined sense of which specific evidence juries actually retain and weigh, so a genuinely persuasive thread is identified early rather than discovered by trial and error.\n\n④ Effective trial strategy, on this account, depends less on contesting every detail equally and more on efficiently identifying which single thread will actually matter to the jury.\n\n⑤ This selective concentration, not superior general legal knowledge, largely explains why experienced attorneys build more persuasive cases than less experienced ones with comparable evidence.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q24",
       "number": 24,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate words for blanks (A) and (B).",
-      "context": "Told a wine costs 90 dollars, tasters rate its flavour more favourably, and show greater activation in brain regions associated with pleasure, than when tasting the identical wine told it costs 10 dollars. The wine in both cases is chemically and physically identical; only the stated price differs. Researchers conclude that price functions here not merely as information about quality but as an active ingredient in the sensory experience itself, genuinely altering how the same liquid is perceived rather than simply altering the taster's stated opinion about it.\n\nA stated price can (A) ________ the sensory experience of an identical product, rather than merely (B) ________ a taster's reported opinion of it.",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).",
+      "context": "A museum's published membership figures can conceal a stagnant underlying visitor base behind a steadily rising renewal-driven total, meaning a board that focuses only on the headline number risks drawing exactly the opposite conclusion from what a new-member breakdown would actually reveal.\n\nBecause a headline membership figure can (A) ________ a stagnant visitor base behind rising renewals, a board that ignores the underlying breakdown risks a conclusion that is the (B) ________ of what the details would show.",
       "options": [
-        { "id": "1", "text": "(A) genuinely alter  (B) reflecting" },
-        { "id": "2", "text": "(A) leave unchanged  (B) genuinely altering" },
-        { "id": "3", "text": "(A) genuinely alter  (B) genuinely altering" },
-        { "id": "4", "text": "(A) leave unchanged  (B) reflecting" },
-        { "id": "5", "text": "(A) subtly disguise  (B) revealing" }
+        { "id": "1", "text": "(A) conceal  (B) opposite" },
+        { "id": "2", "text": "(A) reveal  (B) same" },
+        { "id": "3", "text": "(A) calculate  (B) average" },
+        { "id": "4", "text": "(A) publish  (B) legal minimum" },
+        { "id": "5", "text": "(A) audit  (B) historical record" }
       ]
     },
     {
       "id": "q25",
       "number": 25,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate words for blanks (A) and (B).",
-      "context": "Students who explain a concept aloud to an imaginary listener, even one who is not actually present, recall that concept substantially better on a later test than students who simply reread the same material an equivalent number of times. The act of constructing a clear verbal explanation appears to force a kind of processing that passive rereading never requires: gaps in understanding become immediately obvious the moment an explanation must be produced, in a way they never do while silently reading a fluent, already-complete textbook paragraph.\n\nExplaining a concept aloud improves later recall more than rereading because the act of explaining (A) ________, whereas rereading (B) ________.",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).",
+      "context": "A juror told a piece of evidence has a \"ninety percent reliability rate\" weighs it far more favourably than one told the identical evidence has a \"ten percent error rate,\" despite the two figures being mathematically identical. Trial judges aware of this effect now sometimes instruct juries on both framings explicitly, since presenting only one measurably shapes how evidence is weighed independent of its actual reliability.\n\nA juror's assessment of evidence can shift based on how the (A) ________ statistic is framed, even when the (B) ________ reliability itself remains unchanged.",
       "options": [
-        { "id": "1", "text": "(A) exposes gaps in understanding immediately  (B) can mask those same gaps behind the text's fluency" },
-        { "id": "2", "text": "(A) conceals gaps in understanding  (B) reveals them clearly" },
-        { "id": "3", "text": "(A) requires no real understanding  (B) requires deep understanding" },
-        { "id": "4", "text": "(A) exposes gaps in understanding immediately  (B) exposes them just as clearly" },
-        { "id": "5", "text": "(A) is always less effective  (B) is always more effective" }
+        { "id": "1", "text": "(A) identical  (B) framed" },
+        { "id": "2", "text": "(A) same  (B) underlying" },
+        { "id": "3", "text": "(A) reliability  (B) error" },
+        { "id": "4", "text": "(A) judge's  (B) juror's" },
+        { "id": "5", "text": "(A) witness's  (B) evidence's" }
       ]
     },
     {
@@ -357,14 +357,14 @@
       "number": 26,
       "type": "fill_blank",
       "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
-      "context": "**Word Box: consolidate · correlation · cooperation · enrich · empower**\n\n(A) Years of joint fieldwork fostered genuine __________ between the two research teams.\n(B) The scholarship was designed to __________ students who lacked the financial means to study abroad.\n(C) Analysts found a strong __________ between hours of sleep and exam performance.\n(D) The merger will __________ several smaller regional offices into a single headquarters.\n(E) Regular exposure to new vocabulary can meaningfully __________ a young writer's style."
+      "context": "**Word Box: amend · uphold · legalize · comply · jury**\n\n(A) The appeals court chose to __________ the original verdict rather than order a retrial.\n(B) Lawmakers voted to __________ the outdated regulation before it caused further disputes.\n(C) Several states have moved to __________ the previously restricted activity in recent years.\n(D) Businesses that fail to __________ with the new safety code face significant fines.\n(E) The __________ deliberated for nearly two full days before reaching a verdict."
     },
     {
       "id": "q27",
       "number": 27,
       "type": "written_multi",
       "text": "Read and complete both tasks.",
-      "context": "**Task 27.1 (2)** — Choose the word closest in meaning to the underlined word.\n\nThe negotiations reached a point of genuine _compromise_, with both sides accepting terms neither had originally wanted.\n\n① victory  ② concession  ③ betrayal  ④ postponement  ⑤ confusion\n\n**Task 27.2 (3)** — Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the more / two firms / cooperate / the more / quickly / innovation / spreads / between them)",
+      "context": "**Task 27.1 (2)** — Choose the word closest in meaning to the underlined word.\n\nThe two witnesses' accounts failed to _correspond_ with each other in several important details.\n\n① conflict  ② match  ③ clarify  ④ disqualify  ⑤ predate\n\n**Task 27.2 (3)** — Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the more / a witness / is questioned / the more / inconsistent / their account / becomes)",
       "subQuestions": [
         {
           "label": "27.1",
@@ -381,7 +381,7 @@
       "number": 28,
       "type": "written_multi",
       "text": "Read the passage and complete all three tasks below.",
-      "context": "Online reviews are often assumed to reflect the average customer's genuine experience, but ① _this assumption have proven difficult to defend once reviewing incentives are examined closely._ ② _Customers who had an unusually bad or unusually good experience leaves reviews far more often than customers whose experience was simply adequate, since an ordinary experience rarely feels worth the effort of writing about._ ③ _This means published review averages are skewed by the very customers least representative of the typical experience, while the silent majority, whose experience was merely fine, never weighs in at all._ ④ _Some platforms now prompt every customer for a rating regardless of how they felt, specifically to counteract this selection effect._ ⑤ _Early data from these platforms suggest average ratings shifts modestly upward once ordinary, non-extreme experiences are systematically included._\n\n**Task 28.1 (6)** — Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.\n\n**Task 28.2 (2)** — Using expressions from the passage only, write in English which customers are described as \"least representative of the typical experience.\"\n\n**Task 28.3 (2)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** because / extreme experiences / are / more likely / to be reviewed / than / ordinary ones / review averages / tend to be skewed",
+      "context": "Museum acquisition committees are often assumed to select new works based purely on artistic merit, and ① _this assumption exemplify a common misconception among casual visitors._ ② _Researchers who reviewed acquisition records has found that a work's existing market price frequently influence which pieces a committee prioritises, regardless of independent curatorial assessment._ ③ _A moderately regarded work by a commercially popular artist therefore receives disproportionately generous curatorial attention compared to an obscure but critically admired piece._ ④ _This is why some museums now require acquisition proposals to be reviewed anonymously, without the artist's name or market value attached, specifically to reduce (A) this market-driven bias before any curatorial discussion begins._ ⑤ _Anonymous review, unlike open discussion with market information visible, prevents commercial popularity from quietly shaping curatorial judgement._\n\n**Task 28.1 (6)** — Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.\n\n**Task 28.2 (2)** — Using expressions from the passage only, write in English what the underlined phrase \"(A) this market-driven bias\" refers to.\n\n**Task 28.3 (2)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms. Your answer must use a subject relative pronoun (\"that\" or \"which\").\n\n**< word box >** because / market price / influences / acquisition decisions / some museums now / require / anonymous review / that / reduces / this bias",
       "subQuestions": [
         {
           "label": "28.1",
@@ -389,7 +389,7 @@
         },
         {
           "label": "28.2",
-          "placeholder": "Write which customers are least representative here..."
+          "placeholder": "Write what 'this market-driven bias' refers to here..."
         },
         {
           "label": "28.3",
@@ -402,11 +402,11 @@
       "number": 29,
       "type": "written_multi",
       "text": "Read the passage and complete both tasks below.",
-      "context": "A job advertisement that lists a wide, exhaustive set of required qualifications receives measurably fewer applications from qualified female candidates than an otherwise identical advertisement listing only the qualifications that are genuinely essential, even though the actual job and its true requirements are unchanged in both versions. Surveyed applicants suggest women are more likely to interpret a long list of preferred qualifications as a strict requirement, disqualifying themselves from consideration, while men are more likely to apply despite lacking several listed items. The wording used to describe (A) _it_, rather than any change in the position itself, appears to shape who ultimately applies.\n\n**Task 29.1 (2)** — Explain in English what \"(A) it\" refers to.\n\n**Task 29.2 (3)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** how a job's requirements / are worded / can influence / who applies / even when / the actual position / remains unchanged",
+      "context": "A jury asked to evaluate a case built around a single contested witness sometimes concentrates so heavily on (A) _that one witness's credibility_ that other, less prominent evidence receives comparatively little scrutiny, a pattern defence attorneys are sometimes accused of deliberately encouraging by structuring their argument around a single memorable thread rather than the full body of evidence.\n\n**Task 29.1 (2)** — Explain in English what \"(A) that one witness's credibility\" refers to.\n\n**Task 29.2 (3)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** although / juries may focus / heavily on / one witness / other evidence / can receive / comparatively little / scrutiny",
       "subQuestions": [
         {
           "label": "29.1",
-          "placeholder": "Write what '(A) it' refers to here..."
+          "placeholder": "Write what '(A) that one witness's credibility' refers to here..."
         },
         {
           "label": "29.2",
@@ -419,7 +419,7 @@
       "number": 30,
       "type": "written_multi",
       "text": "Read the passage and complete both tasks below.",
-      "context": "Surgeons performing a long, familiar procedure report that complications are more likely to arise not during the technically demanding opening or closing stages, which naturally command full attention, but during the routine middle stretch, when the procedure has become so practised that focus quietly drifts. In one review of operating-room incident reports, a disproportionate share of avoidable errors clustered in exactly this comfortable middle segment rather than in the objectively harder stages surrounding it. The real risk, it seems, lies not in the moments that feel most difficult, but in the ones that (A) ________.\n\n**Task 30.1 (2)** — Identify TWO specific findings from the passage described, and explain them in English.\n\n**Task 30.2 (3)** — Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(feel / most / while / still / genuinely / comfortable / requiring / focus)",
+      "context": "In a well-known study, jurors asked to estimate an appropriate damages award produced widely varying individual figures, yet when researchers averaged every juror's figure together, the resulting estimate landed close to the figure an independent panel of legal experts had separately proposed, closer than nearly every individual juror's figure had managed alone. The same effect held even when jurors were told in advance that the group's average would be calculated and shared, a finding that persisted (A) ________.\n\n**Task 30.1 (2)** — Identify TWO specific findings from the study described, and explain them in English.\n\n**Task 30.2 (3)** — Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(even / when / jurors / were told / the average / would be shared)",
       "subQuestions": [
         {
           "label": "30.1",

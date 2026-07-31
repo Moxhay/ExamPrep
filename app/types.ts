@@ -26,8 +26,3 @@ export interface Exam {
   description: string
   questions: Question[]
 }
-
-export interface DialogStat {
-  label: string
-  value: string | number
-}

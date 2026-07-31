@@ -1,6 +1,6 @@
-import ExamClient from '../components/ExamClient'
-import { EXAMS, DEFAULT_EXAM_ID } from '../exams'
-import type { Exam } from '../types'
+import ExamClient from '@/app/components/ExamClient'
+import { EXAMS, DEFAULT_EXAM_ID } from '@/app/exams'
+import type { Exam } from '@/app/types'
 
 export default async function ExamenPage({
   searchParams,

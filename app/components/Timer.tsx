@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useRef, useEffect, memo } from 'react'
-import { EXAM_DURATION_MINUTES } from '../const'
+import { EXAM_DURATION_MINUTES } from '@/app/const'
 
 export interface TimerProps {
   onTimeUp: () => void
@@ -33,7 +33,7 @@ const Timer = memo(function Timer({ onTimeUp }: TimerProps) {
     ? 'text-red-600 bg-red-50 border-red-300'
     : timeLeft <= 300
     ? 'text-amber-600 bg-amber-50 border-amber-300'
-    : 'text-gray-900 bg-gray-100 border-gray-200'
+    : 'text-white bg-dark border-dark'
 
   return (
     <span className={`text-sm font-bold tabular-nums px-3 py-1 rounded-lg border ${cls}`}>
