@@ -343,7 +343,7 @@
       "number": 25,
       "type": "multiple_choice",
       "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).",
-      "context": "A user told a software update carries an \"ninety-five percent compatibility rate\" responds far more calmly than one told the identical update carries a \"five percent failure rate,\" despite the two figures being mathematically identical. Software companies aware of this effect now deliberately present both framings together, since presenting only one measurably shapes user sentiment independent of the actual underlying compatibility.\n\nA user's sentiment toward an update can shift based on how the (A) ________ statistic is framed, even when the (B) ________ compatibility itself remains identical.",
+      "context": "A user told a software update carries a \"ninety-five percent compatibility rate\" responds far more calmly than one told the identical update carries a \"five percent failure rate,\" despite the two figures being mathematically identical. Software companies aware of this effect now deliberately present both framings together, since presenting only one measurably shapes user sentiment independent of the actual underlying compatibility.\n\nA user's sentiment toward an update can shift based on how the (A) ________ statistic is framed, even when the (B) ________ compatibility itself remains identical.",
       "options": [
         { "id": "1", "text": "(A) identical  (B) framed" },
         { "id": "2", "text": "(A) same  (B) underlying" },
