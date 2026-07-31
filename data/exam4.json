@@ -8,13 +8,13 @@
       "number": 1,
       "type": "multiple_choice",
       "text": "Which of the following is the most appropriate title for the passage?",
-      "context": "When people are asked to rate an experience afterward, they do not average how they felt at every moment; they report something closer to the emotional intensity of the worst or best moment, combined with how the experience ended. A patient whose procedure ends with a period of mild, static discomfort rather than a peak of sharp pain will remember the whole experience as less unpleasant than a patient whose objectively shorter procedure ends abruptly at its most painful point. Duration barely registers at all. What is retained is a kind of highlight reel, edited severely and weighted heavily toward the final scene.",
+      "context": "A courtroom once treated a confident eyewitness identification as close to definitive proof, since jurors found it intuitively hard to imagine someone misremembering a face they claim to have seen clearly. Decades of controlled memory experiments have complicated this assumption considerably: confidence and accuracy turn out to be only loosely related, and an eyewitness can express complete certainty about an identification later proven, through independent evidence, to be entirely wrong. Some courts have responded by requiring juries to be explicitly warned that confidence is not a reliable proxy for accuracy, a warning that measurably reduces wrongful convictions built on eyewitness testimony alone.",
       "options": [
-        { "id": "1", "text": "Why Longer Experiences Always Feel Worse in Memory" },
-        { "id": "2", "text": "The Peak and the Ending: How Memory Distorts Experience" },
-        { "id": "3", "text": "A Guide to Reducing Pain During Medical Procedures" },
-        { "id": "4", "text": "Why Duration Is the Only Factor in Emotional Memory" },
-        { "id": "5", "text": "How Medical Procedures Reveal the Limits of Modern Medicine" }
+        { "id": "1", "text": "Why Eyewitness Testimony Should Never Be Permitted in Court" },
+        { "id": "2", "text": "Why Eyewitness Confidence Is a Poor Proxy for Actual Accuracy" },
+        { "id": "3", "text": "A History of Jury Selection Procedures" },
+        { "id": "4", "text": "Why Jurors Always Distrust Confident Witnesses" },
+        { "id": "5", "text": "How Courts Train Witnesses to Testify Accurately" }
       ]
     },
     {
@@ -22,13 +22,13 @@
       "number": 2,
       "type": "multiple_choice",
       "text": "Choose the most appropriate topic of the passage.",
-      "context": "People rarely seek out news at random; they gravitate toward sources whose conclusions match the ones they already hold, and they read those sources more carefully and more charitably than ones that unsettle them. This asymmetry does not require dishonesty. A reader scanning a headline that confirms an existing view will accept it after a glance; the same reader encountering a headline that contradicts that view will pause, look for the author's credentials, and search for a competing account before accepting anything. The extra scrutiny is not applied evenly across the political spectrum; it is applied wherever the conclusion is unwelcome.",
+      "context": "A country that sees a wave of skilled workers emigrate abroad is often assumed to suffer a straightforward, one-directional loss of talent, a narrative economists call brain drain. Longitudinal studies of specific emigrant cohorts complicate this narrative considerably: a meaningful share of emigrants who train and work abroad for a decade or two eventually return, bringing back both accumulated expertise and international professional networks the origin country would never have developed on its own, a reverse flow some economists now call brain circulation rather than brain drain. Whether a given wave of emigration nets out as a loss or a long-term gain, it turns out, depends heavily on how strong the incentive to return eventually becomes.",
       "options": [
-        { "id": "1", "text": "the decline of trust in professional journalism" },
-        { "id": "2", "text": "the uneven scrutiny people apply to news that confirms or challenges their views" },
-        { "id": "3", "text": "how political headlines are written to attract clicks" },
-        { "id": "4", "text": "why readers prefer visual media over written articles" },
-        { "id": "5", "text": "the history of confirmation bias research in psychology" }
+        { "id": "1", "text": "the legal requirements for gaining permanent residency abroad" },
+        { "id": "2", "text": "how emigration can eventually become brain circulation rather than a one-directional loss of talent" },
+        { "id": "3", "text": "the total number of skilled workers who emigrate annually" },
+        { "id": "4", "text": "why some countries restrict skilled emigration through policy" },
+        { "id": "5", "text": "a comparison of two specific countries' emigration rates" }
       ]
     },
     {
@@ -36,13 +36,13 @@
       "number": 3,
       "type": "multiple_choice",
       "text": "Choose the most appropriate topic of the passage.",
-      "context": "Coral gets its colour, and most of its food, from a microscopic algae living inside its tissue in a relationship that has lasted for tens of millions of years. When water temperatures rise by even one or two degrees above the seasonal average for several weeks, the coral expels the algae, and with it the colour and the primary food source. The white skeleton that remains is not dead, only starving; if temperatures fall again quickly, the coral can recruit new algae and recover. Repeated bleaching events in close succession, however, leave no recovery window, and it is this repetition, more than any single event, that is now converting reefs into rubble.",
+      "context": "A city council weighing whether to renovate an ageing public housing block or demolish and rebuild it entirely faces a genuine estimation problem: engineers can only approximate how many more decades the existing structure will remain safely habitable, and councils that consistently underestimate a building's remaining lifespan to justify an expensive full rebuild spend public money that a further round of targeted renovation might have deferred for years at a fraction of the cost, while councils that overestimate it risk a sudden, disruptive emergency closure instead.",
       "options": [
-        { "id": "1", "text": "the ancient origin of the algae-coral relationship" },
-        { "id": "2", "text": "why repeated, closely spaced bleaching events are more destructive than isolated ones" },
-        { "id": "3", "text": "methods scientists use to measure ocean temperature" },
-        { "id": "4", "text": "the total percentage of coral reefs lost worldwide" },
-        { "id": "5", "text": "how algae obtain energy through photosynthesis" }
+        { "id": "1", "text": "the architectural techniques used in modern public housing" },
+        { "id": "2", "text": "how misjudging a building's remaining lifespan can lead to costlier decisions in either direction" },
+        { "id": "3", "text": "the total cost of building new public housing nationwide" },
+        { "id": "4", "text": "why residents typically oppose renovation over demolition" },
+        { "id": "5", "text": "a comparison of two specific cities' housing policies" }
       ]
     },
     {
@@ -50,13 +50,13 @@
       "number": 4,
       "type": "multiple_choice",
       "text": "Which of the following best states the main point of the passage?",
-      "context": "Show a group of people a series of words related to old age—Florida, wrinkle, forgetful, bingo—embedded among neutral words, and ask them to build sentences from scrambled versions. Afterward, timed unobtrusively as they leave the building, these participants walk measurably slower down the corridor than a group given neutral words instead. None of them report noticing any theme, still less connecting it to their own pace. The mind, it turns out, does not require awareness of a cue to be shaped by it; a concept activated in one context can quietly adjust behaviour in a completely different one, without ever announcing itself to consciousness.",
+      "context": "Employers who once assumed staff needed to be physically present in an office to be genuinely productive have had to revise that assumption considerably after several years of data from employees who telecommute full time. Output, measured by completed tasks rather than hours logged, turned out to hold steady or even rise for many roles once the daily commute and office interruptions were removed. This does not mean every task benefits equally: roles requiring frequent spontaneous collaboration still show a measurable cost when done remotely, suggesting the real lesson is not that offices are obsolete, but that the assumption linking physical presence to productivity was true for some roles and false for others all along.",
       "options": [
-        { "id": "1", "text": "Walking speed is a reliable indicator of a person's true age." },
-        { "id": "2", "text": "Concepts activated outside conscious awareness can still influence unrelated behaviour." },
-        { "id": "3", "text": "Scrambled sentence tasks are the most accurate psychological measurement tool available." },
-        { "id": "4", "text": "People consciously adjust their behaviour once they notice an experiment's underlying theme." },
-        { "id": "5", "text": "Associations with old age are universally negative across all cultures studied." }
+        { "id": "1", "text": "Telecommuting always produces higher output than working in a physical office." },
+        { "id": "2", "text": "Whether physical presence genuinely improves productivity depends on the specific role, not a universal rule." },
+        { "id": "3", "text": "Every role requiring collaboration is better performed in a physical office." },
+        { "id": "4", "text": "Employers were always correct that offices are essential for all roles." },
+        { "id": "5", "text": "Commuting has no measurable effect on employee output whatsoever." }
       ]
     },
     {
@@ -64,7 +64,7 @@
       "number": 5,
       "type": "multiple_choice",
       "text": "How many of the statements below do NOT agree with the passage?",
-      "context": "For the first two years of learning cello, I measured myself against the other students in my youth orchestra, most of whom had started before they could read. I told myself I was simply unmusical and nearly quit twice. What changed things was a recording. My teacher had, without telling me, recorded my very first lesson, and she played it back for me during a lesson two years in. I didn't recognise the sound at first—thin, hesitant, badly out of tune—and then I realised it was me. I had improved so gradually that I had no memory of ever sounding like that. Since then, I keep a recording every few months, not to celebrate finishing anything, but so that future-me has evidence the present version of me can't see.\n\nStatements\n(a) The writer initially judged her progress by comparing herself to more experienced students.\n(b) The writer seriously considered quitting the cello on more than one occasion.\n(c) The writer immediately recognised her own playing in the old recording.\n(d) The teacher recorded the lesson with the writer's advance knowledge and consent.\n(e) The writer now records herself periodically to track long-term progress.\n(f) The writer records herself in order to celebrate finishing specific pieces.",
+      "context": "I spent my first year as a small-business owner treating every minor supplier delay as a genuine misfortune worth panicking over, convinced that any disruption at all would be the one that finally sank the shop. My accountant, reviewing a full year of these panics after the fact, pointed out that not a single one had actually threatened the business's survival; each had simply required a delayed order, a substitute supplier, or a few apologetic emails to customers. What had felt, in the moment, like a series of near-catastrophes turned out, in hindsight, to be the perfectly ordinary texture of running any small business. I still feel a flicker of the old panic when a shipment is delayed, but I no longer mistake that flicker for actual danger.\n\nStatements\n(a) The writer initially treated every minor supplier delay as a genuine crisis.\n(b) The accountant found that at least one delay had genuinely threatened the business's survival.\n(c) Resolving most delays required only a substitute supplier or an apologetic email.\n(d) The writer now recognises the delays as ordinary rather than catastrophic, in hindsight.\n(e) The writer no longer feels any reaction at all when a shipment is delayed.\n(f) The accountant reviewed a full year of the writer's reactions to disruptions.",
       "options": [
         { "id": "1", "text": "2" },
         { "id": "2", "text": "3" },
@@ -78,13 +78,13 @@
       "number": 6,
       "type": "multiple_choice",
       "text": "How many of the following words are correctly matched with their meanings?",
-      "context": "(a) illiterate — unable to read or write\n(b) irresistible — easy to resist or refuse\n(c) disapprove — to have or express an unfavourable opinion of something\n(d) disclose — to keep something secret and hidden from others\n(e) degenerate — to improve steadily in quality or condition\n(f) malfunction — to fail to function or work properly\n(g) mislead — to give a false impression or guide someone wrongly\n(h) mistrust — to have complete confidence and trust in someone\n(i) invaluable — extremely useful; too valuable to be measured\n(j) prolong — to extend the duration of something",
+      "context": "(a) antibacterial — able to kill or inhibit the growth of bacteria\n(b) mistrust — complete confidence and trust in someone\n(c) irresistible — too tempting or powerful to be resisted\n(d) misfortune — an instance of bad luck\n(e) illiteracy — the ability to read and write fluently\n(f) degeneration — the process of declining in quality or function\n(g) immigrate — to come to live permanently in a foreign country\n(h) inborn — acquired through years of deliberate practice\n(i) telecommute — to work remotely using digital communication\n(j) renewable — capable of being replenished or made valid again",
       "options": [
-        { "id": "1", "text": "4" },
-        { "id": "2", "text": "5" },
-        { "id": "3", "text": "6" },
-        { "id": "4", "text": "7" },
-        { "id": "5", "text": "8" }
+        { "id": "1", "text": "5" },
+        { "id": "2", "text": "6" },
+        { "id": "3", "text": "7" },
+        { "id": "4", "text": "8" },
+        { "id": "5", "text": "9" }
       ]
     },
     {
@@ -92,13 +92,13 @@
       "number": 7,
       "type": "multiple_choice",
       "text": "Which statement does NOT agree with the two explanations given in the passage?",
-      "context": "Many island species approach humans and novel predators with little apparent fear, a phenomenon naturalists call island tameness. One explanation holds that isolation from mammalian predators over many generations has genetically selected for calmer temperaments, since vigilance that serves no purpose is metabolically wasteful and animals that spend less energy on unnecessary alarm reproduce more successfully. A second, competing explanation denies that any active selection for calmness has occurred at all; it argues that fear responses persist only where they are tested regularly by real threats, and that in their complete absence, the behaviour does not disappear through selection so much as simply fail to be maintained, drifting away from disuse rather than being selected against.",
+      "context": "Firms that formally pair new hires with a senior mentor report measurably lower first-year turnover than firms that leave new hires to find informal guidance on their own, a pattern two competing explanations attempt to account for. One explanation holds that a formal mentor simply transmits practical, role-specific knowledge faster than trial and error alone would allow, shortening the painful early period during which a new hire feels incompetent. A second, competing explanation instead proposes that the mentorship relationship itself, independent of any specific knowledge transmitted, signals to the new hire that the organisation is invested in their long-term success, and it is this signal of investment, not the practical content, that actually reduces the urge to quit early.",
       "options": [
-        { "id": "1", "text": "The first explanation treats calm temperament as an actively selected genetic trait." },
-        { "id": "2", "text": "The first explanation suggests unnecessary vigilance carries a metabolic cost." },
-        { "id": "3", "text": "The second explanation attributes tameness to genetic selection for calmness, identical to the first." },
-        { "id": "4", "text": "The second explanation suggests fear responses fade through disuse rather than active selection." },
-        { "id": "5", "text": "Both explanations attempt to account for the same observed pattern of reduced fear." }
+        { "id": "1", "text": "The first explanation attributes lower turnover to faster transmission of practical, role-specific knowledge." },
+        { "id": "2", "text": "The first explanation suggests mentorship shortens the painful early period of feeling incompetent." },
+        { "id": "3", "text": "The second explanation claims the specific knowledge transmitted is what actually reduces turnover." },
+        { "id": "4", "text": "The second explanation attributes lower turnover to a signal of organisational investment in the new hire." },
+        { "id": "5", "text": "Both explanations attempt to account for the same pattern of lower first-year turnover." }
       ]
     },
     {
@@ -107,25 +107,25 @@
       "type": "multiple_choice",
       "text": "Which underlined word is NOT used appropriately in context?",
       "options": [
-        { "id": "1", "text": "The soldier's cowardice was said to _dishonor_ his family's long military tradition." },
-        { "id": "2", "text": "The new curriculum was designed to _encompass_ both theoretical and practical training." },
-        { "id": "3", "text": "Because he could _foresee_ the storm approaching, the captain changed course early." },
-        { "id": "4", "text": "The workshop taught students how to _differentiate_ between reliable and unreliable sources." },
-        { "id": "5", "text": "The suspect openly _evaded_ all of the detective's questions by answering each one directly and honestly." }
+        { "id": "1", "text": "A faster competitor eventually managed to _overtake_ the once-dominant market leader." },
+        { "id": "2", "text": "Managers who _disregard_ early warning signs from staff often face a larger crisis later." },
+        { "id": "3", "text": "The company decided to _broaden_ its product line to reach new customers." },
+        { "id": "4", "text": "She tends to _dwell on_ small mistakes long after everyone else has forgotten them." },
+        { "id": "5", "text": "The manager chose to _call on_ the quietest employee in the room, deliberately skipping her entirely." }
       ]
     },
     {
       "id": "q9",
       "number": 9,
       "type": "multiple_choice",
-      "text": "Which of the following best explains the meaning of the underlined phrase \"the spotlight effect\"?",
-      "context": "Ask someone to wear an embarrassing T-shirt into a room of strangers and then estimate what percentage of people noticed it; the guess is reliably double or triple the number who actually did, according to those strangers when asked afterward. Underlying this is what researchers call _the spotlight effect_: an assumption that one's own appearance and mistakes occupy far more space in others' attention than they in fact do, because each of us is so absorbed in our own experience that we mistake that absorption for the world's.",
+      "text": "Which of the following best explains the meaning of the underlined phrase \"the correlation trap\"?",
+      "context": "Two variables can correlate strongly across an entire population without either one causing the other, a confusion researchers call _the correlation trap_: cities with more ice cream vendors also tend to have higher drowning rates, not because ice cream causes drowning, but because both independently increase during warmer months. Analysts who treat a strong correlation alone as sufficient evidence of a causal relationship risk building policy on a coincidence rather than a genuine mechanism.",
       "options": [
-        { "id": "1", "text": "people intentionally hide their mistakes from others to avoid embarrassment" },
-        { "id": "2", "text": "observers actually pay very close, accurate attention to a stranger's appearance" },
-        { "id": "3", "text": "people tend to overestimate how much others notice and remember about them" },
-        { "id": "4", "text": "embarrassing clothing objectively attracts more attention than ordinary clothing" },
-        { "id": "5", "text": "self-absorption makes people indifferent to how they are perceived by others" }
+        { "id": "1", "text": "two variables that correlate strongly must always share a direct causal relationship" },
+        { "id": "2", "text": "mistaking a strong correlation for proof of causation can lead to flawed conclusions" },
+        { "id": "3", "text": "ice cream consumption is a leading cause of drowning incidents worldwide" },
+        { "id": "4", "text": "correlated variables can never share any underlying common cause" },
+        { "id": "5", "text": "policy should never be based on any statistical evidence whatsoever" }
       ]
     },
     {
@@ -133,13 +133,13 @@
       "number": 10,
       "type": "multiple_choice",
       "text": "Which underlined word is NOT appropriate in context?",
-      "context": "Habit is the enormous fly-wheel of society, its most precious conserving agent. It alone is what ① _keeps_ the fisherman and the deck-hand at sea through the winter; it holds the miner in his darkness, and nails the countryman to his log-cabin and his lonely farm through all the months of snow; it protects us from the ② _rivalry_ of more capable competitors, for once a way of doing things is learned, novelty is ③ _disorienting_ and a burden to acquire. The great thing, then, in all education, is to make our nervous system our ④ _ally_ instead of our enemy. It is to fund and capitalise our acquisitions, and live at ease upon the ⑤ _principal_ of the fund.",
+      "context": "A hospital introducing a new patient-record system must ensure secure ① _transmission_ of sensitive data between departments, since a breach at any single point compromises the entire chain. Doctors trained under the old paper-based system sometimes resist adopting the ② _conventional_ digital workflow, preferring the informal shortcuts they had already mastered. Hospital administrators have learned that a brief ③ _intervention_, training staff directly rather than relying on written manuals alone, dramatically improves adoption rates. Scheduling this training without disrupting regular patient care requires slotting sessions into short ④ _intermissions_ between shifts rather than pulling staff away from their assigned duties. Students on medical placements, treated as ⑤ _extracurricular_ staff for training purposes, are given the same onboarding as full-time employees.",
       "options": [
-        { "id": "1", "text": "keeps" },
-        { "id": "2", "text": "rivalry" },
-        { "id": "3", "text": "disorienting" },
-        { "id": "4", "text": "ally" },
-        { "id": "5", "text": "principal" }
+        { "id": "1", "text": "transmission" },
+        { "id": "2", "text": "conventional" },
+        { "id": "3", "text": "intervention" },
+        { "id": "4", "text": "intermissions" },
+        { "id": "5", "text": "extracurricular" }
       ]
     },
     {
@@ -147,13 +147,13 @@
       "number": 11,
       "type": "multiple_choice",
       "text": "Which of the following questions CANNOT be answered from the passage?",
-      "context": "Octopuses change both the colour and the texture of their skin in under a second, using millions of pigment-filled cells called chromatophores that expand and contract under direct neural control, bypassing the slower hormonal signalling most camouflage in nature relies on. Remarkably, octopuses are colourblind; the mechanism by which they select a matching colour remains only partly understood, though researchers suspect that photoreceptor cells embedded directly in the skin itself may allow the animal to sense light without needing to see colour through its eyes at all. A disturbed octopus can also alter the texture of its skin, raising papillae to mimic the bumpy contour of coral or rock within the same instant that the colour shift occurs.",
+      "context": "A besieged fortress with sufficient stored food and water can, in principle, outlast an attacking army indefinitely, since the besieging force must itself maintain a costly supply line to feed its own troops for as long as the siege continues. Historians studying prolonged sieges note that the besieging commander's real constraint was rarely the fortress's defences themselves, but the besieging army's own capacity to sustain a supply chain over months or years without the campaign becoming more costly than whatever the fortress was actually worth capturing. Many historically famous sieges ended not through a breach of the walls, but through negotiated surrender once both sides recognised the campaign had become unsustainable for the attacker.",
       "options": [
-        { "id": "1", "text": "What structures allow an octopus to change skin colour so quickly?" },
-        { "id": "2", "text": "Is the colour-matching mechanism in octopuses fully understood by researchers?" },
-        { "id": "3", "text": "How many distinct colours can an octopus's skin display simultaneously?" },
-        { "id": "4", "text": "What is one hypothesis for how a colour-blind octopus selects a matching colour?" },
-        { "id": "5", "text": "What additional change can a disturbed octopus make to its skin besides colour?" }
+        { "id": "1", "text": "What can allow a besieged fortress to outlast an attacking army?" },
+        { "id": "2", "text": "What was the besieging commander's real constraint, according to historians?" },
+        { "id": "3", "text": "How many historically famous sieges are documented in total?" },
+        { "id": "4", "text": "How did many historically famous sieges actually end?" },
+        { "id": "5", "text": "What did both sides need to recognise for a negotiated surrender to occur?" }
       ]
     },
     {
@@ -161,7 +161,7 @@
       "number": 12,
       "type": "multiple_choice",
       "text": "How many of the underlined parts are grammatically INCORRECT?",
-      "context": "Decision fatigue is now a well-documented phenomenon among professionals who make many consequential choices per day. ① _Judges reviewing parole applications has been shown to grant parole far more often early in the morning than late in the afternoon, regardless of the merits of any individual case._ ② _Researchers attribute this pattern not to bias against particular defendants but to the gradual depletion of a limited mental resource._ ③ _Each decision, however small, appear to draw on the same finite reserve, whether the choice concerns parole, lunch, or a wardrobe._ ④ _This is why some highly deliberate people, most famously several well-known executives, choose to wear a near-identical outfit every day, removing one recurring decision entirely._ ⑤ _The evidence suggests that willpower behaves less like a stable character trait and more like a muscle that tires with use._",
+      "context": "① _A small enterprise that qualifies for a government recruitment subsidy often overlook how quickly the subsidy's administrative burden can outweigh its actual financial benefit._ ② _Firms that has claimed the subsidy report spending several unpaid hours each month simply maintaining the required paperwork._ ③ _Some enterprises eventually conclude the subsidy is not worth pursuing at all, once the hidden administrative cost is properly accounted for._ ④ _Policymakers who designed the subsidy scheme assumes small firms would have spare staff capacity to handle the paperwork._ ⑤ _A simplified application process, introduced after years of complaints, has measurably increased how many eligible firms actually claim the subsidy._",
       "options": [
         { "id": "1", "text": "1" },
         { "id": "2", "text": "2" },
@@ -175,13 +175,13 @@
       "number": 13,
       "type": "multiple_choice",
       "text": "Which underlined part is grammatically incorrect?",
-      "context": "One of the more durable findings in educational psychology ① _is_ that students who believe intelligence can be developed persist longer after failure than students who believe it is fixed. Researchers ② _have found_ that the specific wording of praise matters enormously: praising a child for being smart, after a success, ③ _predict_ worse performance on a subsequent difficult task than praising the same child for the effort or strategy used. The smart-praised children, it seems, ④ _interpret_ difficulty as evidence against the very trait they were just told they possessed, and so they avoid challenges that might reveal a flaw. Praise aimed at process rather than person, by contrast, ⑤ _keeps_ the door open to continued effort.",
+      "context": "Copyright law ① _grants_ a creator exclusive rights over a work for a fixed period, after which the work enters the public domain. A work that ② _qualifies_ for copyright protection does not require formal registration in most countries, since protection begins automatically upon creation. Courts that ③ _has ruled_ on copyright disputes must often determine whether a disputed work was genuinely copied or independently created by coincidence. A defendant found liable for infringement ④ _typically owes_ damages calculated from the original creator's actual lost revenue. Legal scholars who study this area ⑤ _have noted_ that proving independent creation, rather than coincidental similarity, remains one of the hardest tasks in copyright litigation.",
       "options": [
-        { "id": "1", "text": "is" },
-        { "id": "2", "text": "have found" },
-        { "id": "3", "text": "predict" },
-        { "id": "4", "text": "interpret" },
-        { "id": "5", "text": "keeps" }
+        { "id": "1", "text": "grants" },
+        { "id": "2", "text": "qualifies" },
+        { "id": "3", "text": "has ruled" },
+        { "id": "4", "text": "typically owes" },
+        { "id": "5", "text": "have noted" }
       ]
     },
     {
@@ -189,13 +189,13 @@
       "number": 14,
       "type": "multiple_choice",
       "text": "Among the dictionary definitions below, how many describe words that do NOT appear in the passage? (Ignore singular/plural forms, voice, and tense.)",
-      "context": "Long-distance friendships are often assumed to fade through simple neglect, but researchers studying attachment have found the predominant cause lies elsewhere: people routinely overestimate how much small, regular contact matters compared to occasional, meaningful reunions. Friends who take the precaution of scheduling an annual visit, even without frequent calls between times, report closer bonds than friends who exchange frequent but shallow messages. The quality of contact, in other words, does not neatly correspond to its frequency; when old friends finally reunite in person after months apart, the relationship often resumes as though no time had passed at all.\n\nDefinitions\n(a) most common, strong, or noticeable among others\n(b) a measure taken in advance to prevent harm\n(c) to judge something to be greater than it really is\n(d) to discuss something with someone, or to grant or bestow something\n(e) to match or be equivalent to something else\n(f) to come together again after a period of separation\n(g) to bring upon oneself something unwelcome, such as a debt or penalty\n(h) to move back or become more distant",
+      "context": "A civil lawsuit alleging fraud against a former business partner can take years to reach trial, during which both sides accumulate substantial legal costs regardless of the eventual verdict. Defendants who are ultimately found not liable still frequently describe the prolonged process itself as a genuine punishment, one that damages professional reputation and personal finances long before any judgment is delivered. Legal reformers argue that faster resolution procedures for civil disputes would reduce this hidden cost considerably, even if the formal verdict itself remained unchanged.\n\nDefinitions\n(a) a formal legal case brought before a court\n(b) a wicked or ruthless character in a story\n(c) close, careful examination of something\n(d) to formally call someone to appear, especially in court\n(e) the armed forces of a country\n(f) a large group of naval ships\n(g) to surround a fortified place in order to capture it\n(h) a person held prisoner, especially during a conflict",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "3" },
+        { "id": "2", "text": "4" },
+        { "id": "3", "text": "5" },
+        { "id": "4", "text": "6" },
+        { "id": "5", "text": "7" }
       ]
     },
     {
@@ -203,13 +203,13 @@
       "number": 15,
       "type": "multiple_choice",
       "text": "Which sentence best fits the blank?",
-      "context": "Organizational culture is often compared to an iceberg, and the comparison holds up better than most borrowed metaphors do. Above the waterline sit the artefacts anyone can observe on a single visit: the office layout, the dress code, the way meetings open and close. Below the waterline, invisible to a visitor and often only partly visible to the employees themselves, sit the assumptions that actually generate those artefacts: what the organisation believes about time, hierarchy, and whether mistakes are safe to admit. Consultants who attempt to change culture by redesigning the visible artefacts alone—new furniture, a revised dress code—routinely find the change is cosmetic and short-lived, because ________. The submerged mass, not the visible tip, determines whether a new artefact survives contact with the organisation's actual habits.",
+      "context": "A city that installs solar panels on every municipal building is sometimes praised for having become fully renewable, even though the electricity grid the buildings draw from at night still depends heavily on fossil fuel generation elsewhere. The panels are genuinely renewable in themselves; the claim that the city's energy use as a whole has become renewable ________. A single visible, celebrated intervention can obscure a much larger, less visible system that remains largely unchanged.",
       "options": [
-        { "id": "1", "text": "the artefacts themselves are far more expensive to redesign than the assumptions beneath them" },
-        { "id": "2", "text": "employees generally prefer old furniture and traditional dress codes to newer alternatives" },
-        { "id": "3", "text": "the underlying assumptions that produced the old artefacts remain untouched and simply regenerate them" },
-        { "id": "4", "text": "consultants rarely have enough authority within a company to make any lasting changes" },
-        { "id": "5", "text": "visible artefacts and underlying assumptions have no meaningful relationship to one another" }
+        { "id": "1", "text": "has been independently verified by every major energy auditor in the country" },
+        { "id": "2", "text": "quietly overstates what the panels alone can actually guarantee about the city's total energy use" },
+        { "id": "3", "text": "is entirely accurate regardless of where the grid's remaining electricity comes from" },
+        { "id": "4", "text": "has recently been made illegal to state in any official city report" },
+        { "id": "5", "text": "depends solely on how many panels were installed, regardless of the grid" }
       ]
     },
     {
@@ -217,13 +217,13 @@
       "number": 16,
       "type": "multiple_choice",
       "text": "Which sentence does NOT fit the overall flow of the passage?",
-      "context": "Many flowers that appear plain or uniformly coloured to the human eye display elaborate patterns under ultraviolet light, patterns invisible to us but perfectly visible to the bees the flowers depend on for pollination. ① These UV patterns often form a kind of runway, guiding a bee's approach directly toward the nectar and pollen at the flower's centre. ② Some patterns concentrate UV-absorbing pigment only at the base of each petal, creating a bullseye that becomes more pronounced the closer a bee gets. ③ Bees also communicate the location of food sources to other bees through a figure-eight waggle dance performed inside the hive. ④ Because the pattern is invisible to humans, plant breeders selecting for showy, human-pleasing colours have sometimes inadvertently bred flowers whose UV guides are faint or absent. ⑤ Such flowers, however visually striking to us, can be less attractive to the pollinators whose visits they still depend on for reproduction.",
+      "context": "Symbiotic relationships between species are often assumed to benefit both partners equally, but closer study of specific pairings reveals a much more unequal picture in many cases. ① Cleaner fish that remove parasites from a larger host fish receive a reliable food source in exchange for a genuine health benefit to the host. ② Some cleaner fish, however, have been observed occasionally cheating by biting off healthy tissue rather than only parasites, a behaviour the host appears to tolerate only up to a certain frequency. ③ Larger host fish species can grow to remarkable sizes in nutrient-rich coastal waters. ④ Hosts that experience cheating too often eventually abandon a specific cleaning station in favour of a more reliable one elsewhere. ⑤ This suggests the relationship persists not through pure mutual benefit, but through an ongoing, monitored balance that can break down if one partner exploits it too far.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
@@ -231,13 +231,13 @@
       "number": 17,
       "type": "multiple_choice",
       "text": "Which words best complete blanks (A) and (B)?",
-      "context": "Chess masters shown a real mid-game position for five seconds can reconstruct the position of all thirty-two pieces from memory almost perfectly; shown a board with the same pieces scattered at random, with no relation to any plausible game, their recall collapses to roughly the level of a beginner. The difference is not raw visual memory, which experts do not possess in unusually large supply. What experts have stored, through years of practice, is a library of recurring configurations—clusters of pieces that recur across thousands of games—so that a real position (A) . A random arrangement contains no such clusters for the expert's memory to latch onto, and so it (B) , exactly as it would for anyone else encountering thirty-two unrelated data points at once.",
+      "context": "A company's official annual report typically presents a single, polished narrative of the year's performance, smoothing over the specific internal disagreements and near-failures that shaped the actual decisions behind the reported results. A reader who takes the report at face value (A) ________, precisely because the report itself (B) ________.",
       "options": [
-        { "id": "1", "text": "(A) is memorised piece by piece, exactly as a novice would attempt it\n(B) is recalled with unusual and effortless precision" },
-        { "id": "2", "text": "(A) is perceived as a handful of familiar chunks rather than thirty-two separate items\n(B) must be encoded and stored one isolated piece at a time" },
-        { "id": "3", "text": "(A) overwhelms the expert's memory just as it would a novice's\n(B) is instantly and automatically translated into familiar chunks" },
-        { "id": "4", "text": "(A) is stored using an entirely different region of the brain than a random position\n(B) is discarded by the brain as irrelevant noise" },
-        { "id": "5", "text": "(A) triggers the same emotional response as an unfamiliar arrangement\n(B) becomes easier to memorise the longer the expert studies it" }
+        { "id": "1", "text": "(A) gains a complete and accurate picture of every internal disagreement  (B) is designed specifically to document those disagreements in detail" },
+        { "id": "2", "text": "(A) may miss the messier reality behind the year's polished results  (B) is designed to present a single, smoothed-over narrative" },
+        { "id": "3", "text": "(A) will automatically detect any internal disagreement the company had  (B) is written by an entirely independent auditing body" },
+        { "id": "4", "text": "(A) requires no further investigation under any circumstances  (B) has recently been replaced by a fully transparent reporting standard" },
+        { "id": "5", "text": "(A) is always more reliable than any internal company record  (B) was audited independently before publication" }
       ]
     },
     {
@@ -245,69 +245,69 @@
       "number": 18,
       "type": "multiple_choice",
       "text": "How many of the words below CANNOT fit into any of the blanks (A), (B), (C), or (D)? (More than one word may fit each blank.)",
-      "context": "Students who review the same material in several short sessions spread over days or weeks (A)      information more durably than students who spend an identical total amount of time in a single concentrated session the night before a test. The effect is strong enough that a majority of cognitive scientists studying learning consider it one of the most (B)      findings in the entire field, and yet study habits in most schools remain (C)      to it: students overwhelmingly report cramming as their default strategy, apparently because performance immediately after a crammed session feels deceptively strong, only to (D)      rapidly within days.\n\n< word box >\nretain / reliable / oblivious / deteriorate / absorb / robust / indifferent / evaporate / consume / responsive / established / attentive / collapse",
+      "context": "A company introducing a new remote-work policy must first confirm the arrangement is genuinely (A) ________ for every affected role, since not every position can function well outside a shared physical space. Employees who find the new system (B) ________ often report needing several weeks to adjust their daily routines. Managers who (C) ________ staff concerns during the transition typically see lower morale than those who address them directly. A policy introduced without adequate preparation can prove (D) ________ regardless of how well-intentioned it was.\n\n< word box >\nworkable / troublesome / disregard / handy / invariable / turn out / broaden / fictional / collaborative / recreation / conformity / leave out / lay out",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "7" },
+        { "id": "2", "text": "8" },
+        { "id": "3", "text": "9" },
+        { "id": "4", "text": "10" },
+        { "id": "5", "text": "11" }
       ]
     },
     {
       "id": "q19",
       "number": 19,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate place for the given sentence: \"A negotiator who opens with a number far outside any reasonable range is, perhaps counterintuitively, often more successful than one who opens moderately.\"",
-      "context": "Anchoring is among the most reliable effects in the study of judgement: an initial number, even an obviously arbitrary one, exerts measurable pull on every estimate that follows it. ( ① ) In one classic demonstration, participants spun a wheel rigged to stop at either a low or a high number, then were asked an entirely unrelated question about the percentage of African countries in the United Nations; participants who saw the high number guessed substantially higher than those who saw the low one. ( ② ) The wheel had nothing to do with the question, and participants knew it, yet the anchor pulled their estimates anyway. ( ③ ) This has obvious implications for negotiation. ( ④ ) Later offers and counteroffers tend to be adjusted from that opening anchor rather than calculated independently, so the final agreed price sits closer to the extreme opening number than a neutral analysis would predict. ( ⑤ ) The lesson is not that dishonesty pays, but that the first number spoken in any negotiation is doing more work than either party usually realises.",
+      "text": "Choose the most appropriate place for the given sentence: \"The junior officer who had actually anticipated the ambush, however, was overruled by a commander confident the route was safe.\"",
+      "context": "Military post-mortems often credit whoever proposed the eventual successful counter-manoeuvre, rather than whoever correctly anticipated the danger much earlier but was overruled. ( ① ) A famous historical ambush, for instance, is often analysed entirely through the lens of the commanding officer's decisions on the day itself. ( ② ) Official military histories typically centre this commander's judgement, since it is the most visible and most thoroughly documented part of the record. ( ③ ) ( ④ ) This pattern recurs across many military histories, where the documented decision obscures an earlier, overruled warning that might have prevented the ambush entirely. ( ⑤ ) A full accounting requires tracing a defeat back through every warning that was overruled, not merely to the final decision that failed.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q20",
       "number": 20,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate place for the given sentence: \"Instead, the brain appears to store not the odor itself but the emotional and contextual scene in which it was first encountered.\"",
-      "context": "Of all the senses, smell has the strangest relationship to memory. A specific scent encountered unexpectedly can summon a memory decades old, complete with emotional intensity, faster and more vividly than a photograph or a piece of music from the same period ever could. ( ① ) Part of the explanation lies in anatomy: the olfactory bulb is only a few synapses away from the amygdala and hippocampus, the brain's centres for emotion and memory, a far shorter route than any other sense takes. ( ② ) But anatomy alone does not explain why a smell functions less like a fact retrieved and more like a scene revisited. ( ③ ) This is why the same perfume can feel neutral on one person and overwhelming on another: what is stored is not a chemical fingerprint but a specific afternoon, a specific room, a specific person, bound permanently to that molecule by the accident of when it was first inhaled. ( ④ ) No deliberate effort is required to form the link, and none is available to dissolve it afterward. ( ⑤ )",
+      "text": "Choose the most appropriate place for the given sentence: \"Unlike a permanent repair, however, this kind of renovation must be repeated periodically for as long as the building remains in use.\"",
+      "context": "Historic buildings maintained through repeated partial renovation, rather than a single comprehensive rebuild, often survive far longer than buildings renovated only once and then left untouched. ( ① ) Conservationists who study these buildings note that a renovation addressing only visibly urgent damage often leaves less visible structural issues to worsen quietly underneath. ( ② ) A building renovated this way can appear well maintained for years while a serious underlying problem continues to develop unnoticed. ( ③ ) Buildings that instead undergo smaller, more frequent renovations tend to have each underlying issue caught and addressed while it is still minor and inexpensive to fix. ( ④ ) This is why some heritage organisations now recommend scheduled minor renovation over one large, comprehensive overhaul. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q21",
       "number": 21,
       "type": "multiple_choice",
-      "text": "\"The rebound effect describes a curious failure of many energy-efficiency policies to deliver the savings predicted on paper.\" Choose the most appropriate order for the paragraphs following the given passage.",
-      "context": "(A) The driver, now paying less per mile, gradually drives more, commutes from farther away, or takes trips previously judged not worth the cost—recovering, in extra miles, a meaningful fraction of the fuel saved by the improved engine.\n(B) Consider a household that replaces an old car with a highly fuel-efficient model, cutting the cost of every mile driven substantially.\n(C) The rebound effect does not claim efficiency gains are worthless, only that the naive arithmetic of \"efficiency times old behaviour equals savings\" systematically overstates the real-world result, because behaviour itself responds to the new price.",
+      "text": "\"A logistics company that automated its freight scheduling system saw overall delivery delays fall sharply within the first year.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Human schedulers had previously relied on informal experience to sequence shipments, an approach prone to small, compounding errors during unusually busy periods.\n\n(B) The automated system instead recalculates the optimal sequence continuously as new orders arrive, catching conflicts a human scheduler would only notice after a delay had already occurred.\n\n(C) The improvement, company analysts concluded, came less from any change in the trucks or routes themselves than from removing the specific human error the old scheduling process had allowed.",
       "options": [
-        { "id": "1", "text": "(A)-(B)-(C)" },
-        { "id": "2", "text": "(A)-(C)-(B)" },
-        { "id": "3", "text": "(B)-(A)-(C)" },
-        { "id": "4", "text": "(B)-(C)-(A)" },
-        { "id": "5", "text": "(C)-(A)-(B)" }
+        { "id": "1", "text": "(A) → (B) → (C)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(C) → (A) → (B)" }
       ]
     },
     {
       "id": "q22",
       "number": 22,
       "type": "multiple_choice",
-      "text": "\"A coral reef aquarium illustrates, in miniature, how difficult it is to maintain any complex system in a single desired state.\" Choose the most appropriate order for the paragraphs following the given passage.",
-      "context": "(A) Skip a single week of monitoring, however, and the tank drifts rapidly toward algae overgrowth, oxygen depletion, or a bloom of exactly the bacteria the aquarist has been suppressing all along.\n(B) The aquarist tests water chemistry daily, removes waste before it decays, doses trace minerals in careful proportion, and prunes back whichever coral or algae is currently outcompeting its neighbours.\n(C) None of this intervention is optional or occasional; it is the constant, unglamorous labour that holds the tank at the single state the aquarist has chosen, against every tendency of the system to drift toward a different, self-sustaining equilibrium.",
+      "text": "\"A hospital that colour-coded its medication storage bins saw a measurable drop in dispensing errors within six months.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Before the change, bins for similarly named but chemically different medications sat side by side, distinguishable only by reading small printed labels under time pressure.\n\n(B) Nurses reported that a distinct colour let them identify the correct bin instantly, without needing to pause and carefully read a label during a busy shift.\n\n(C) The improvement, hospital administrators concluded, came less from any change to the medications themselves than from removing a moment of rushed, error-prone reading.",
       "options": [
-        { "id": "1", "text": "(A)-(B)-(C)" },
-        { "id": "2", "text": "(A)-(C)-(B)" },
-        { "id": "3", "text": "(B)-(A)-(C)" },
-        { "id": "4", "text": "(B)-(C)-(A)" },
-        { "id": "5", "text": "(C)-(A)-(B)" }
+        { "id": "1", "text": "(A) → (B) → (C)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(C) → (A) → (B)" }
       ]
     },
     {
@@ -315,41 +315,41 @@
       "number": 23,
       "type": "multiple_choice",
       "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?",
-      "context": "When faced with an unfamiliar problem, most people reach immediately for the most similar problem they have solved before, adapting its solution to the new case.\n\n① This is why genuine breakthroughs so often come from outsiders to a field, who lack the established analogy and are forced to reason from the problem's actual structure instead.\n② This strategy, known as analogical reasoning, is efficient precisely because it economises on effort, letting old solutions do most of the new work.\n③ However, when the superficial features of a new problem resemble an old one whose deep structure is actually quite different, the borrowed solution can mislead more than it helps.\n④ Efficient in the ordinary case, then, analogical reasoning becomes a liability exactly when appearances and underlying structure come apart.\n⑤ The expert's fluency with the standard analogy can, in these cases, become a disadvantage rather than an asset.",
+      "context": "Experienced ship navigators are often assumed to calculate a vessel's position from scratch at every moment, but research into how they actually work tells a more specific story.\n\n① A trainee navigator, lacking this developed sense, must instead recalculate position from raw instrument readings at every step, a slower process more vulnerable to a single overlooked error.\n\n② Experienced navigators do not recalculate position from raw readings at every moment; instead, they maintain a continuously updated mental estimate, adjusting it incrementally as new readings arrive.\n\n③ Years of practice build a refined sense of how a vessel's position should be evolving under current conditions, so a genuinely anomalous reading stands out immediately against that expectation.\n\n④ Skilled navigation, on this account, depends less on repeated fresh calculation and more on efficiently updating an already-reliable running estimate.\n\n⑤ This incremental updating, not superior raw calculating speed, largely explains why experienced navigators catch an instrument error that a trainee recalculating from scratch might miss entirely.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q24",
       "number": 24,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate words for blanks (A) and (B).",
-      "context": "Color is often treated as if it were a property residing in the object itself, the way mass or volume are, but the physics tells a different story. A tomato does not contain redness; it contains a surface structure that reflects long-wavelength light more than it reflects other wavelengths, and it is a human visual system, tuned by evolution to a narrow band of that spectrum, that converts the reflected wavelength into the sensation we call red. A creature with a different visual system, encountering the identical tomato and the identical light, would have no access to that sensation at all, whatever wavelength arrived at its eye. The wavelength is objective and measurable; the redness is not out there in the world independent of a perceiving system built to generate it.\n\nSince colour as we experience it (A) ______ the physical properties of light alone, the sensation of a particular colour (B) ________.",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).",
+      "context": "A company's quarterly report showing steady overall revenue can conceal a declining core product being masked by a single unusually large one-time contract, meaning a reader who focuses only on the headline total risks drawing exactly the opposite conclusion from what a category-by-category breakdown would actually reveal.\n\nBecause a headline total can (A) ________ a declining core trend behind an unrelated one-time gain, a reader who ignores the underlying breakdown risks reaching a conclusion that is the (B) ________ of what the details would show.",
       "options": [
-        { "id": "1", "text": "(A) is fully determined by  (B) is an objective fact shared by every visual system" },
-        { "id": "2", "text": "(A) depends on the interaction between reflected wavelength and a perceiving visual system  (B) does not exist independently of the perceiver" },
-        { "id": "3", "text": "(A) is entirely unrelated to  (B) can be measured with complete precision using a spectrometer" },
-        { "id": "4", "text": "(A) varies unpredictably and randomly from  (B) has recently been proven to be a universal constant" },
-        { "id": "5", "text": "(A) is a fixed property contained within  (B) would be identical for any organism regardless of its visual system" }
+        { "id": "1", "text": "(A) conceal  (B) opposite" },
+        { "id": "2", "text": "(A) reveal  (B) same" },
+        { "id": "3", "text": "(A) calculate  (B) average" },
+        { "id": "4", "text": "(A) publish  (B) legal minimum" },
+        { "id": "5", "text": "(A) audit  (B) historical record" }
       ]
     },
     {
       "id": "q25",
       "number": 25,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate words for blanks (A) and (B).",
-      "context": "Olympic bronze medalists are, on average, measurably happier in post-event interviews than silver medalists, a finding that seems to invert the actual ranking of achievement. The explanation lies not in the medal itself but in the counterfactual each athlete spontaneously compares it to. The silver medalist's mind gravitates naturally to the nearby, vivid alternative of having won gold, a single stroke away; measured against that alternative, silver feels like a loss. The bronze medalist's mind gravitates instead to the equally nearby alternative of finishing fourth and winning nothing at all; measured against that alternative, bronze feels like a win. Objective rank, in other words, predicts satisfaction far less reliably than which alternative outcome happens to come to mind.\n\nSatisfaction with an outcome depends less on its (A) ________ rank than on the (B) ________ comparison the mind happens to generate.",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).",
+      "context": "A patient told a medication carries a \"ninety percent success rate\" responds far more calmly than one told the identical medication carries a \"ten percent failure rate,\" despite the two figures being mathematically identical. Doctors aware of this effect now deliberately present both framings together, since presenting only one measurably shapes a patient's emotional response independent of the underlying risk itself.\n\nA patient's emotional response to a medication can shift depending on how the (A) ________ statistic is framed, even when the (B) ________ risk itself remains unchanged.",
       "options": [
-        { "id": "1", "text": "(A) objective  (B) nearest counterfactual" },
-        { "id": "2", "text": "(A) financial  (B) internationally recognised" },
-        { "id": "3", "text": "(A) emotional  (B) least likely" },
-        { "id": "4", "text": "(A) subjective  (B) most distant and unrealistic" },
-        { "id": "5", "text": "(A) historical  (B) officially recorded" }
+        { "id": "1", "text": "(A) identical  (B) framed" },
+        { "id": "2", "text": "(A) same  (B) underlying" },
+        { "id": "3", "text": "(A) success  (B) failure" },
+        { "id": "4", "text": "(A) hospital's  (B) doctor's" },
+        { "id": "5", "text": "(A) patient's  (B) medication's" }
       ]
     },
     {
@@ -357,14 +357,14 @@
       "number": 26,
       "type": "fill_blank",
       "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
-      "context": "**Word Box: impartial · indivisible · ineffective · unreasonable · disharmony**\n\n(A) The mediator was praised for remaining completely __________ throughout the dispute, favouring neither side.\n(B) The two departments' responsibilities have become so __________ that a change to one always affects the other.\n(C) Critics dismissed the new policy as __________, arguing it failed to achieve any of its stated goals.\n(D) Refusing even a short extension after such an emergency seemed __________ to most observers.\n(E) Growing __________ within the committee made it increasingly difficult to reach any agreement."
+      "context": "**Word Box: qualify · liable · copyright · recruit · enterprise**\n\n(A) The publisher held the sole __________ to the novel for seventy years after the author's death.\n(B) The small __________ grew from a two-person startup into a company employing hundreds.\n(C) The firm plans to __________ several new graduates for its expanding legal department.\n(D) Only applicants with the required certification __________ for this specific position.\n(E) A negligent driver can be held __________ for damages caused in an accident."
     },
     {
       "id": "q27",
       "number": 27,
       "type": "written_multi",
       "text": "Read and complete both tasks.",
-      "context": "**Task 27.1 (2)** — Choose the word closest in meaning to the underlined word.\n\nThe committee's explanation for the delay was _plausible_, but several members still requested further documentation.\n\n① impossible  ② believable  ③ irrelevant  ④ confidential  ⑤ premature\n\n**Task 27.2 (3)** — Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the longer / a habit / is practised / the more / automatic / it / becomes)",
+      "context": "**Task 27.1 (2)** — Choose the word closest in meaning to the underlined word.\n\nFire drills are a _precautionary_ measure required by law in most commercial buildings.\n\n① mandatory  ② preventive  ③ recreational  ④ spontaneous  ⑤ obsolete\n\n**Task 27.2 (3)** — Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the earlier / a defect / is detected / the cheaper / it / is / to fix)",
       "subQuestions": [
         {
           "label": "27.1",
@@ -381,7 +381,7 @@
       "number": 28,
       "type": "written_multi",
       "text": "Read the passage and complete all three tasks below.",
-      "context": "Group decision-making is often assumed to average out individual biases, and ① _this assumption turn out to be only partly true._ ② _Groups discussing a topic on which members already lean in the same direction typically ends up more extreme than any individual member's original position, a pattern researchers call group polarization._ ③ _The mechanism is not mysterious: members hear new arguments supporting the shared lean that they had not considered alone, and they also want to be seen as more committed to the group's evident direction than the average member._ ④ _This is why a jury inclined toward leniency before deliberation often emerge more lenient afterward, while one inclined toward severity emerge more severe._ ⑤ _Diversity of the initial views represented in a group, not the size of the group, appears to be what actually protects against_ (A) _this drift_.\n\n**Task 28.1 (6)** — Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.\n\n**Task 28.2 (2)** — Using expressions from the passage only, write in English what the underlined phrase \"this drift\" (A) refers to.\n\n**Task 28.3 (2)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** because / members / reinforce / each other's / shared lean / group decisions / typically / end up / more extreme / than / each member's / original opinion",
+      "context": "Company recruitment drives are often assumed to select the most qualified applicants reliably, and ① _this assumption prove unreliable more often than hiring managers expect._ ② _Researchers who reviewed thousands of interview transcripts has found that interviewers frequently form a strong impression within the first few minutes, then spend the rest of the interview unconsciously confirming it._ ③ _A candidate who impresses early therefore receive disproportionately generous interpretations of every answer that follows, regardless of the answer's actual quality._ ④ _This is why some companies now use structured scoring rubrics completed independently by each interviewer, specifically to reduce (A) this early-impression bias before scores are ever compared or discussed as a group._ ⑤ _Independent scoring, unlike open discussion immediately after an interview, prevents one interviewer's early impression from quietly shaping everyone else's judgement._\n\n**Task 28.1 (6)** — Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.\n\n**Task 28.2 (2)** — Using expressions from the passage only, write in English what the underlined phrase \"(A) this early-impression bias\" refers to.\n\n**Task 28.3 (2)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms. Your answer must use a subject relative pronoun (\"that\" or \"which\").\n\n**< word box >** structured scoring / that / is completed / independently / prevents / one interviewer's / early impression / from influencing / the whole group",
       "subQuestions": [
         {
           "label": "28.1",
@@ -389,7 +389,7 @@
         },
         {
           "label": "28.2",
-          "placeholder": "Write what 'this drift' refers to here..."
+          "placeholder": "Write what 'this early-impression bias' refers to here..."
         },
         {
           "label": "28.3",
@@ -402,11 +402,11 @@
       "number": 29,
       "type": "written_multi",
       "text": "Read the passage and complete both tasks below.",
-      "context": "Investors are told relentlessly to ignore sunk costs, and just as relentlessly, they do not. A trader holding a stock that has fallen sharply from its purchase price will frequently keep holding, or even buy more, reasoning that selling would \"lock in\" the loss—as though the money already spent, gone regardless of the decision made today, has any bearing on which decision is now wisest. The amount already spent is, from the perspective of the present choice, exactly as irrelevant as a stranger's unrelated expense would be, yet (A) _it_ exerts a pull that a stranger's expense never could. Something about ownership over the original decision keeps the past spending alive in present reasoning, long after it has stopped being logically relevant to it.\n\n**Task 29.1 (2)** — Explain in English what \"(A) it\" refers to.\n\n**Task 29.2 (3)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** irrelevant / sunk costs / should be / to future decisions / although / continue / to factor them in / people / because of / a sense of ownership / over the original choice",
+      "context": "A defendant found not liable at trial can still suffer lasting professional damage from (A) _the lawsuit itself_, since a formal accusation, once publicly reported, tends to linger in a person's reputation regardless of the eventual verdict, an asymmetry that leaves the falsely accused bearing a genuine cost even after being formally cleared.\n\n**Task 29.1 (2)** — Explain in English what \"(A) the lawsuit itself\" refers to.\n\n**Task 29.2 (3)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** although / a defendant / may be found / not liable / the accusation itself / can damage / their reputation / permanently",
       "subQuestions": [
         {
           "label": "29.1",
-          "placeholder": "Write what '(A) it' refers to here..."
+          "placeholder": "Write what '(A) the lawsuit itself' refers to here..."
         },
         {
           "label": "29.2",
@@ -419,7 +419,7 @@
       "number": 30,
       "type": "written_multi",
       "text": "Read the passage and complete both tasks below.",
-      "context": "People assign disproportionately high value to furniture, meals, and arguments they assembled or constructed themselves, a bias researchers have nicknamed the IKEA effect after the flat-pack furniture company whose products require customer assembly. In one study, participants who built a simple storage box from a kit rated it, and were willing to pay for it, at nearly the level of a professionally built equivalent, despite acknowledging that the finished boxes looked objectively inferior. The labour itself, not the resulting object's quality, appears to generate the attachment: effort spent is quietly reinterpreted by the mind as evidence of value created, (A) ________.\n\n**Task 30.1 (2)** — Identify TWO specific findings from the study described, and explain them in English.\n\n**Task 30.2 (3)** — Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(even / the object / when / itself / has not / actually improved)",
+      "context": "In a well-known study, participants asked to estimate a jar's number of coins produced wildly different individual guesses, yet when researchers averaged every guess together, the resulting estimate landed within a small margin of the jar's true count, closer than nearly every individual guess had managed alone. The same effect held even when participants were told in advance that the group's average would be calculated and shared, a finding that persisted (A) ________.\n\n**Task 30.1 (2)** — Identify TWO specific findings from the study described, and explain them in English.\n\n**Task 30.2 (3)** — Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(even / when / told / the average / would be / shared)",
       "subQuestions": [
         {
           "label": "30.1",

@@ -8,13 +8,13 @@
       "number": 1,
       "type": "multiple_choice",
       "text": "Which of the following is the most appropriate title for the passage?",
-      "context": "Shown a photograph of a crowd and asked to count how many people are visibly angry, most people report a higher count than a careful frame-by-frame analysis actually supports. The bias runs in a predictable direction: negative expressions are detected faster and remembered more vividly than neutral or positive ones, a pattern researchers attribute to an evolved threat-detection system that treats a missed angry face as far costlier than a false alarm. The same asymmetry appears in memory for entire days: a single unpleasant interaction can dominate someone's recollection of an otherwise pleasant afternoon, disregarded proportion entirely.",
+      "context": "Vaccines were once assumed to work through a single, uniform mechanism: introducing a weakened or partial pathogen so the immune system could recognise and neutralise the real version later. Immunologists studying antibody response over the following decades complicated this assumption considerably: some vaccines generate a strong initial antibody response that fades within months, while others generate a comparatively modest initial response that nonetheless produces memory cells capable of mounting a rapid defence years later, meaning the size of the immediate antibody response and the vaccine's actual long-term protection turn out to be only loosely related, a distinction that has reshaped how researchers now evaluate a new vaccine's effectiveness.",
       "options": [
-        { "id": "1", "text": "Why Crowds Appear Larger in Memory Than They Really Are" },
-        { "id": "2", "text": "The Negativity Bias: Why Bad Impressions Outweigh Good Ones" },
-        { "id": "3", "text": "How Threat-Detection Systems Evolved in Early Humans" },
-        { "id": "4", "text": "The Accuracy of Frame-by-Frame Photographic Analysis" },
-        { "id": "5", "text": "Why Unpleasant Interactions Are Rare in Daily Life" }
+        { "id": "1", "text": "Why Every Vaccine Works Through an Identical Immune Mechanism" },
+        { "id": "2", "text": "Why Immediate Antibody Response and Long-Term Protection Are Only Loosely Related" },
+        { "id": "3", "text": "A History of Vaccine Development in the Twentieth Century" },
+        { "id": "4", "text": "Why Antibody Levels Always Predict a Vaccine's Long-Term Effectiveness" },
+        { "id": "5", "text": "How Researchers Manufacture Weakened Pathogens for Vaccines" }
       ]
     },
     {
@@ -22,13 +22,13 @@
       "number": 2,
       "type": "multiple_choice",
       "text": "Choose the most appropriate topic of the passage.",
-      "context": "A meeting scheduled for sixty minutes reliably takes close to sixty minutes, even when the actual agenda could be handled in twenty, a pattern often summarised as \"work expands to fill the time available for its completion.\" The effect is not laziness so much as a lack of a forcing constraint: without an externally imposed shorter deadline, discussion naturally expands to occupy whatever slot has been allocated, since there is no cost to continuing and no clear signal that the matter is actually settled. Organisations that impose deliberately shorter default meeting lengths often find the same agendas handled adequately in a fraction of the original time.",
+      "context": "A hospital that increases the intake of patients eligible for an organ transplant programme is often assumed to be straightforwardly expanding access to care. Health policy researchers studying actual outcomes complicate this assumption: a larger intake without a corresponding increase in available donor organs simply lengthens the average waiting list, meaning some patients who would previously have received a transplant within a viable window instead deteriorate while waiting, an outcome the expanded intake was never designed to allocate for. Hospitals that instead pair intake expansion with active donor recruitment report genuinely improved outcomes, suggesting the intake figure alone says little about whether access has actually improved.",
       "options": [
-        { "id": "1", "text": "why meetings are the least productive form of workplace communication" },
-        { "id": "2", "text": "how the absence of a shorter externally imposed deadline lets tasks expand to fill available time" },
-        { "id": "3", "text": "techniques for building an effective meeting agenda" },
-        { "id": "4", "text": "the ideal number of participants for a productive meeting" },
-        { "id": "5", "text": "why organisations should eliminate scheduled meetings entirely" }
+        { "id": "1", "text": "the surgical procedures involved in organ transplantation" },
+        { "id": "2", "text": "how expanding transplant programme intake without more donors can worsen outcomes rather than improve access" },
+        { "id": "3", "text": "the total number of organ transplants performed annually worldwide" },
+        { "id": "4", "text": "why hospitals rarely publish their transplant waiting list data" },
+        { "id": "5", "text": "a comparison of two specific hospitals' transplant programmes" }
       ]
     },
     {
@@ -36,13 +36,13 @@
       "number": 3,
       "type": "multiple_choice",
       "text": "Choose the most appropriate topic of the passage.",
-      "context": "A single beehive can represent the pooled foraging decisions of tens of thousands of individual bees, none of which possesses anything resembling a map of the surrounding landscape, yet the hive collectively identifies and exploits the richest nearby flower patches with striking efficiency. Individual foragers report a patch's quality through the vigour of their waggle dance, and other bees weight their own subsequent foraging decisions according to how many times they observe a particular dance repeated. No single bee compares patches directly; the comparison emerges only at the level of the whole hive, through thousands of small, individually uninformed decisions aggregating into a collectively intelligent outcome.",
+      "context": "A prosecutor deciding whether to pursue a case built substantially on circumstantial evidence faces a genuine strategic dilemma: pursuing a weak case that ultimately fails can damage the prosecutor's credibility for future cases, while declining to pursue a case that might have succeeded lets a genuinely guilty defendant escape conviction entirely. Prosecutors who consistently decline any case lacking overwhelming direct evidence maintain impressive conviction rates but are sometimes accused of allowing guilty defendants to go free simply to protect that statistic, a tension that has led some jurisdictions to evaluate prosecutors on case outcomes relative to case difficulty rather than on raw conviction rate alone.",
       "options": [
-        { "id": "1", "text": "the physical mechanics of the waggle dance itself" },
-        { "id": "2", "text": "how collective intelligence about food sources emerges from many individually uninformed decisions" },
-        { "id": "3", "text": "the total foraging range of a typical honeybee colony" },
-        { "id": "4", "text": "why some bees are better foragers than others" },
-        { "id": "5", "text": "methods beekeepers use to relocate a hive to richer feeding grounds" }
+        { "id": "1", "text": "the legal standards required for circumstantial evidence to be admissible" },
+        { "id": "2", "text": "how evaluating prosecutors by raw conviction rate can create an incentive to avoid genuinely difficult cases" },
+        { "id": "3", "text": "the total number of circumstantial-evidence cases prosecuted annually" },
+        { "id": "4", "text": "why defendants prefer circumstantial evidence over direct evidence" },
+        { "id": "5", "text": "a comparison of two specific jurisdictions' prosecution rates" }
       ]
     },
     {
@@ -50,13 +50,13 @@
       "number": 4,
       "type": "multiple_choice",
       "text": "Which of the following best states the main point of the passage?",
-      "context": "A comedian testing new material in front of a small, unfamiliar audience treats the audience's silence very differently from how a novice performer does: where a novice hears silence as failure and abandons the joke, an experienced comedian treats the same silence as data, adjusting timing, wording, or delivery and testing the revised version at the very next show. Over dozens of iterations, jokes that survive have typically been rewritten many times in ways no audience member ever witnesses individually; what looks like a single polished performance is the visible tail end of an unseen, iterative editing process.",
+      "context": "An army's battlefield success is often attributed almost entirely to troop numbers and equipment quality, factors that are visible, easily counted, and satisfying to compare between opposing forces. Military historians studying prolonged campaigns complicate this attribution considerably: a numerically and technologically superior army that cannot sustain its own supply lines over an extended campaign frequently loses to a smaller, better-supplied force, suggesting that logistics, an unglamorous factor rarely emphasised in popular military history, determines outcomes at least as often as the troop numbers and equipment that dominate most retellings.",
       "options": [
-        { "id": "1", "text": "Silence from an audience always indicates that a joke has genuinely failed." },
-        { "id": "2", "text": "What appears to be a single polished performance is often the end product of many unseen revisions." },
-        { "id": "3", "text": "Novice performers are generally more skilled at reading audience reactions than experienced comedians." },
-        { "id": "4", "text": "Comedians should avoid testing new material in front of unfamiliar audiences." },
-        { "id": "5", "text": "Audience silence is caused primarily by unfamiliarity with the performer." }
+        { "id": "1", "text": "Troop numbers and equipment quality alone always determine battlefield success." },
+        { "id": "2", "text": "Logistics may determine battlefield outcomes at least as often as the more visible factors typically emphasised." },
+        { "id": "3", "text": "Military historians agree that logistics has no measurable effect on campaign outcomes." },
+        { "id": "4", "text": "A numerically superior army always wins regardless of its supply situation." },
+        { "id": "5", "text": "Popular military history always accurately emphasises the true causes of victory." }
       ]
     },
     {
@@ -64,7 +64,7 @@
       "number": 5,
       "type": "multiple_choice",
       "text": "How many of the statements below do NOT agree with the passage?",
-      "context": "When I took over my grandmother's vegetable patch, I assumed more water and more fertiliser would simply produce more vegetables, and I applied both generously all summer. The tomatoes grew tall and leafy and produced almost no fruit at all. A neighbour eventually explained that excess nitrogen pushes a plant to grow foliage at the direct expense of flowering and fruiting, and that my \"generous\" feeding had been actively working against the harvest I wanted. The following year I fed the same bed far less, watered only when the soil actually felt dry rather than on a fixed schedule, and harvested more tomatoes from half the effort than I had the previous summer.\n\nStatements\n(a) The writer initially believed more water and fertiliser would straightforwardly increase her harvest.\n(b) Her first summer's tomato plants produced abundant fruit despite excessive feeding.\n(c) A neighbour explained that excess nitrogen favours foliage growth over fruiting.\n(d) In the second year, she watered according to a fixed schedule rather than the soil's actual condition.\n(e) She used less fertiliser in the second year than in the first.\n(f) Her second-year harvest was smaller despite requiring more effort.",
+      "context": "I spent a full year assuming my elderly neighbour simply preferred to be left alone, since she never once accepted my early, occasional offers to check in on her. It wasn't until her nephew mentioned, almost in passing, that she had actually been hoping someone would ask more than once, that I understood declining a single offer had never meant declining help altogether, only that she felt awkward accepting help the very first time it was mentioned. I started simply checking in on her every Sunday without asking first, and within a month she was the one initiating conversation, asking me in for tea before I'd even knocked properly. I still feel a flicker of regret that it took her nephew's comment, rather than my own persistence, to notice what I had been missing.\n\nStatements\n(a) The writer initially assumed her elderly neighbour preferred to be left entirely alone.\n(b) The neighbour had accepted the writer's early offers to check in on her.\n(c) The nephew suggested the neighbour had actually been hoping someone would ask more than once.\n(d) The writer began simply checking in every Sunday without asking first.\n(e) The neighbour eventually began initiating conversation herself.\n(f) The writer credits her own persistence, rather than the nephew's comment, for noticing the misunderstanding.",
       "options": [
         { "id": "1", "text": "2" },
         { "id": "2", "text": "3" },
@@ -78,13 +78,13 @@
       "number": 6,
       "type": "multiple_choice",
       "text": "How many of the following words are correctly matched with their meanings?",
-      "context": "(a) heighten — to increase or intensify something\n(b) broaden — to make something narrower in scope\n(c) exemplify — to serve as a typical example of something\n(d) liberate — to set free from restriction or control\n(e) countless — too many to be counted\n(f) defenceless — well protected against attack\n(g) habitual — done constantly as a fixed or regular practice\n(h) sensory — relating to the physical senses\n(i) collaborative — done by people working independently of one another\n(j) troublesome — causing difficulty or annoyance",
+      "context": "(a) malfunction — to fail to function or work properly\n(b) decode — to convert a coded message into ordinary, understandable language\n(c) antibody — a protein produced by the immune system to fight pathogens\n(d) impartial — favouring one side unfairly over another\n(e) intake — the amount of something taken in, or the act of admitting someone\n(f) outlaw — to make something legal or officially permitted\n(g) affirmation — a statement asserting something firmly and positively as true\n(h) transplant — to remove and implant tissue or an organ into another body\n(i) allocate — to distribute something for a specific purpose\n(j) surmount — to fail to overcome a difficulty or obstacle",
       "options": [
-        { "id": "1", "text": "4" },
-        { "id": "2", "text": "5" },
-        { "id": "3", "text": "6" },
-        { "id": "4", "text": "7" },
-        { "id": "5", "text": "8" }
+        { "id": "1", "text": "5" },
+        { "id": "2", "text": "6" },
+        { "id": "3", "text": "7" },
+        { "id": "4", "text": "8" },
+        { "id": "5", "text": "9" }
       ]
     },
     {
@@ -92,13 +92,13 @@
       "number": 7,
       "type": "multiple_choice",
       "text": "Which statement does NOT agree with the two explanations given in the passage?",
-      "context": "Deep-sea anglerfish have evolved an unusual reproductive strategy: the tiny male permanently fuses to the far larger female's body, eventually losing his own eyes and internal organs and surviving on nutrients supplied through her bloodstream. One explanation holds that this strategy evolved because mates are so rare in the vast, dark deep sea that a male who finds a female at all cannot risk losing her, and permanent fusion guarantees he will be available when she is ready to spawn. A second, competing explanation emphasises energy efficiency: maintaining an independent male's full metabolism in a food-scarce environment is wasteful, and fusion lets the pair function as a single, more efficiently resourced reproductive unit.",
+      "context": "Military historians studying recruitment posters from major conflicts have proposed two competing explanations for why appeals to abstract national duty gradually gave way to appeals emphasising concrete personal benefit, such as guaranteed trade training. One explanation holds that public enthusiasm for a given conflict predictably declines the longer it continues, and recruiters simply adapted their appeal to whatever motivation remained most persuasive as abstract patriotic sentiment faded over time. A second, competing explanation instead proposes that recruiters had access to increasingly sophisticated audience research throughout the period, and the shift reflects better data about what actually motivated potential recruits rather than any decline in patriotic sentiment among the public at all.",
       "options": [
-        { "id": "1", "text": "The first explanation attributes fusion to the rarity of encountering a mate in the deep sea." },
-        { "id": "2", "text": "The first explanation suggests fusion guarantees a male's availability when the female is ready to spawn." },
-        { "id": "3", "text": "The second explanation attributes fusion to the energy inefficiency of maintaining two separate metabolisms." },
-        { "id": "4", "text": "The second explanation agrees with the first that mate scarcity is the primary reason for fusion." },
-        { "id": "5", "text": "Both explanations attempt to account for the same observed reproductive strategy." }
+        { "id": "1", "text": "The first explanation attributes the shift to declining public enthusiasm for a given conflict over time." },
+        { "id": "2", "text": "The first explanation suggests recruiters adapted their appeal as patriotic sentiment faded." },
+        { "id": "3", "text": "The second explanation claims patriotic sentiment among the public actually increased throughout the period." },
+        { "id": "4", "text": "The second explanation attributes the shift to increasingly sophisticated audience research." },
+        { "id": "5", "text": "Both explanations attempt to account for the same shift from abstract duty to concrete personal benefit." }
       ]
     },
     {
@@ -107,25 +107,25 @@
       "type": "multiple_choice",
       "text": "Which underlined word is NOT used appropriately in context?",
       "options": [
-        { "id": "1", "text": "The tour guide's colourful stories helped _heighten_ visitors' interest in the old fortress." },
-        { "id": "2", "text": "Historians consider the printing press to have been a genuinely _revolutionary_ invention, marking a turning point in the spread of knowledge." },
-        { "id": "3", "text": "The witness gave a remarkably _habitual_ account of an event she had experienced only once, with no prior similar occurrences." },
-        { "id": "4", "text": "Many elderly residents at the care home say the weekly visits provide valuable _companionship_ they would otherwise lack." },
-        { "id": "5", "text": "The small coastal village, without any sea wall, was completely _defenceless_ against the rising storm surge." }
+        { "id": "1", "text": "The mechanic couldn't identify why the engine continued to _malfunction_ even after the repair." },
+        { "id": "2", "text": "Analysts were finally able to _decode_ the encrypted message after weeks of effort." },
+        { "id": "3", "text": "The judge was praised for remaining completely _impartial_ throughout the tense proceedings." },
+        { "id": "4", "text": "The city voted to _outlaw_ the previously banned practice by making it fully legal." },
+        { "id": "5", "text": "Doctors confirmed the patient had received a successful kidney _transplant_ the previous week." }
       ]
     },
     {
       "id": "q9",
       "number": 9,
       "type": "multiple_choice",
-      "text": "Which of the following best explains the meaning of the underlined phrase \"choice-supportive bias\"?",
-      "context": "People asked to rate two similarly attractive options before choosing between them, and asked again immediately after choosing, typically rate the option they picked slightly higher and the rejected option slightly lower than they did beforehand, despite nothing about either option having actually changed. Researchers call this _choice-supportive bias_: once a decision is made, memory and evaluation quietly reshape themselves to make the choice already made look like the obviously correct one, reducing the discomfort of having given up a genuinely attractive alternative.",
+      "text": "Which of the following best explains the meaning of the underlined phrase \"the conviction trap\"?",
+      "context": "Prosecutors evaluated primarily on their overall conviction rate can fall into what legal researchers call _the conviction trap_: declining to pursue any case lacking overwhelming direct evidence protects an impressive statistic, yet it can also mean guilty defendants in genuinely difficult, evidence-light cases are never even charged, an outcome the raw conviction rate itself can never reveal, since a case never pursued is a case that never counts against the statistic at all.",
       "options": [
-        { "id": "1", "text": "a tendency to choose options that other people have already chosen" },
-        { "id": "2", "text": "a tendency to retroactively rate a chosen option more favourably than before the choice was made" },
-        { "id": "3", "text": "a preference for options that require the least deliberation to select" },
-        { "id": "4", "text": "the fact that people always regret rejecting an attractive alternative" },
-        { "id": "5", "text": "a bias that only affects decisions made under significant time pressure" }
+        { "id": "1", "text": "prosecutors with the highest conviction rates always pursue the most difficult cases" },
+        { "id": "2", "text": "optimising for conviction rate alone can create an incentive to avoid genuinely difficult but legitimate cases" },
+        { "id": "3", "text": "every case a prosecutor declines to pursue is necessarily a weak one" },
+        { "id": "4", "text": "conviction rate is always a reliable measure of a prosecutor's actual effectiveness" },
+        { "id": "5", "text": "guilty defendants are never charged regardless of how prosecutors are evaluated" }
       ]
     },
     {
@@ -133,13 +133,13 @@
       "number": 10,
       "type": "multiple_choice",
       "text": "Which underlined word is NOT appropriate in context?",
-      "context": "The great object of life is sensation — to feel that we exist, even though in pain; it is this \"craving void\" which drives us to gaming, to travel, to unlawful pleasures, to ambition, to power, to war. All of these are alike passions of the game of life, and all have this in common, that they must be ① _paid_ for. He who has lost his fortune at play acquires an ② _interest_ in things which the man of a more sluggish temperament could not feel. Whatever ③ _diminishes_ our egotism and enlarges the circle of our sensations is, in this sense of the word, a ④ _virtue_. All the strong passions, we have said, are alike in this, that they end in ⑤ _tranquillity_.",
+      "context": "A company introducing a new code of conduct must first decide how strictly to ① _enforce_ it, since a rule applied inconsistently often generates more resentment than no rule at all. Firms operating across a genuinely ② _multicultural_ workforce must also account for how differently the same rule may be interpreted across cultural contexts. HR departments that ③ _cooperate_ closely with regional managers during rollout report smoother adoption than those imposing a single global policy unilaterally. Employees who feel genuinely ④ _entitled_ to raise concerns about a new policy before it is finalised report higher trust in the process overall. A policy introduced without adequate local input can ⑤ _enrich_ resentment that undermines its intended purpose entirely.",
       "options": [
-        { "id": "1", "text": "paid" },
-        { "id": "2", "text": "interest" },
-        { "id": "3", "text": "diminishes" },
-        { "id": "4", "text": "virtue" },
-        { "id": "5", "text": "tranquillity" }
+        { "id": "1", "text": "enforce" },
+        { "id": "2", "text": "multicultural" },
+        { "id": "3", "text": "cooperate" },
+        { "id": "4", "text": "entitled" },
+        { "id": "5", "text": "enrich" }
       ]
     },
     {
@@ -147,13 +147,13 @@
       "number": 11,
       "type": "multiple_choice",
       "text": "Which of the following questions CANNOT be answered from the passage?",
-      "context": "Naked mole rats live in large underground colonies structured almost like a beehive, with a single breeding queen who suppresses reproduction in all other colony members through both chemical signals and direct aggression, while non-breeding workers dig tunnels, gather food, and defend the colony. Remarkably, naked mole rats appear largely resistant to cancer and show almost no decline in fertility or physical capability with age, living up to eight times longer than similarly sized rodents. Researchers have linked this resilience partly to unusually error-resistant protein synthesis and partly to a highly efficient cellular repair mechanism, though the full picture remains under active investigation.",
+      "context": "Specialised military corps, distinct units organised around a single function such as engineering or medical support rather than general combat, emerged gradually as armies grew too large for a single generalist force to manage every logistical need efficiently. Military historians studying this specialisation note that armies which developed dedicated engineering corps early gained a measurable advantage in besieging fortified positions, since purpose-trained engineers could construct siege works far faster than general infantry attempting the same task without specialised training. This advantage, however, came with a corresponding cost: maintaining multiple specialised corps required a far more complex supply and command structure than a single generalist force, a cost some smaller armies could not sustain despite recognising the tactical benefit clearly.",
       "options": [
-        { "id": "1", "text": "How does the breeding queen suppress reproduction in other colony members?" },
-        { "id": "2", "text": "What tasks do non-breeding workers perform within the colony?" },
-        { "id": "3", "text": "How many individual naked mole rats typically live within a single colony?" },
-        { "id": "4", "text": "How much longer do naked mole rats live compared to similarly sized rodents?" },
-        { "id": "5", "text": "What two factors have researchers linked to the species' resistance to age-related decline?" }
+        { "id": "1", "text": "Why did specialised military corps emerge as armies grew larger?" },
+        { "id": "2", "text": "What advantage did an early dedicated engineering corps provide during a siege?" },
+        { "id": "3", "text": "How many distinct types of specialised corps existed in any given historical army?" },
+        { "id": "4", "text": "What cost did maintaining multiple specialised corps require?" },
+        { "id": "5", "text": "Could some smaller armies sustain this cost despite recognising the tactical benefit?" }
       ]
     },
     {
@@ -161,7 +161,7 @@
       "number": 12,
       "type": "multiple_choice",
       "text": "How many of the underlined parts are grammatically INCORRECT?",
-      "context": "The bystander effect, in which the presence of other witnesses reduces any single person's likelihood of intervening in an emergency, has been documented across dozens of controlled experiments. ① _Researchers staging a fake medical emergency finds that a lone witness intervenes in the overwhelming majority of trials._ ② _Adding several additional passive witnesses to the same staged scene reduce the intervention rate sharply, sometimes to a fraction of the lone-witness figure._ ③ _Each witness, observing the others' inaction, appears to recalculate the emergency as less urgent than it actually is._ ④ _Diffusion of responsibility, rather than simple indifference, is generally offered as the explanation._ ⑤ _Training that explicitly names the bystander effect has been shown to measurably increase intervention rates in subsequent staged emergencies._",
+      "context": "① _A shipping company introducing satellite-based route navigation often overlook how much crew training the new system actually requires before delivering any efficiency gain._ ② _Crews that has not completed the full training programme report frequently reverting to older, less efficient manual navigation methods under pressure._ ③ _Some companies eventually conclude the new system is not worth adopting fleet-wide at all, once the hidden training cost is properly accounted for._ ④ _Executives who authorized the rollout without budgeting for training assumes crews would simply adapt on their own._ ⑤ _A simplified onboarding programme, introduced after years of complaints, has measurably increased how quickly crews actually adopt the new system._",
       "options": [
         { "id": "1", "text": "1" },
         { "id": "2", "text": "2" },
@@ -175,13 +175,13 @@
       "number": 13,
       "type": "multiple_choice",
       "text": "Which underlined part is grammatically incorrect?",
-      "context": "Cognitive load theory ① _holds_ that working memory can process only a limited amount of new information at once before performance begins to degrade. Instructional designers ② _have found_ that presenting the same content through both spoken narration and matching on-screen text simultaneously ③ _impose_ an unnecessary burden, since learners attempt to reconcile two channels carrying identical information rather than processing either efficiently. Redundant information of this kind, counterintuitively, often ④ _produces_ worse learning outcomes than a single well-chosen channel alone. Effective instructional design, on this view, ⑤ _removes_ redundancy rather than simply adding more explanatory material.",
+      "context": "A household that ① _inhabits_ an older property must often budget for unexpected maintenance costs a newer home rarely requires. A roof that ② _shows_ visible staining after heavy rain frequently indicates a leak that has already been developing for months. Contractors who ③ _inspects_ a property before purchase can identify this kind of hidden damage well before it becomes a costly emergency. Buyers who ④ _have skipped_ a professional inspection to save money sometimes discover the true cost only after moving in. Even food considered perfectly ⑤ _edible_ at the time of purchase can spoil faster in a poorly ventilated older kitchen.",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "inhabits" },
+        { "id": "2", "text": "shows" },
+        { "id": "3", "text": "inspects" },
+        { "id": "4", "text": "have skipped" },
+        { "id": "5", "text": "edible" }
       ]
     },
     {
@@ -189,13 +189,13 @@
       "number": 14,
       "type": "multiple_choice",
       "text": "Among the dictionary definitions below, how many describe words that do NOT appear in the passage? (Ignore singular/plural forms, voice, and tense.)",
-      "context": "Urban planners studying pedestrian behaviour have found that people rarely walk in perfectly straight lines between two points; instead, foot traffic gradually carves out slightly curved, efficient paths worn into grass verges that planners call desire lines, revealing where people actually want to walk rather than where a paved path was originally laid. Rather than fighting this pattern with fences or repeated reseeding, some planners now deliberately wait a season, observe where desire lines emerge naturally, and then pave precisely along those routes, producing paths pedestrians overwhelmingly prefer to the ones originally designed for them.\n\nDefinitions\n(a) a path or route created gradually by repeated use rather than deliberate design\n(b) to make an area of ground level and hard by covering it with a surface\n(c) to plant seeds again in an area where grass has died or been damaged\n(d) a barrier used to enclose an area or prevent access to it\n(e) to prefer one thing over another available alternative\n(f) money paid regularly to support a cause or organisation\n(g) a formal request submitted for official approval\n(h) the act of measuring the exact boundaries of a piece of land",
+      "context": "A defendant convicted largely on circumstantial evidence can petition for a new trial if genuinely new evidence later emerges, though courts generally require the petitioner to show the new evidence could not reasonably have been discovered before the original trial concluded. Legal scholars studying wrongful conviction cases note that prosecutors who fabricate or improperly withhold evidence, rather than simply presenting a weak case in good faith, account for a disproportionate share of convictions later overturned through this process.\n\nDefinitions\n(a) to declare someone formally guilty of a crime\n(b) a formal, written request submitted for consideration\n(c) to invent or fake something in order to deceive\n(d) to commit oneself to a course of action, or to carry out a crime\n(e) to bring a civil legal action against someone\n(f) a large, organised body of soldiers\n(g) fighting between organised armed forces\n(h) a narrow passage or lane between buildings",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "3" },
+        { "id": "2", "text": "4" },
+        { "id": "3", "text": "5" },
+        { "id": "4", "text": "6" },
+        { "id": "5", "text": "7" }
       ]
     },
     {
@@ -203,13 +203,13 @@
       "number": 15,
       "type": "multiple_choice",
       "text": "Which sentence best fits the blank?",
-      "context": "Chesterton's fence is a principle named after the writer G. K. Chesterton: before removing a fence whose purpose is not immediately obvious, first find out why it was put there in the first place. The principle is not an argument against ever changing an old rule or structure; it is an argument against changing one before understanding it, since a rule that looks pointless to someone unfamiliar with its history may in fact be ________. Only once the original purpose is understood, the principle holds, is a person actually in a position to judge whether the rule is still worth keeping.",
+      "context": "A hospital that expands its transplant programme intake without a corresponding increase in available donor organs is sometimes praised for improving access to care, even though the practical effect for many patients is simply a longer wait rather than a genuinely improved outcome. Expanding intake alone ________. The programme's actual capacity to help patients, in other words, depends on far more than how many patients are formally admitted to the waiting list.",
       "options": [
-        { "id": "1", "text": "completely pointless and safe to remove without any further investigation" },
-        { "id": "2", "text": "quietly solving a problem that is no longer visible to someone encountering it fresh" },
-        { "id": "3", "text": "something no one has ever benefited from at any point in its history" },
-        { "id": "4", "text": "a rule that was always intended to be permanent and unchangeable" },
-        { "id": "5", "text": "evidence that the person who built the fence was mistaken" }
+        { "id": "1", "text": "always translates directly into more patients successfully receiving a transplant" },
+        { "id": "2", "text": "can lengthen the average wait without necessarily improving how many patients are actually helped" },
+        { "id": "3", "text": "is impossible to measure without a complete national donor registry" },
+        { "id": "4", "text": "has recently been made mandatory for every transplant programme nationwide" },
+        { "id": "5", "text": "depends entirely on which specific hospital happens to run the programme" }
       ]
     },
     {
@@ -217,13 +217,13 @@
       "number": 16,
       "type": "multiple_choice",
       "text": "Which sentence does NOT fit the overall flow of the passage?",
-      "context": "Migratory monarch butterflies travelling from Canada to central Mexico complete a journey no single individual butterfly has ever made before, since the generation that arrives in Mexico is several generations removed from the one that made the outbound journey the previous year. ① No monarch alive at journey's end has any personal memory of the route, since the ones who began it have long since died. ② The navigational information must therefore be inherited rather than learned, encoded somehow in the insect's biology rather than passed down through experience or observation. ③ Monarch caterpillars feed exclusively on milkweed plants, which contain toxins that make the adult butterfly unpalatable to most predators. ④ Researchers suspect a combination of a time-compensated sun compass and sensitivity to the Earth's magnetic field allows each new generation to orient correctly without ever having seen the route before. ⑤ The precision of the destination, often the very same forest groves each year, remains one of the more striking examples of inherited, rather than learned, animal navigation.",
+      "context": "A besieging army's engineering corps often determined how quickly a fortified position could be breached, a factor historians argue mattered as much as the size of the besieging force itself. ① Engineers trained specifically in siege construction could build approach trenches and assault ramps far faster than general infantry attempting the same task without specialised training. ② A siege that dragged on for months, rather than weeks, gave the besieged force time to receive reinforcements or simply wait out the besieging army's own dwindling supplies. ③ Modern military museums now display detailed reconstructions of historical siege engines for public education. ④ The besieging force's engineering speed, in this sense, directly shaped whether a siege's eventual outcome favoured the attacker or the defender. ⑤ An army with a slower engineering corps could possess overwhelming numerical superiority and still lose a prolonged siege to attrition alone.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
@@ -231,13 +231,13 @@
       "number": 17,
       "type": "multiple_choice",
       "text": "Which words best complete blanks (A) and (B)?",
-      "context": "Master locksmiths asked to identify which of several keys will open a given lock, without trying any of them, report a rapid, wordless sense of \"that one,\" arrived at well before they could articulate the specific features that gave it away. Researchers studying this pattern conclude that the certainty reflects (A). Having examined thousands of key-and-lock pairings over a career, a locksmith's visual system has learned to register the specific ridge-and-groove correspondences that matter, well before deliberate, conscious comparison begins. A new apprentice, lacking that accumulated library, (B), checking each candidate key systematically rather than being drawn immediately to the correct one.",
+      "context": "A prosecutor's office measured purely by conviction rate can appear highly effective on paper while quietly declining every case that carries genuine risk of an acquittal, regardless of whether the declined defendant was actually guilty. An office evaluated this way (A) ________, precisely because raw conviction rate alone (B) ________.",
       "options": [
-        { "id": "1", "text": "(A) a lucky guess unrelated to any prior experience with keys and locks\n(B) instantly matches the locksmith's certainty without any training at all" },
-        { "id": "2", "text": "(A) rapid, unconscious pattern recognition built from extensive prior experience\n(B) must instead compare the features of each key deliberately and in turn" },
-        { "id": "3", "text": "(A) a physical sensation in the fingers unrelated to visual processing\n(B) becomes anxious and refuses to attempt the identification at all" },
-        { "id": "4", "text": "(A) a skill entirely unrelated to how many locks have previously been examined\n(B) outperforms the master locksmith specifically because of a fresh perspective" },
-        { "id": "5", "text": "(A) a form of luck that improves depending on the locksmith's mood\n(B) performs identically to the master regardless of experience" }
+        { "id": "1", "text": "(A) always reflects how many guilty defendants were actually brought to justice  (B) accounts fully for case difficulty and evidentiary strength" },
+        { "id": "2", "text": "(A) can look effective while quietly avoiding genuinely difficult but legitimate cases  (B) rewards avoiding risk rather than pursuing justice regardless of difficulty" },
+        { "id": "3", "text": "(A) is impossible to calculate without a complete national case database  (B) was audited independently before publication" },
+        { "id": "4", "text": "(A) requires no case-difficulty adjustment of any kind to remain meaningful  (B) has recently been banned as a performance metric everywhere" },
+        { "id": "5", "text": "(A) is identical regardless of how a prosecutor actually selects cases  (B) was calculated using a fully randomised method" }
       ]
     },
     {
@@ -245,106 +245,111 @@
       "number": 18,
       "type": "multiple_choice",
       "text": "How many of the words below CANNOT fit into any of the blanks (A), (B), (C), or (D)? (More than one word may fit each blank.)",
-      "context": "Repeated exposure to a mild stressor, provided sufficient recovery time follows each exposure, appears to (A) ________ an organism's capacity to cope with future stress, a pattern researchers call hormesis. A single, overwhelming stressor with no recovery period, by contrast, tends to (B) ________ the same system rather than strengthen it. The critical variable determining which outcome occurs is not the stressor's category but its (C) ________ relative to the recovery time available, meaning an identical stressor can be either beneficial or (D) ________ depending entirely on how it is paced.\n\nWord box: strengthen / damage / intensity / harmful / weaken / magnitude / beneficial / soothing / dosage / pleasant / gentle / calming",
+      "context": "A hospital introducing a new organ-allocation policy must first (A) ________ enough medical staff support to survive initial scrutiny, since a policy staff actively resist rarely (B) ________ long enough to demonstrate its intended benefit. Administrators who (C) ________ staff concerns during the drafting stage typically face far stronger resistance later, once the policy is formally (D) ________.\n\n< word box >\nsecure / disregard / survive / enforce / convene / precede / regression / omission / hang on to / conference / predecessor / evasion / entitle",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "7" },
+        { "id": "2", "text": "8" },
+        { "id": "3", "text": "9" },
+        { "id": "4", "text": "10" },
+        { "id": "5", "text": "11" }
       ]
     },
     {
       "id": "q19",
       "number": 19,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Crucially, the correction is rarely permanent, fading back toward the original overconfident estimate within a matter of weeks.",
-      "context": "Project planners asked to estimate how long a task will take routinely underestimate the actual time required, a pattern so consistent it has its own name: the planning fallacy. ( ① ) Even planners who have personally experienced this exact bias on previous, similar projects continue to underestimate on the next one, suggesting the bias is not simply a lack of relevant experience. ( ② ) One of the few interventions that reliably improves accuracy is asking planners to imagine, in specific detail, everything that could plausibly go wrong before finalising an estimate. ( ③ ) This \"premortem\" exercise measurably lengthens the resulting estimate and brings it closer to the eventual actual outcome. ( ④ ) Organisations that adopt premortems as a standing practice, rather than a one-off exercise, report more durable improvements in estimate accuracy. ( ⑤ )",
+      "text": "Choose the most appropriate place for the given sentence: \"The junior engineer who had actually identified the correct siege approach, however, was overruled by a commander confident an older method would work just as well.\"",
+      "context": "Military histories often credit whoever eventually broke through a besieged fortress's defences, rather than whoever originally proposed the winning method and was overruled. ( ① ) A famous historical siege, for instance, is often analysed entirely through the lens of the final commanding officer's decisions. ( ② ) Official military records typically centre this commander's judgement, since it is the most visible and thoroughly documented part of the record. ( ③ ) ( ④ ) This pattern recurs across many historical sieges, where the documented decision obscures an earlier, overruled proposal that might have ended the siege sooner. ( ⑤ ) A full accounting requires tracing a siege back through every proposal that was overruled, not merely to the final decision that succeeded.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q20",
       "number": 20,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] This is why a familiar face glimpsed unexpectedly in an unfamiliar setting, such as a colleague encountered on holiday in another country, can take a disorienting extra moment to place.",
-      "context": "Face recognition, though remarkably fast and accurate under ordinary conditions, depends more heavily on context than most people realise. ( ① ) The brain appears to use expected context as a genuine input to the recognition process itself, not merely as a helpful afterthought once a face has already been identified. ( ② ) Experiments briefly showing familiar faces against an unexpected background context measurably slow recognition time and increase the error rate compared with the same faces shown in an expected setting. ( ③ ) The delay is not a failure of memory for the face itself, since recognition eventually succeeds; it is a failure of the context-matching step that ordinarily happens so quickly it goes unnoticed. ( ④ ) Once the surrounding context is consciously supplied — \"of course, that's my colleague\" — recognition suddenly resolves. ( ⑤ )",
+      "text": "Choose the most appropriate place for the given sentence: \"Unlike a permanent structural fix, however, this kind of maintenance must be repeated at regular intervals for as long as the fortification remains garrisoned.\"",
+      "context": "Historic fortifications kept in active use through periodic maintenance, rather than a single comprehensive rebuild, often remain functional far longer than fortifications restored once and left untouched. ( ① ) Engineers studying these structures note that maintenance addressing only visibly urgent damage often lets less visible structural issues worsen quietly underneath. ( ② ) A fortification maintained this way can appear structurally sound for years while a serious hidden weakness continues developing unnoticed. ( ③ ) Fortifications that instead undergo smaller, more frequent maintenance tend to have each underlying weakness caught while still minor and inexpensive to address. ( ④ ) This is why some military heritage sites now schedule minor maintenance annually rather than waiting for one large restoration. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q21",
       "number": 21,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate order for the paragraphs following the given passage.\n\nA city's traffic signal timing illustrates how optimising one measurable goal can quietly undermine an unmeasured one.\n\n(A) As a direct result, pedestrians crossing on foot face measurably longer average waiting times at every signal along the corridor, an outcome the original optimisation never measured or accounted for.\n(B) Engineers optimising a busy corridor's signal timing for vehicle throughput adjust green-light durations specifically to minimise the average car's delay across the whole corridor.\n(C) Only once pedestrian advocacy groups began independently measuring crossing wait times did the trade-off the original optimisation had quietly created become visible to the city at all.",
+      "text": "\"A hospital that automated its organ-matching system saw average waiting times fall sharply within the first year.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Coordinators had previously matched donors to recipients by manually cross-referencing paper records, a slow process prone to overlooking a viable match.\n\n(B) The automated system instead cross-checks every new donor against the entire waiting list instantly, flagging viable matches a manual process would have taken days to find.\n\n(C) The improvement, hospital administrators concluded, came less from any change to surgical procedure itself than from removing the specific delay the old manual matching process had allowed.",
       "options": [
-        { "id": "1", "text": "(A)-(B)-(C)" },
-        { "id": "2", "text": "(A)-(C)-(B)" },
-        { "id": "3", "text": "(B)-(A)-(C)" },
-        { "id": "4", "text": "(B)-(C)-(A)" },
-        { "id": "5", "text": "(C)-(A)-(B)" }
+        { "id": "1", "text": "(A) → (B) → (C)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(C) → (A) → (B)" }
       ]
     },
     {
       "id": "q22",
       "number": 22,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate order for the paragraphs following the given passage.\n\nA tropical rainforest canopy hosts an entire ecosystem that never touches the forest floor at all.\n\n(A) Some canopy-dwelling frog species complete their entire life cycle, from egg to adulthood, inside the pooled rainwater collected in a single epiphyte's leaf structure, never once descending to the ground below.\n(B) Epiphytic plants growing on the branches of canopy trees collect fallen leaves, rainwater, and airborne debris in small pockets, forming miniature, self-contained pools many metres above the ground.\n(C) An entire community of insects, amphibians, and microorganisms can therefore complete generations of their life cycle within a canopy that a ground-based survey would never detect at all.",
+      "text": "\"A court system that colour-coded its case files by urgency saw a measurable drop in overdue hearings within six months.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Before the change, urgent and routine case files sat in visually identical folders, distinguishable only by reading a small printed priority code.\n\n(B) Clerks reported that a distinct colour let them identify an urgent case instantly, without needing to pause and read a code under time pressure.\n\n(C) The improvement, court administrators concluded, came less from any change to case processing itself than from removing a moment of rushed, error-prone reading.",
       "options": [
-        { "id": "1", "text": "(A)-(B)-(C)" },
-        { "id": "2", "text": "(A)-(C)-(B)" },
-        { "id": "3", "text": "(B)-(A)-(C)" },
-        { "id": "4", "text": "(B)-(C)-(A)" },
-        { "id": "5", "text": "(C)-(A)-(B)" }
+        { "id": "1", "text": "(A) → (B) → (C)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(C) → (A) → (B)" }
       ]
     },
     {
       "id": "q23",
       "number": 23,
       "type": "multiple_choice",
-      "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?\n\nBehavioural economists distinguish between a decision made in a \"hot\" emotionally aroused state and the same decision reconsidered in a \"cold,\" calm state.\n\n① People in a hot state consistently underestimate how much their own future judgement will be shaped by emotional arousal, a pattern called the hot-cold empathy gap.\n② A person deciding calmly, in a cold state, what to eat at a restaurant next week routinely chooses more modestly than the same person, ravenously hungry, deciding in the moment.\n③ This gap has practical consequences: policies and personal commitments designed in a cold state are frequently undermined by decisions made later in a hot state that the earlier, calmer self never anticipated.\n④ Because of this gap, commitment devices made deliberately hard to reverse in a cold state — a signed contract, a public pledge — are often more effective than relying on willpower alone in the heat of the moment.\n⑤ Neither state, researchers emphasise, gives uniquely accurate access to a person's \"true\" preference; each simply weighs different, equally real considerations.",
+      "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?",
+      "context": "Experienced ship navigators are often assumed to calculate a vessel's exact position from scratch at every moment, but research into how they actually work tells a more specific story.\n\n① A trainee navigator, lacking this developed sense, must instead recalculate position from raw instrument readings at every step, a slower process more vulnerable to a single overlooked error.\n\n② Experienced navigators do not recalculate position from raw readings at every moment; instead, they maintain a continuously updated mental estimate, adjusting it incrementally as new readings arrive.\n\n③ Years of practice build a refined sense of how a vessel's position should be evolving under current conditions, so a genuinely anomalous reading stands out immediately against that expectation.\n\n④ Skilled navigation, on this account, depends less on repeated fresh calculation and more on efficiently updating an already-reliable running estimate.\n\n⑤ This incremental updating, not superior raw calculating speed, largely explains why experienced navigators catch an instrument error that a trainee recalculating from scratch might miss entirely.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q24",
       "number": 24,
       "type": "multiple_choice",
-      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).\n\nTold that a charity donation is \"tax-deductible,\" donors give measurably more than when told the identical donation simply \"helps a good cause,\" even when the actual tax benefit to the donor is trivial or, for many donors, functionally irrelevant given their income bracket. Researchers conclude that the specific framing of a benefit can shift behaviour independently of the benefit's actual practical size, since donors respond to the presence of a stated, official-sounding justification more than to its calculated value.\n\nFraming a donation's benefit in official, quantifiable terms can (A) ________ giving, even when the benefit's (B) ________ to the donor is negligible.",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).",
+      "context": "A hospital's published transplant intake figures can conceal a lengthening waiting list behind an unchanged headline admissions number, meaning a board that focuses only on the intake figure risks drawing exactly the opposite conclusion from what a waiting-time breakdown would actually reveal.\n\nBecause an intake figure can (A) ________ a lengthening waiting list behind an unchanged headline number, a board that ignores the underlying breakdown risks a conclusion that is the (B) ________ of what the details would show.",
       "options": [
-        { "id": "1", "text": "(A) increase (B) actual practical value" },
-        { "id": "2", "text": "(A) decrease (B) actual practical value" },
-        { "id": "3", "text": "(A) increase (B) emotional appeal" },
-        { "id": "4", "text": "(A) decrease (B) emotional appeal" },
-        { "id": "5", "text": "(A) increase (B) legal enforceability" }
+        { "id": "1", "text": "(A) conceal  (B) opposite" },
+        { "id": "2", "text": "(A) reveal  (B) same" },
+        { "id": "3", "text": "(A) calculate  (B) average" },
+        { "id": "4", "text": "(A) publish  (B) legal minimum" },
+        { "id": "5", "text": "(A) audit  (B) historical record" }
       ]
     },
     {
       "id": "q25",
       "number": 25,
       "type": "multiple_choice",
-      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).\n\nShoppers offered a small, free sample in a supermarket aisle purchase the sampled product at a substantially higher rate than shoppers who walk past the same product with no sample offered, even though the sample itself has no persuasive content whatsoever beyond taste. Researchers attribute much of the effect to a mild, largely unconscious sense of reciprocal obligation: having received something, however small and freely offered, a shopper feels a faint pull to reciprocate, and purchasing becomes the most immediately available way to do so.\n\nReceiving a small free sample can increase a shopper's likelihood of purchasing, largely because of a (A) ________ sense of obligation to (B) ________ something in return.",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).",
+      "context": "A patient told a transplant procedure carries an \"eighty-five percent success rate\" responds far more calmly than one told the identical procedure carries a \"fifteen percent failure rate,\" despite the two figures being mathematically identical. Surgeons aware of this effect now deliberately present both framings together, since presenting only one measurably shapes a patient's emotional response independent of the actual underlying risk.\n\nA patient's emotional response to a procedure can shift based on how the (A) ________ statistic is framed, even when the (B) ________ risk itself remains identical.",
       "options": [
-        { "id": "1", "text": "(A) conscious (B) refuse" },
-        { "id": "2", "text": "(A) mild, largely unconscious (B) reciprocate" },
-        { "id": "3", "text": "(A) legally binding (B) avoid giving" },
-        { "id": "4", "text": "(A) mild, largely unconscious (B) criticise" },
-        { "id": "5", "text": "(A) conscious (B) forget" }
+        { "id": "1", "text": "(A) identical  (B) framed" },
+        { "id": "2", "text": "(A) same  (B) underlying" },
+        { "id": "3", "text": "(A) success  (B) failure" },
+        { "id": "4", "text": "(A) hospital's  (B) surgeon's" },
+        { "id": "5", "text": "(A) patient's  (B) procedure's" }
       ]
     },
     {
@@ -352,23 +357,22 @@
       "number": 26,
       "type": "fill_blank",
       "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
-      "context": "Word Box: countless · sensory · timely · troublesome · worrisome\n\n(A) The report arrived at a remarkably __________ moment, just before the final decision was made.\n(B) The old boiler had become increasingly __________, breaking down at unpredictable intervals.\n(C) Infants rely heavily on __________ input, especially touch and smell, to recognise a caregiver.\n(D) She had made __________ small revisions before finally settling on the final draft.\n(E) The unusual silence from the research vessel overnight was distinctly __________ to the crew ashore."
+      "context": "**Word Box: abolish · legitimate · project · violate · sue**\n\n(A) Lawmakers voted to __________ the outdated regulation entirely rather than merely amend it.\n(B) The court accepted the contract as fully __________, dismissing claims that it had been signed under duress.\n(C) The company's finance team must __________ next year's revenue before the board approves the budget.\n(D) Drivers who __________ the new speed limit face significantly higher fines than before.\n(E) The homeowner decided to __________ the contractor after months of unresolved structural damage."
     },
     {
       "id": "q27",
       "number": 27,
       "type": "written_multi",
       "text": "Read and complete both tasks.",
+      "context": "**Task 27.1 (2)** — Choose the word closest in meaning to the underlined word.\n\nThe board's statement was widely read as an _affirmation_ of the merger's original terms.\n\n① rejection  ② confirmation  ③ postponement  ④ investigation  ⑤ revision\n\n**Task 27.2 (3)** — Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the longer / a case / is delayed / the more / difficult / it / becomes)",
       "subQuestions": [
         {
-          "label": "27.1 (2)",
-          "text": "Choose the word closest in meaning to the underlined word.\n\nThe negotiator's final offer was widely seen as an attempt to _placate_ the more frustrated members of the opposing team.\n\n① provoke  ② appease  ③ ignore  ④ outvote  ⑤ postpone",
-          "placeholder": "Write the number of the correct option."
+          "label": "27.1",
+          "placeholder": "Write the number of the closest synonym here..."
         },
         {
-          "label": "27.2 (3)",
-          "text": "Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the more / a routine / is repeated / the more / automatic / its performance / becomes)",
-          "placeholder": "Write the complete sentence here."
+          "label": "27.2",
+          "placeholder": "Write the complete sentence here..."
         }
       ]
     },
@@ -377,22 +381,19 @@
       "number": 28,
       "type": "written_multi",
       "text": "Read the passage and complete all three tasks below.",
-      "context": "Workplace mentoring programmes are often assumed to fail primarily because mentors and mentees are poorly matched, but ① _this explanation have become harder to sustain once outcomes are examined closely._ ② _Studies tracking matched pairs over time finds that the specific pairing predicts satisfaction with the relationship far better than it predicts any measurable career outcome._ ③ _The more likely explanation is that structured, regular contact matters more than personality fit: pairs required to meet on a fixed schedule show better outcomes than pairs left to arrange meetings informally, regardless of how well-matched they seemed at the outset._ ④ _Programmes that build in mandatory, structured check-ins report measurably better outcomes than programmes relying on voluntary, informal contact between the same quality of matched pairs._ ⑤ _This suggests that structure, rather than compatibility, several researchers now argues, is the more important design factor._",
+      "context": "Organ donor registries are often assumed to allocate available organs purely by medical urgency, and ① _this assumption prove more complicated than most patients expect._ ② _Researchers who reviewed allocation records has found that geographic proximity to a donor frequently influence which patient receives an organ, independent of relative medical urgency._ ③ _A moderately urgent patient near a donor therefore sometimes receive an organ before a more urgent patient located farther away._ ④ _This is why some health systems now use a wider regional allocation algorithm, specifically to reduce (A) this geography-driven disparity between patients of comparable urgency._ ⑤ _A wider regional algorithm, unlike a narrowly local one, allows medical urgency to compete on more equal footing with geographic proximity._\n\n**Task 28.1 (6)** — Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.\n\n**Task 28.2 (2)** — Using expressions from the passage only, write in English what the underlined phrase \"(A) this geography-driven disparity\" refers to.\n\n**Task 28.3 (2)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms. Your answer must use a subject relative pronoun (\"that\" or \"which\").\n\n**< word box >** because / geographic proximity / influences / organ allocation / some health systems now / use / a wider algorithm / that / reduces / this disparity",
       "subQuestions": [
         {
-          "label": "28.1 (6)",
-          "text": "Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.",
-          "placeholder": "Error 1: __ → __\nError 2: __ → __\nError 3: __ → __"
+          "label": "28.1",
+          "placeholder": "Write the three grammatical errors and corrections here..."
         },
         {
-          "label": "28.2 (2)",
-          "text": "Using expressions from the passage only, write in English what factor the passage concludes is \"the more important design factor.\"",
-          "placeholder": "Write your answer here."
+          "label": "28.2",
+          "placeholder": "Write what 'this geography-driven disparity' refers to here..."
         },
         {
-          "label": "28.3 (2)",
-          "text": "Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\nWord box: rather / structured contact / than / personality fit / usually determines / whether a mentoring / relationship succeeds\n\n→ ___________________________________________________.",
-          "placeholder": "Write the complete sentence here."
+          "label": "28.3",
+          "placeholder": "Write the completed summary here..."
         }
       ]
     },
@@ -401,17 +402,15 @@
       "number": 29,
       "type": "written_multi",
       "text": "Read the passage and complete both tasks below.",
-      "context": "A subscription service that requires customers to actively cancel before renewal collects substantially more repeat revenue than an otherwise identical service requiring customers to actively opt in each period, even among customers who, if asked directly, say they would prefer to decide fresh each time. The wording and structure used to describe (A) _it_, specifically which action counts as the default and which requires effort, appears to shape behaviour independently of what customers claim their actual preference to be.",
+      "context": "A prosecutor who repeatedly declines cases lacking overwhelming direct evidence maintains an impressive statistic through (A) _this selective approach_, though critics note the same approach can allow genuinely guilty defendants in evidence-light cases to escape charges entirely, a cost the conviction-rate statistic itself is structurally unable to reveal.\n\n**Task 29.1 (2)** — Explain in English what \"(A) this selective approach\" refers to.\n\n**Task 29.2 (3)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** although / declining weak cases / protects / a prosecutor's / conviction rate / guilty defendants / may / go free",
       "subQuestions": [
         {
-          "label": "29.1 (2)",
-          "text": "Explain in English what \"(A) it\" refers to.",
-          "placeholder": "Write your answer here."
+          "label": "29.1",
+          "placeholder": "Write what '(A) this selective approach' refers to here..."
         },
         {
-          "label": "29.2 (3)",
-          "text": "Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\nWord box: even when / customers say / how a choice is structured / can shape behaviour / they would prefer / to decide fresh each time\n\n→ ___________________________________________________.",
-          "placeholder": "Write the complete sentence here."
+          "label": "29.2",
+          "placeholder": "Write the completed summary here..."
         }
       ]
     },
@@ -420,17 +419,15 @@
       "number": 30,
       "type": "written_multi",
       "text": "Read the passage and complete both tasks below.",
-      "context": "Air traffic controllers managing a quiet overnight shift report that errors cluster not during the demanding rush-hour stretches, which naturally command full attention, but during the extended calm periods between them, when workload drops and vigilance is hardest to sustain deliberately. In one review of incident reports, a disproportionate share of avoidable errors occurred during exactly these low-workload stretches rather than during the objectively more complex high-traffic periods surrounding them. The real danger, it seems, lies not in the moments that feel most demanding, but in the ones that (A) ________.",
+      "context": "In a well-known study, hospital administrators asked to estimate a transplant programme's true capacity produced widely varying individual figures, yet when researchers averaged every administrator's figure together, the resulting estimate landed close to the figure an independent audit later confirmed, closer than nearly every individual administrator's figure had managed alone. The same effect held even when administrators were told in advance that the group's average would be calculated and shared, a finding that persisted (A) ________.\n\n**Task 30.1 (2)** — Identify TWO specific findings from the study described, and explain them in English.\n\n**Task 30.2 (3)** — Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(even / when / administrators / were told / the average / would be shared)",
       "subQuestions": [
         {
-          "label": "30.1 (2)",
-          "text": "Identify TWO specific findings from the passage described, and explain them in English.",
-          "placeholder": "Finding 1:\nFinding 2:"
+          "label": "30.1",
+          "placeholder": "Write the two findings here..."
         },
         {
-          "label": "30.2 (3)",
-          "text": "Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(feel / most / while / still / genuinely / manageable / requiring / vigilance)\n\n→ The real danger lies not in the moments that feel most demanding, but in the ones that (A) ________.",
-          "placeholder": "Write the completed phrase for blank (A) here."
+          "label": "30.2",
+          "placeholder": "Write the completed blank (A) here..."
         }
       ]
     }
