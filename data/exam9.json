@@ -8,13 +8,13 @@
       "number": 1,
       "type": "multiple_choice",
       "text": "Which of the following is the most appropriate title for the passage?",
-      "context": "Told that a wristband is a genuine antique from a famous historical figure, people report it as more meaningful and are willing to pay considerably more for it than for an identical wristband described as a modern reproduction, even when no physical test could ever distinguish the two objects apart. The object itself has not changed in any measurable way; what has changed is its perceived causal history, its connection to a particular chain of past events. Philosophers call this an object's essentialist value: worth derived not from physical properties but from an invisible, believed-in history behind the object.",
+      "context": "Software companies once assumed that disclosing a discovered security flaw only after a fix was fully ready protected users, since attackers would never learn of the vulnerability until it was already patched. Security researchers who track actual attacker behaviour complicate this assumption considerably: attackers frequently discover the same vulnerabilities independently, sometimes months before a company's own patch is ready, meaning delayed disclosure protects users only against the company's own timeline, not against attackers operating on a completely separate one. Some companies have shifted toward coordinated disclosure with a fixed deadline, forcing a patch to ship on a predictable schedule rather than whenever convenient, precisely because the old assumption left users exposed for however long the company happened to take.",
       "options": [
-        { "id": "1", "text": "Why Antiques Are Always More Valuable Than Reproductions" },
-        { "id": "2", "text": "Essentialist Value: Why an Object's Believed History Matters More Than Its Properties" },
-        { "id": "3", "text": "How Physical Tests Can Distinguish Genuine Antiques From Reproductions" },
-        { "id": "4", "text": "The Psychology of Wristband Collecting" },
-        { "id": "5", "text": "Why Modern Reproductions Are Indistinguishable From Originals" }
+        { "id": "1", "text": "Why Companies Should Never Disclose a Security Flaw Publicly" },
+        { "id": "2", "text": "Why Delayed Disclosure Protects Against a Company's Own Timeline, Not an Attacker's" },
+        { "id": "3", "text": "A History of Software Security Practices" },
+        { "id": "4", "text": "Why Attackers Never Discover Vulnerabilities Independently" },
+        { "id": "5", "text": "How Security Researchers Are Trained to Find Vulnerabilities" }
       ]
     },
     {
@@ -22,13 +22,13 @@
       "number": 2,
       "type": "multiple_choice",
       "text": "Choose the most appropriate topic of the passage.",
-      "context": "A single degraded copy of a photograph, repeatedly recopied across generations with each copy made from the previous copy rather than the original, accumulates visible degradation far faster than a single copy made directly from a well-preserved original would. Digital information faces an analogous risk from format obsolescence rather than physical degradation: a file saved in a format no current software can open is, for practical purposes, as lost as data on a decayed physical medium, regardless of how perfectly the underlying bits themselves have been preserved. Archivists therefore treat active format migration, not simply storage, as essential to genuine long-term preservation.",
+      "context": "Two neighbouring countries that establish a formal interchange of goods along a shared border are often assumed to benefit roughly equally from the resulting trade, since both sides gain access to products previously unavailable or expensive to import. Economists studying specific border interchange agreements complicate this assumption: the actual distribution of benefit depends heavily on which side possesses the scarcer resource, since a country supplying a good the other side cannot easily substitute captures a disproportionate share of the trade's overall value, meaning formally equal access to an interchange rarely translates into an equally shared economic benefit.",
       "options": [
-        { "id": "1", "text": "why photographs degrade more quickly than digital files" },
-        { "id": "2", "text": "how format obsolescence threatens digital preservation as seriously as physical decay threatens photographs" },
-        { "id": "3", "text": "techniques for repairing a degraded photographic copy" },
-        { "id": "4", "text": "the total storage capacity required for archiving digital files" },
-        { "id": "5", "text": "why archivists prefer physical media over digital storage" }
+        { "id": "1", "text": "the legal process required to formally establish a trade agreement" },
+        { "id": "2", "text": "how formally equal trade access does not guarantee an equally shared economic benefit between two countries" },
+        { "id": "3", "text": "the total volume of goods exchanged along a specific border annually" },
+        { "id": "4", "text": "why some countries refuse to establish border trade agreements at all" },
+        { "id": "5", "text": "a comparison of two specific countries' border trade policies" }
       ]
     },
     {
@@ -36,13 +36,13 @@
       "number": 3,
       "type": "multiple_choice",
       "text": "Choose the most appropriate topic of the passage.",
-      "context": "Termite mounds, some rising several metres above the surrounding savannah, maintain remarkably stable internal temperatures and humidity despite extreme swings in outside conditions, achieved entirely through the mound's passive architecture rather than any active climate control by the termites themselves. A network of internal chimneys and tunnels drives continuous air circulation, drawing warm, stale air upward and out while pulling cooler air in near the base, powered by nothing more than temperature differences between the mound's interior and the surrounding air. Architects studying the design have adapted similar passive-ventilation principles for buildings that maintain comfortable temperatures using drastically less energy than conventional air conditioning requires.",
+      "context": "A detective investigating a robbery who focuses resources on obtaining a suspect's confession rather than gathering independent physical evidence is sometimes assumed to be taking a shortcut around genuine investigative work. Legal scholars studying wrongful conviction cases complicate this assumption in the opposite direction: confessions obtained under prolonged interrogation pressure prove unreliable often enough that some jurisdictions now require independent corroborating evidence before a confession alone can support a conviction, meaning a detective who pursues physical evidence even after obtaining a confession is not being redundant, but is instead correcting for a documented weakness in confession evidence that a confession-focused approach alone cannot resolve.",
       "options": [
-        { "id": "1", "text": "the total height that termite mounds can reach" },
-        { "id": "2", "text": "how a termite mound's passive architecture regulates temperature without active climate control" },
-        { "id": "3", "text": "the diet and foraging behaviour of termite colonies" },
-        { "id": "4", "text": "why savannah temperatures fluctuate more than other climates" },
-        { "id": "5", "text": "methods architects use to demolish outdated buildings" }
+        { "id": "1", "text": "the interrogation techniques permitted under current criminal procedure" },
+        { "id": "2", "text": "how pursuing physical evidence even after a confession corrects for a documented weakness in confession reliability" },
+        { "id": "3", "text": "the total number of wrongful convictions overturned annually" },
+        { "id": "4", "text": "why some jurisdictions have abolished confession evidence entirely" },
+        { "id": "5", "text": "a comparison of two specific jurisdictions' interrogation procedures" }
       ]
     },
     {
@@ -50,13 +50,13 @@
       "number": 4,
       "type": "multiple_choice",
       "text": "Which of the following best states the main point of the passage?",
-      "context": "A translator working between two languages with fundamentally different grammatical structures for describing time and causation often finds that certain thoughts, easily expressed in one language, resist natural expression in the other without extensive rephrasing, not because the target language lacks the vocabulary but because its grammar simply does not carve up events the same way. This has led some researchers to argue that the language a person habitually thinks in may subtly shape which distinctions feel natural to draw at all, without making any distinction literally impossible to express with enough effort.",
+      "context": "A novel's foreshadowing is often assumed to work by planting an explicit clue the reader consciously notices and later recalls once the foreshadowed event occurs. Literary researchers studying reader recall patterns complicate this assumption: the most effective foreshadowing frequently registers only subconsciously on a first reading, an unremarkable detail the reader does not consciously flag at all, and its effectiveness lies precisely in that initial invisibility, since a reader who consciously notices an obvious clue often feels manipulated rather than satisfied once the foreshadowed event actually occurs.",
       "options": [
-        { "id": "1", "text": "Some languages are objectively more sophisticated than others at describing time and causation." },
-        { "id": "2", "text": "The grammar of a person's habitual language may subtly shape which distinctions feel natural, without making other distinctions impossible." },
-        { "id": "3", "text": "Translators should avoid working between languages with different grammatical structures." },
-        { "id": "4", "text": "Certain thoughts are permanently impossible to express in some languages, regardless of effort." },
-        { "id": "5", "text": "Vocabulary differences, not grammar, are the primary source of translation difficulty." }
+        { "id": "1", "text": "Effective foreshadowing always requires the reader to consciously notice an explicit clue." },
+        { "id": "2", "text": "The most effective foreshadowing may work precisely by registering subconsciously rather than consciously." },
+        { "id": "3", "text": "Readers always feel satisfied when they consciously notice an obvious foreshadowing clue." },
+        { "id": "4", "text": "Foreshadowing has no measurable effect on how satisfying a reader finds a novel's ending." },
+        { "id": "5", "text": "Literary researchers agree that foreshadowing should always be made explicit to readers." }
       ]
     },
     {
@@ -64,7 +64,7 @@
       "number": 5,
       "type": "multiple_choice",
       "text": "How many of the statements below do NOT agree with the passage?",
-      "context": "For most of my twenties, I treated every piece of critical feedback on my writing as evidence I should quit, and would avoid showing anyone a draft until it felt completely finished, by which point revising it felt like undoing all the work I had already done. An editor I worked with briefly gave me one piece of advice that actually changed things: share a draft you know is unfinished and rough, specifically so that feedback arrives while revision still feels natural rather than like demolition. I still find early feedback uncomfortable to receive. What changed is that I now share drafts roughly three times earlier in the process than I used to, and the discomfort no longer stops me from doing it.\n\nStatements\n(a) The writer used to treat critical feedback as a signal that she should quit writing.\n(b) She used to wait until a draft felt completely finished before sharing it.\n(c) The editor advised sharing a draft only once it felt entirely polished.\n(d) She no longer finds early feedback uncomfortable to receive.\n(e) She now shares drafts earlier in her process than she previously did.\n(f) The discomfort of early feedback no longer prevents her from sharing drafts.",
+      "context": "I spent my first year renting a spacious but poorly maintained apartment convinced my landlord was simply neglectful, since every request I submitted seemed to disappear into silence for weeks at a time. It wasn't until another tenant in the building mentioned, almost in passing, that the landlord managed the property entirely alone while working a full-time job elsewhere, that I understood the silence had never been indifference, only genuine overload. I started submitting requests through a shared online form the landlord had actually set up months earlier but never mentioned clearly, and my repairs began arriving within days rather than weeks. I still feel a flicker of embarrassment that I spent a year assuming the worst about someone who was, in hindsight, simply overwhelmed rather than uncaring.\n\nStatements\n(a) The writer initially assumed her landlord was simply neglectful.\n(b) Every repair request the writer submitted was addressed within days from the very beginning.\n(c) Another tenant mentioned the landlord managed the property alone while working full time elsewhere.\n(d) The landlord had set up an online request form but had never mentioned it clearly.\n(e) The writer's repairs began arriving faster once she used the online form.\n(f) The writer now believes the landlord was genuinely uncaring rather than overwhelmed.",
       "options": [
         { "id": "1", "text": "2" },
         { "id": "2", "text": "3" },
@@ -78,13 +78,13 @@
       "number": 6,
       "type": "multiple_choice",
       "text": "How many of the following words are correctly matched with their meanings?",
-      "context": "(a) degrade — to reduce something to a lower quality or condition\n(b) aggressive — markedly calm and unwilling to confront others\n(c) progressive — developing or advancing gradually, by stages\n(d) intermittent — occurring continuously without any interruption\n(e) dismiss — to send away or reject something\n(f) infer — to reach a conclusion based on evidence and reasoning\n(g) recur — to happen again after a period of time\n(h) impede — to help something proceed more quickly and smoothly\n(i) venture — a risky or uncertain undertaking\n(j) intervene — to become involved in a situation to change its outcome",
+      "context": "(a) counterattack — an attack made in response to an opponent's attack\n(b) disclose — to keep something secret and hidden from others\n(c) misplace — to put something in the wrong location by mistake\n(d) incomplete — fully finished; lacking nothing\n(e) interchange — an exchange between two or more things or parties\n(f) outperform — to perform worse than someone or something else\n(g) outlive — to live longer than someone or something else\n(h) utmost — the greatest or highest possible degree\n(i) foreshadow — to give an early sign or warning of a future event\n(j) overhear — to deliberately listen in on a private conversation",
       "options": [
-        { "id": "1", "text": "4" },
-        { "id": "2", "text": "5" },
-        { "id": "3", "text": "6" },
-        { "id": "4", "text": "7" },
-        { "id": "5", "text": "8" }
+        { "id": "1", "text": "5" },
+        { "id": "2", "text": "6" },
+        { "id": "3", "text": "7" },
+        { "id": "4", "text": "8" },
+        { "id": "5", "text": "9" }
       ]
     },
     {
@@ -92,13 +92,13 @@
       "number": 7,
       "type": "multiple_choice",
       "text": "Which statement does NOT agree with the two explanations given in the passage?",
-      "context": "Salmon return, after years spent at sea, to spawn in the specific freshwater stream where they themselves hatched, navigating hundreds of kilometres of open ocean to find it. One explanation holds that salmon imprint on their home stream's distinctive chemical signature as juveniles, before migrating to sea, and recognise this signature again upon returning, using it to guide the final stages of the journey. A second, competing explanation emphasises magnetic sensitivity: salmon may register the specific geomagnetic signature of their home stream's location and navigate toward that magnetic coordinate across the open ocean, well before any chemical cue could possibly be detected.",
+      "context": "Employees who voluntarily disclose their own workplace mistakes to a manager, rather than waiting to be caught, are sometimes rewarded with lighter consequences than employees whose identical mistakes are discovered independently, a pattern two competing explanations attempt to account for. One explanation holds that voluntary disclosure genuinely signals trustworthy character, evidence a manager can reasonably weigh favourably when deciding how to respond. A second, competing explanation instead proposes that voluntary disclosure simply arrives before the mistake's full consequences have compounded, meaning the lighter response reflects a smaller, more manageable problem rather than any genuine judgement about the employee's character at all.",
       "options": [
-        { "id": "1", "text": "The first explanation attributes stream recognition to a chemical signature imprinted during the juvenile stage." },
-        { "id": "2", "text": "The first explanation suggests salmon recognise the chemical cue only upon returning to fresh water." },
-        { "id": "3", "text": "The second explanation attributes long-distance ocean navigation to sensitivity to geomagnetic signatures." },
-        { "id": "4", "text": "The second explanation agrees with the first that chemical imprinting guides navigation across the entire ocean journey." },
-        { "id": "5", "text": "Both explanations attempt to account for the same observed homing behaviour." }
+        { "id": "1", "text": "The first explanation attributes lighter consequences to voluntary disclosure genuinely signalling trustworthy character." },
+        { "id": "2", "text": "The first explanation suggests a manager can reasonably weigh this signal favourably." },
+        { "id": "3", "text": "The second explanation claims voluntary disclosure always arrives after the mistake's consequences have fully compounded." },
+        { "id": "4", "text": "The second explanation attributes lighter consequences to a smaller, more manageable problem rather than character judgement." },
+        { "id": "5", "text": "Both explanations attempt to account for the same pattern of lighter consequences following voluntary disclosure." }
       ]
     },
     {
@@ -107,25 +107,25 @@
       "type": "multiple_choice",
       "text": "Which underlined word is NOT used appropriately in context?",
       "options": [
-        { "id": "1", "text": "The negotiations grew unexpectedly _aggressive_ once the final deadline passed." },
-        { "id": "2", "text": "The committee's approval will _precede_ the official launch of the new programme by several weeks." },
-        { "id": "3", "text": "Doctors advised the patient to _dismiss_ her prescribed medication carefully, following the schedule exactly as written." },
-        { "id": "4", "text": "The symptoms were _intermittent_, appearing for a day or two and then vanishing entirely for weeks at a time." },
-        { "id": "5", "text": "Two independent research teams reached the same conclusion, a striking _concurrence_ given that neither was aware of the other's work." }
+        { "id": "1", "text": "The rebels launched a swift _counterattack_ once the initial assault began to falter." },
+        { "id": "2", "text": "The company refused to _disclose_ its expansion plans to outside investors." },
+        { "id": "3", "text": "The clerk apologised for having _misplaced_ the client's original documents." },
+        { "id": "4", "text": "The report was rejected for being clearly _incomplete_, containing every required section in full." },
+        { "id": "5", "text": "The two nations agreed to establish a formal trade _interchange_ along their shared border." }
       ]
     },
     {
       "id": "q9",
       "number": 9,
       "type": "multiple_choice",
-      "text": "Which of the following best explains the meaning of the underlined phrase \"the illusion of explanatory depth\"?",
-      "context": "Asked to rate how well they understand how a bicycle's gears work, most people respond confidently, but when subsequently asked to actually explain the mechanism step by step, their confidence collapses almost immediately, and the explanation they produce is noticeably thinner than their initial rating suggested. Researchers call this _the illusion of explanatory depth_: a sense of understanding borrowed from having seen a mechanism function reliably many times, mistaken for genuine comprehension of why it functions at all.",
+      "text": "Which of the following best explains the meaning of the underlined phrase \"the confession discount\"?",
+      "context": "Employees who voluntarily report their own mistakes before being discovered often receive noticeably lighter consequences, a pattern managers sometimes call _the confession discount_, though researchers caution this discount may reflect timing rather than genuine trustworthiness: a voluntarily reported mistake typically arrives before its full consequences have compounded, meaning the lighter response may simply track a smaller, more manageable problem rather than any real judgement about the employee's character at all.",
       "options": [
-        { "id": "1", "text": "a genuine, deep understanding of mechanical systems that most people already possess" },
-        { "id": "2", "text": "a false sense of understanding that collapses once a person is asked to actually explain the mechanism" },
-        { "id": "3", "text": "a preference for simple mechanisms over genuinely complex ones" },
-        { "id": "4", "text": "the fact that bicycles are more mechanically complex than most people realise" },
-        { "id": "5", "text": "a bias that only affects people with no mechanical experience whatsoever" }
+        { "id": "1", "text": "employees who confess voluntarily always receive identical consequences to those who are caught" },
+        { "id": "2", "text": "lighter consequences for voluntary disclosure may reflect earlier timing rather than genuine character judgement" },
+        { "id": "3", "text": "a mistake's consequences never compound over time regardless of when it is reported" },
+        { "id": "4", "text": "managers can never distinguish between voluntary disclosure and being caught" },
+        { "id": "5", "text": "voluntary disclosure always signals objectively worse character than being caught" }
       ]
     },
     {
@@ -133,13 +133,13 @@
       "number": 10,
       "type": "multiple_choice",
       "text": "Which underlined word is NOT appropriate in context?",
-      "context": "Whatever is at all discoverable, men before us have discovered. There is a limit to the possible growth of prudence; and after a certain period, no sage retains any ① _material_ advantage over his fellows. Every wise man's son knows that ② _persistent_ inquiry into first causes will lead him where no one has yet arrived. It is one of the beautiful compensations of this life that no one can sincerely try to ③ _hinder_ another without helping himself. Men do what is called a good business when they find that a little more labour bestowed on their ordinary occupation ④ _yields_ a greater return than before. There is a deep ⑤ _suspicion_ in the popular mind that the intellect is inversely as the strength of the back.",
+      "context": "A regulatory agency introducing a new data-protection rule must decide how strictly to pursue ① _enforcement_, since inconsistent penalties often generate more confusion than no rule at all. Companies that ② _coexist_ peacefully with regulators by demonstrating good-faith compliance efforts typically face lighter penalties for minor first violations. Agencies that ③ _entrust_ too much discretion to individual investigators risk wildly inconsistent enforcement across similar cases. A well-designed rule's ④ _configuration_, specifying exactly which violations trigger which response, reduces this inconsistency considerably. Companies genuinely ⑤ _compassionate_ about protecting customer data still sometimes fail to meet every technical requirement of a complex new rule.",
       "options": [
-        { "id": "1", "text": "material" },
-        { "id": "2", "text": "persistent" },
-        { "id": "3", "text": "hinder" },
-        { "id": "4", "text": "yields" },
-        { "id": "5", "text": "suspicion" }
+        { "id": "1", "text": "enforcement" },
+        { "id": "2", "text": "coexist" },
+        { "id": "3", "text": "entrust" },
+        { "id": "4", "text": "configuration" },
+        { "id": "5", "text": "compassionate" }
       ]
     },
     {
@@ -147,13 +147,13 @@
       "number": 11,
       "type": "multiple_choice",
       "text": "Which of the following questions CANNOT be answered from the passage?",
-      "context": "Cuttlefish can alter both the colour and texture of their skin within a fraction of a second, using specialised pigment cells called chromatophores that expand and contract under direct neural control, entirely bypassing the slower hormonal pathways most other camouflaging animals rely on. Remarkably, cuttlefish themselves are colour-blind, which has led researchers to a competing hypothesis: photoreceptor cells embedded directly in the skin may allow the animal to sense light and colour information without routing it through the eyes at all, though this remains only partly confirmed. A startled cuttlefish can also rapidly raise small skin projections called papillae to mimic the rough texture of coral or rock.",
+      "context": "Naval commanders in earlier centuries sometimes ordered a vessel to fly a false flag, disguising its true national origin, to approach an enemy vessel without triggering an immediate defensive response. This tactic carried genuine risk: international maritime convention generally prohibited actually firing upon an enemy while still flying a false flag, meaning a commander had to formally raise the true flag before engaging, a brief but critical window during which the element of surprise the disguise had created was immediately lost. Naval historians studying this tactic's actual battle outcomes found it succeeded often enough to remain in regular use for centuries, despite this built-in limitation, primarily because a genuinely confused enemy rarely reorganised its defences quickly enough within that brief window to fully counteract the surprise.",
       "options": [
-        { "id": "1", "text": "What structures allow a cuttlefish to change its skin colour so quickly?" },
-        { "id": "2", "text": "Is the mechanism behind cuttlefish colour-matching fully confirmed by researchers?" },
-        { "id": "3", "text": "How many distinct skin colours can a cuttlefish produce simultaneously?" },
-        { "id": "4", "text": "What is one hypothesis for how a colour-blind cuttlefish detects colour information?" },
-        { "id": "5", "text": "What additional change can a startled cuttlefish make to its skin besides colour?" }
+        { "id": "1", "text": "Why did naval commanders sometimes order a vessel to fly a false flag?" },
+        { "id": "2", "text": "What did international maritime convention generally prohibit while a false flag was flying?" },
+        { "id": "3", "text": "How many recorded naval battles involved a false-flag tactic historically?" },
+        { "id": "4", "text": "Why did this tactic remain in regular use for centuries despite its limitation?" },
+        { "id": "5", "text": "Could an enemy typically reorganise its defences within the brief flag-raising window?" }
       ]
     },
     {
@@ -161,7 +161,7 @@
       "number": 12,
       "type": "multiple_choice",
       "text": "How many of the underlined parts are grammatically INCORRECT?",
-      "context": "The sunk cost fallacy describes a pattern in which people continue investing in a failing course of action because of resources already spent, rather than resources likely to be gained going forward. ① _A company that has spent heavily on a failing product line often continue funding it well past the point a fresh evaluation would recommend._ ② _Behavioural economists attribute this partly to a reluctance to publicly acknowledge that prior spending was, in effect, wasted._ ③ _The same pattern extend to personal decisions, such as finishing a boring book solely because of the hours already invested in it._ ④ _Rationally, only future costs and benefits should influence a decision going forward, regardless of what has already been spent._ ⑤ _Recognising the fallacy explicitly, some evidence suggests, modestly improves people's ability to resist it in subsequent decisions._",
+      "context": "① _A shipping company introducing a new freight-tracking system often overlook how much driver training the new system actually requires before delivering any efficiency gain._ ② _Drivers who has not completed the full training programme report frequently reverting to older, less efficient manual tracking methods under pressure._ ③ _Some companies eventually conclude the new system is not worth adopting fleet-wide at all, once the hidden training cost is properly accounted for._ ④ _Executives who authorized the rollout without budgeting for training assumes drivers would simply adapt on their own._ ⑤ _A simplified onboarding programme, introduced after years of complaints, has measurably increased how quickly drivers actually adopt the new system._",
       "options": [
         { "id": "1", "text": "1" },
         { "id": "2", "text": "2" },
@@ -175,13 +175,13 @@
       "number": 13,
       "type": "multiple_choice",
       "text": "Which underlined part is grammatically incorrect?",
-      "context": "The availability heuristic ① _describes_ a tendency to judge the likelihood of an event by how easily examples of it come to mind, rather than by its actual statistical frequency. Vivid, heavily reported events such as plane crashes ② _are recalled_ far more easily than statistically more common but less dramatic risks, such as routine car accidents. This mismatch between vividness and actual frequency ③ _lead_ people to systematically overestimate rare, dramatic risks while underestimating common, mundane ones. Insurance purchasing patterns ④ _reflect_ this bias clearly, with sales of disaster coverage spiking noticeably after a widely reported disaster elsewhere. Awareness of the heuristic ⑤ _does not reliably eliminate_ its influence on judgement.",
+      "context": "A landlord who ① _rents_ out a spacious apartment without conducting a thorough tenant screening risks costly disputes later. A tenant who ② _signs_ a lease without reading every clause carefully sometimes discovers unfavourable terms only after moving in. Property managers who ③ _handles_ maintenance requests promptly report significantly higher tenant satisfaction than those who respond slowly. A tenant who ④ _has submitted_ the same repair request multiple times without a response often escalates the complaint through formal channels. Even a genuinely ⑤ _spacious_ apartment can feel cramped if basic maintenance is consistently neglected.",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "rents" },
+        { "id": "2", "text": "signs" },
+        { "id": "3", "text": "handles" },
+        { "id": "4", "text": "has submitted" },
+        { "id": "5", "text": "spacious" }
       ]
     },
     {
@@ -189,13 +189,13 @@
       "number": 14,
       "type": "multiple_choice",
       "text": "Among the dictionary definitions below, how many describe words that do NOT appear in the passage? (Ignore singular/plural forms, voice, and tense.)",
-      "context": "Auction houses selling a painting of uncertain attribution typically commission a technical analysis examining pigment composition, canvas weave, and brushstroke patterns before publishing a formal opinion on authorship, since a mistaken attribution can expose the house to significant financial and reputational liability. Even with this precaution, expert opinion on attribution can shift substantially as analytical techniques improve, and a painting confidently attributed to a master's own hand in one decade is sometimes reclassified as the work of a skilled student or workshop assistant in the next, without any change to the physical object itself.\n\nDefinitions\n(a) the act of identifying who created a particular work\n(b) legal responsibility for loss or damage\n(c) to formally place someone in a different category than before\n(d) a repeated pattern that recurs at intervals\n(e) careful preparation made in advance to prevent a problem\n(f) to reduce something to a smaller or lower amount\n(g) money paid regularly to support a cause or organisation\n(h) a formal request submitted for official permission",
+      "context": "A defendant who confesses to a robbery under prolonged interrogation pressure can later petition to have that confession excluded from trial if a court finds it was not genuinely voluntary. Legal scholars studying these petitions note that a confederate's corroborating testimony, when it exists, often proves more reliable to a jury than the original confession itself, precisely because a confederate has typically not been subjected to the same interrogation pressure the original defendant experienced.\n\nDefinitions\n(a) to steal from a person or place\n(b) an accomplice; a person who conspires with another\n(c) a formal decision announced by a jury\n(d) to admit to having committed a crime\n(e) a punishment imposed for a violation\n(f) to fake or invent a document to deceive\n(g) to fire a projectile from a weapon\n(h) an arrangement of things in a particular order",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "3" },
+        { "id": "2", "text": "4" },
+        { "id": "3", "text": "5" },
+        { "id": "4", "text": "6" },
+        { "id": "5", "text": "7" }
       ]
     },
     {
@@ -203,13 +203,13 @@
       "number": 15,
       "type": "multiple_choice",
       "text": "Which sentence best fits the blank?",
-      "context": "Goodhart's law is often summarised as: when a measure becomes a target, it ceases to be a good measure. A school system that begins rewarding teachers based purely on students' standardised test scores may see those scores rise steadily, yet find that broader educational quality has not improved to match, because ________. Teachers rationally begin optimising specifically for whatever the test measures, at the expense of everything valuable the test was originally only a rough proxy for.",
+      "context": "A company that discloses a security vulnerability only once a fix is completely ready is sometimes praised for prioritising user safety above all else. Security researchers studying actual attacker behaviour complicate this praise: attackers frequently discover the same vulnerability independently, on their own separate timeline, meaning delayed disclosure ________. Users remain exposed for however long the company's own patch takes, regardless of when an attacker might have already found the flaw.",
       "options": [
-        { "id": "1", "text": "the test scores and broader educational quality always move in perfect alignment with one another" },
-        { "id": "2", "text": "the measure itself becomes the object of direct optimisation, diverging from the broader goal it was meant to represent" },
-        { "id": "3", "text": "standardised tests are inherently more reliable than any other method of measuring educational quality" },
-        { "id": "4", "text": "teachers are incapable of improving their students' performance under any incentive structure" },
-        { "id": "5", "text": "rewarding teachers based on test scores has no effect on their behaviour whatsoever" }
+        { "id": "1", "text": "always protects users completely from any attacker, regardless of the company's timeline" },
+        { "id": "2", "text": "protects users only against the company's own disclosure timeline, not against an independently discovering attacker" },
+        { "id": "3", "text": "has recently been made illegal in every jurisdiction with data protection laws" },
+        { "id": "4", "text": "is impossible to implement without a legally mandated fixed deadline" },
+        { "id": "5", "text": "guarantees an attacker will never discover the vulnerability independently" }
       ]
     },
     {
@@ -217,13 +217,13 @@
       "number": 16,
       "type": "multiple_choice",
       "text": "Which sentence does NOT fit the overall flow of the passage?",
-      "context": "Slime moulds, single-celled organisms with no brain or nervous system whatsoever, can solve surprisingly sophisticated spatial problems, such as finding the shortest path through a maze toward a food source. ① Researchers placed oat flakes at locations corresponding to major cities on a map and allowed a slime mould to grow between them inside a miniature replica of the surrounding terrain. ② The resulting network of the mould's tendrils closely resembled the actual layout of an existing regional rail network, built by human engineers over decades. ③ Slime moulds reproduce through spores that can remain dormant for years under unfavourable conditions. ④ The mould appears to solve the problem through a simple, local process of reinforcing efficient connections and withdrawing from inefficient ones, with no central planning of any kind. ⑤ This suggests that sophisticated network optimisation does not necessarily require anything resembling a brain to emerge.",
+      "context": "A naval vessel disguised under a false flag relied on a narrow window of confusion to close distance with an enemy ship before its true intentions became clear. ① _The disguised vessel would approach openly, relying on the enemy's assumption of friendly or neutral status to avoid triggering an early defensive response._ ② _International maritime convention generally required the true flag to be raised before any actual engagement began, a formality that immediately alerted the enemy to the deception._ ③ _Naval flags themselves were often handwoven from durable fabric designed to withstand extended exposure to salt water and wind._ ④ _The tactic's success depended entirely on how much ground could be closed during that brief window before the true flag had to be raised._ ⑤ _A commander who misjudged this timing risked losing the element of surprise entirely before the disguised vessel was close enough to strike effectively._",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
@@ -231,13 +231,13 @@
       "number": 17,
       "type": "multiple_choice",
       "text": "Which words best complete blanks (A) and (B)?",
-      "context": "Grandmasters shown a chessboard mid-game for a few seconds can reconstruct nearly the entire position from memory, yet shown the same pieces scattered randomly, with no relation to any plausible game, their recall drops to roughly a beginner's level. The difference reflects (A). Years of study have built a grandmaster's memory around recurring configurations of pieces rather than each piece as an individually memorised item, so a realistic position is recognised as a small number of familiar patterns rather than thirty-two separate facts. A random arrangement, containing no such recognisable patterns, (B), exactly as it would for any novice encountering thirty-two unrelated pieces of information at once.",
+      "context": "A company that discloses a discovered security flaw only once its own fix is completely ready can appear, on the surface, to be prioritising user safety responsibly. Security researchers who study actual attacker discovery patterns find this approach (A) ________, precisely because an attacker operating independently (B) ________.",
       "options": [
-        { "id": "1", "text": "(A) a superior raw visual memory that grandmasters are simply born with\n(B) is recalled with unusual and effortless precision by a grandmaster" },
-        { "id": "2", "text": "(A) recurring patterns recognised through extensive practice, not raw memory capacity\n(B) must be memorised piece by piece, offering no shortcut even to a grandmaster" },
-        { "id": "3", "text": "(A) a talent entirely unrelated to how many games have previously been studied\n(B) is discarded entirely by the grandmaster's memory as irrelevant" },
-        { "id": "4", "text": "(A) a physical rather than cognitive skill, unrelated to visual processing\n(B) becomes easier to memorise the longer the grandmaster studies it" },
-        { "id": "5", "text": "(A) a skill that depends more on mood than on accumulated practice\n(B) triggers the same response as a real, meaningful position would" }
+        { "id": "1", "text": "(A) always fully protects users regardless of when an attacker might discover the flaw  (B) can only ever discover a flaw after the company's own disclosure" },
+        { "id": "2", "text": "(A) can leave users exposed for as long as the company's own patch takes to complete  (B) may discover and exploit the same flaw on a completely separate timeline" },
+        { "id": "3", "text": "(A) is impossible to implement without a legally mandated disclosure deadline  (B) was independently verified by an external security auditor" },
+        { "id": "4", "text": "(A) requires no coordination with independent security researchers at all  (B) has recently been banned from operating in most jurisdictions" },
+        { "id": "5", "text": "(A) is identical in risk regardless of how quickly the company discloses  (B) was selected using a fully randomised discovery process" }
       ]
     },
     {
@@ -245,106 +245,111 @@
       "number": 18,
       "type": "multiple_choice",
       "text": "How many of the words below CANNOT fit into any of the blanks (A), (B), (C), or (D)? (More than one word may fit each blank.)",
-      "context": "Meetings held standing up, researchers have found, tend to (A) ________ noticeably shorter than the identical agenda handled while seated, without any measurable (B) ________ in the quality of decisions reached. The physical discomfort of prolonged standing appears to (C) ________ participants toward reaching a workable conclusion more quickly, rather than allowing discussion to expand indefinitely simply because a comfortable chair removes any incentive to conclude. Critics note the effect may not (D) ________ to meetings requiring extended, detailed technical discussion, where genuine complexity, not mere comfort, is the actual reason for a meeting's length.\n\nWord box: run / decline / prompt / extend / drop / motivate / generalise / worsen / improvement / apply / lengthen / deteriorate",
+      "context": "A regulatory agency proposing a new data-disclosure rule must first (A) ________ enough industry cooperation to survive an initial legal challenge, since a rule industry actively resists rarely (B) ________ long enough to demonstrate its intended benefit. Officials who (C) ________ industry concerns during the drafting process typically face far stronger opposition later, once the rule is formally (D) ________.\n\n< word box >\nsecure / disregard / survive / legislate / infringe / degrade / venture / transmit / emit / recur / pervasive / aggression / degradation",
       "options": [
-        { "id": "1", "text": "1" },
-        { "id": "2", "text": "2" },
-        { "id": "3", "text": "3" },
-        { "id": "4", "text": "4" },
-        { "id": "5", "text": "5" }
+        { "id": "1", "text": "7" },
+        { "id": "2", "text": "8" },
+        { "id": "3", "text": "9" },
+        { "id": "4", "text": "10" },
+        { "id": "5", "text": "11" }
       ]
     },
     {
       "id": "q19",
       "number": 19,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Crucially, the effect appears even when participants are explicitly told in advance that the price is randomly assigned and bears no relation to quality.",
-      "context": "Participants asked to taste and rate an identical wine sample rate it more favourably when told it costs ninety dollars than when told the same wine costs ten dollars. ( ① ) Brain imaging conducted during tasting shows measurably greater activity in pleasure-related regions for the \"expensive\" sample, not merely a difference in the rating participants later report. ( ② ) This suggests the price is altering the actual sensory experience itself, not simply biasing participants' willingness to admit disliking an \"expensive\" product. ( ③ ) Researchers describe price, in this context, as functioning like an active ingredient in the tasting experience rather than mere external information about the product. ( ④ ) The finding complicates any simple assumption that people's stated preferences straightforwardly reflect an underlying, price-independent sensory reality. ( ⑤ )",
+      "text": "Choose the most appropriate place for the given sentence: \"The junior analyst who had actually flagged the vulnerability first, however, was told to wait until a senior colleague independently confirmed it before reporting anything.\"",
+      "context": "Security disclosure timelines often credit whoever formally reported a vulnerability, rather than whoever originally discovered it and was told to wait before reporting. ( ① ) A well-known security flaw, for instance, is often attributed publicly to whichever researcher's name appears on the official disclosure report. ( ② ) Industry retrospectives typically centre this named researcher's discovery as the definitive origin point. ( ③ )( ④ ) This pattern recurs across many disclosed vulnerabilities, where the credited report obscures an earlier discovery that was simply delayed by internal process. ( ⑤ ) Recognising it requires deliberately asking who actually found the flaw first, not merely whose name appears on the final report.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q20",
       "number": 20,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate place for the given sentence.\n\n[Sentence to insert] Only later, once enough investors had lost enough money, did the practice fall out of favour almost entirely.",
-      "context": "In the years leading up to a major market downturn, financial commentators frequently described a \"new era\" of permanently higher valuations, arguing that traditional measures of a company's worth no longer applied to a transformed economy. ( ① ) Such claims tend to recur, in slightly different language, before nearly every major speculative bubble in recorded financial history. ( ② ) Investors who might otherwise have been cautious found the \"this time is different\" argument persuasive precisely because each specific version was tailored to that era's genuinely novel circumstances. ( ③ ) Skeptical voices warning that valuations remained fundamentally tethered to ordinary economic principles were routinely dismissed as failing to understand the new landscape. ( ④ ) The pattern's persistence across otherwise very different historical episodes suggests something structural about how bubbles are rationalised while they are still inflating. ( ⑤ )",
+      "text": "Choose the most appropriate place for the given sentence: \"Unlike a permanent fix, however, this kind of patch must be reapplied every time the underlying vulnerability resurfaces in a new form.\"",
+      "context": "Software teams under deadline pressure frequently patch a specific exploit rather than addressing the deeper design flaw that made it possible. ( ① ) A quick patch can close a specific vulnerability within hours, satisfying an anxious client far faster than a proper structural fix ever could. ( ② ) Engineers who track these patches privately admit the same underlying design flaw frequently resurfaces months later in a slightly different form. ( ③ ) Some codebases accumulate dozens of these patches layered on top of one another over several years. ( ④ ) A genuine long-term solution would require revisiting the original design decision that made the vulnerability possible in the first place. ( ⑤ )",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q21",
       "number": 21,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate order for the paragraphs following the given passage.\n\nA public library's decision to eliminate all late fees illustrates how removing a measurable penalty can improve the very behaviour the penalty was meant to enforce.\n\n(A) Return rates, measured by the percentage of borrowed items eventually returned at all, actually improved slightly after fees were removed, since patrons no longer avoided the library altogether once a fine had accumulated past what they felt able to pay.\n(B) Librarians had long assumed late fees were necessary to encourage timely returns, and worried that eliminating them entirely would result in significantly more books never being returned at all.\n(C) The library's experience suggests the fee had been discouraging embarrassed patrons from returning items and reengaging with the library at all, a cost the original fee structure never accounted for.",
+      "text": "\"A shipping company that automated its freight rate calculation saw pricing disputes with customers fall sharply within the first year.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Staff had previously calculated freight rates manually using a complex formula, an error-prone process that occasionally produced a quote inconsistent with the final invoice.\n\n(B) The automated system instead applies the identical formula to every shipment without variation, eliminating the specific inconsistency the manual process had allowed.\n\n(C) The improvement, company analysts concluded, came less from any change to the underlying rate structure than from removing the human error the manual calculation had introduced.",
       "options": [
-        { "id": "1", "text": "(A)-(B)-(C)" },
-        { "id": "2", "text": "(A)-(C)-(B)" },
-        { "id": "3", "text": "(B)-(A)-(C)" },
-        { "id": "4", "text": "(B)-(C)-(A)" },
-        { "id": "5", "text": "(C)-(A)-(B)" }
+        { "id": "1", "text": "(A) → (B) → (C)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(C) → (A) → (B)" }
       ]
     },
     {
       "id": "q22",
       "number": 22,
       "type": "multiple_choice",
-      "text": "Choose the most appropriate order for the paragraphs following the given passage.\n\nA wetland positioned between farmland and a river performs a filtering function that would otherwise require expensive engineered infrastructure.\n\n(A) Excess nitrogen and phosphorus from agricultural runoff are absorbed and processed by wetland plants and soil microbes before the water ever reaches the river's main channel.\n(B) Removing a wetland to expand farmland, therefore, does not merely eliminate habitat; it removes a filtering function whose engineered replacement can cost far more than the value of the reclaimed land.\n(C) Without this filtering step, the same nutrients would flow directly into the river, feeding the kind of algal blooms that starve river ecosystems of oxygen downstream.",
+      "text": "\"A property management company that colour-coded its maintenance ticket system saw a measurable drop in overdue repairs within six months.\" Choose the most appropriate order for the paragraphs following the given passage.",
+      "context": "(A) Before the change, urgent and routine repair tickets sat in a visually identical list, distinguishable only by reading a small priority label.\n\n(B) Maintenance staff reported that a distinct colour let them identify an urgent ticket instantly, without needing to pause and read a label during a busy day.\n\n(C) The improvement, the company concluded, came less from any change to staffing levels than from removing a moment of rushed, error-prone reading.",
       "options": [
-        { "id": "1", "text": "(A)-(B)-(C)" },
-        { "id": "2", "text": "(A)-(C)-(B)" },
-        { "id": "3", "text": "(B)-(A)-(C)" },
-        { "id": "4", "text": "(B)-(C)-(A)" },
-        { "id": "5", "text": "(C)-(A)-(B)" }
+        { "id": "1", "text": "(A) → (B) → (C)" },
+        { "id": "2", "text": "(A) → (C) → (B)" },
+        { "id": "3", "text": "(B) → (A) → (C)" },
+        { "id": "4", "text": "(B) → (C) → (A)" },
+        { "id": "5", "text": "(C) → (A) → (B)" }
       ]
     },
     {
       "id": "q23",
       "number": 23,
       "type": "multiple_choice",
-      "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?\n\nNegotiation researchers distinguish between distributive bargaining, in which one party's gain is necessarily the other's loss, and integrative bargaining, in which both parties can gain simultaneously.\n\n① Distributive bargaining suits situations genuinely limited to a single, fixed resource being divided between two parties, such as agreeing on a single sale price for an existing object.\n② Integrative bargaining becomes possible whenever the two parties value different aspects of a deal differently, allowing trades that leave both sides better off than a simple fixed split would.\n③ A common mistake is treating every negotiation as distributive by default, searching only for a fair split rather than exploring whether trades exist that could benefit both sides.\n④ Skilled negotiators therefore begin by identifying which parts of a negotiation are genuinely fixed and which parts allow for value-creating trades before settling into a purely competitive stance.\n⑤ Treating an integrative opportunity as if it were purely distributive, in other words, can leave real, mutually beneficial value unclaimed on the table.",
+      "text": "Arrange sentences ①–⑤ so that they fit the passage. Which sentence should come fourth?",
+      "context": "Experienced security auditors are often assumed to examine every line of code with equal, methodical attention, but research into how they actually work tells a more specific story.\n\n① A junior auditor, lacking this developed sense, must instead examine every line of code in comparably exhaustive detail, a slower process more vulnerable to missing a genuinely anomalous section.\n\n② Experienced auditors do not scrutinise every line with identical thoroughness; their attention instead concentrates disproportionately on whichever section deviates from an expected, routine pattern.\n\n③ Years of practice build a refined internal sense of what secure, routine code typically looks like, so a genuinely suspicious section stands out precisely by breaking that expected pattern.\n\n④ Effective auditing, on this account, depends less on scrutinising every line equally and more on efficiently recognising which sections already look statistically unremarkable.\n\n⑤ This selective attention, not superior general vigilance, largely explains why experienced auditors catch vulnerabilities that careful but inexperienced juniors frequently miss.",
       "options": [
-        { "id": "1", "text": "" },
-        { "id": "2", "text": "" },
-        { "id": "3", "text": "" },
-        { "id": "4", "text": "" },
-        { "id": "5", "text": "" }
+        { "id": "1", "text": "①" },
+        { "id": "2", "text": "②" },
+        { "id": "3", "text": "③" },
+        { "id": "4", "text": "④" },
+        { "id": "5", "text": "⑤" }
       ]
     },
     {
       "id": "q24",
       "number": 24,
       "type": "multiple_choice",
-      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).\n\nEmployees told their bonus depends on \"individual performance relative to peers\" compete more aggressively, and cooperate with colleagues noticeably less, than employees told an identical bonus depends on \"meeting an absolute performance standard,\" even when the actual likelihood of receiving the bonus is calibrated to be the same under both framings. Managers designing compensation structures, researchers argue, should weigh not only how much a bonus motivates individual effort but also how its specific framing shapes cooperative behaviour among colleagues who must still work together.\n\nFraming a bonus as based on relative comparison with peers, rather than an absolute standard, can (A) ________ competition and (B) ________ cooperation among colleagues.",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).",
+      "context": "A company's published security incident count can conceal a genuinely worsening vulnerability pattern behind a single unrelated year of unusually low reported incidents, meaning a reader who focuses only on the headline count risks drawing exactly the opposite conclusion from what a category-by-category breakdown would actually reveal.\n\nBecause a headline incident count can (A) ________ a worsening vulnerability pattern behind an unrelated low-incident year, a reader who ignores the underlying breakdown risks a conclusion that is the (B) ________ of what the details would show.",
       "options": [
-        { "id": "1", "text": "(A) increase (B) reduce" },
-        { "id": "2", "text": "(A) reduce (B) increase" },
-        { "id": "3", "text": "(A) increase (B) increase" },
-        { "id": "4", "text": "(A) reduce (B) reduce" },
-        { "id": "5", "text": "(A) increase (B) have no effect on" }
+        { "id": "1", "text": "(A) conceal  (B) opposite" },
+        { "id": "2", "text": "(A) reveal  (B) same" },
+        { "id": "3", "text": "(A) calculate  (B) average" },
+        { "id": "4", "text": "(A) publish  (B) legal minimum" },
+        { "id": "5", "text": "(A) audit  (B) historical record" }
       ]
     },
     {
       "id": "q25",
       "number": 25,
       "type": "multiple_choice",
-      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).\n\nRestaurant patrons seated near a display kitchen, where they can watch food actually being prepared, consistently rate the same dish as tastier and rate the restaurant more favourably overall than patrons seated where no preparation is visible, even when the dish itself, down to the exact plate, is identical in both cases. Researchers attribute the effect to visible effort: watching the labour behind a dish appears to genuinely enhance its perceived value, not merely the diner's willingness to say something complimentary about it.\n\nVisible evidence of the effort behind a dish's preparation can (A) ________ how a diner actually perceives its quality, not merely (B) ________ what they are willing to say about it.",
+      "text": "The following passage is to be summarised in one sentence. Choose the most appropriate words for blanks (A) and (B).",
+      "context": "A user told a software update carries an \"ninety-five percent compatibility rate\" responds far more calmly than one told the identical update carries a \"five percent failure rate,\" despite the two figures being mathematically identical. Software companies aware of this effect now deliberately present both framings together, since presenting only one measurably shapes user sentiment independent of the actual underlying compatibility.\n\nA user's sentiment toward an update can shift based on how the (A) ________ statistic is framed, even when the (B) ________ compatibility itself remains identical.",
       "options": [
-        { "id": "1", "text": "(A) genuinely enhance (B) reflect" },
-        { "id": "2", "text": "(A) leave unchanged (B) genuinely enhance" },
-        { "id": "3", "text": "(A) genuinely enhance (B) genuinely enhance" },
-        { "id": "4", "text": "(A) leave unchanged (B) reflect" },
-        { "id": "5", "text": "(A) subtly diminish (B) reveal" }
+        { "id": "1", "text": "(A) identical  (B) framed" },
+        { "id": "2", "text": "(A) same  (B) underlying" },
+        { "id": "3", "text": "(A) compatibility  (B) failure" },
+        { "id": "4", "text": "(A) company's  (B) user's" },
+        { "id": "5", "text": "(A) update's  (B) device's" }
       ]
     },
     {
@@ -352,23 +357,22 @@
       "number": 26,
       "type": "fill_blank",
       "text": "Fill each blank with the most appropriate word from the box. Use each word once only and do not change its form.",
-      "context": "Word Box: precede · impede · venture · intervene · concurrent\n\n(A) Heavy fog continued to __________ the search efforts throughout the morning.\n(B) Opening the new branch was considered a risky __________ by most of the board.\n(C) A brief introduction will __________ the main presentation.\n(D) Staff were trained to __________ early if a customer dispute began to escalate.\n(E) The two research projects, though unrelated, were entirely __________, running through the same calendar year."
+      "context": "**Word Box: infringe · legislate · corporation · justice · rob**\n\n(A) The court ruled that the company's advertising did not __________ on its competitor's trademark.\n(B) Lawmakers were called upon to __________ against the newly identified safety hazard.\n(C) The small business eventually grew into a multinational __________ employing thousands.\n(D) Victims of the fraud demanded that __________ finally be served after years of delay.\n(E) Two masked men attempted to __________ the jewellery store shortly before closing."
     },
     {
       "id": "q27",
       "number": 27,
       "type": "written_multi",
       "text": "Read and complete both tasks.",
+      "context": "**Task 27.1 (2)** — Choose the word closest in meaning to the underlined word.\n\nThe two accounts failed to _correspond_ with each other in several important details.\n\n① conflict  ② match  ③ clarify  ④ disqualify  ⑤ predate\n\n**Task 27.2 (3)** — Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the sooner / a flaw / is disclosed / the less / damage / it / causes)",
       "subQuestions": [
         {
-          "label": "27.1 (2)",
-          "text": "Choose the word closest in meaning to the underlined word.\n\nThe candidate's account of her qualifications was later found to have been substantially _embellished_.\n\n① understated  ② exaggerated  ③ falsified entirely  ④ translated  ⑤ shortened",
-          "placeholder": "Write the number of the correct option."
+          "label": "27.1",
+          "placeholder": "Write the number of the closest synonym here..."
         },
         {
-          "label": "27.2 (3)",
-          "text": "Arrange the following words and phrases into one grammatically correct sentence. Use the given words exactly as provided; do not change their forms.\n\n(the more / a procedure / is rehearsed / the more / reliable / its outcome / becomes)",
-          "placeholder": "Write the complete sentence here."
+          "label": "27.2",
+          "placeholder": "Write the complete sentence here..."
         }
       ]
     },
@@ -377,22 +381,19 @@
       "number": 28,
       "type": "written_multi",
       "text": "Read the passage and complete all three tasks below.",
-      "context": "Customer complaints are often treated by companies as a nuisance to be minimised, but ① _this attitude have become harder to justify once complaint-handling data is studied properly._ ② _Customers whose complaint is resolved quickly and generously frequently shows greater loyalty afterward than customers who never had a problem requiring resolution at all, a pattern researchers call the service recovery paradox._ ③ _The likely explanation is that a well-handled complaint provides direct, memorable evidence of a company's values in a way routine, trouble-free service never has the opportunity to demonstrate._ ④ _Companies that train staff to resolve complaints generously, rather than minimally, report measurably higher long-term customer retention than companies that treat complaints as costs to be minimised._ ⑤ _This suggests that a complaint, handled well, several researchers now argues, can become a genuine loyalty-building opportunity rather than simply a cost._",
+      "context": "Security patches are often assumed to fully resolve the vulnerability they were designed to fix, and ① _this assumption prove less reliable than most users expect._ ② _Researchers who tracked patched systems has found that a meaningful share of vulnerabilities resurface later in a slightly modified form the original patch never anticipated._ ③ _A patch that addresses only the specific exploit observed, rather than the underlying design flaw, therefore leaves systems vulnerable to a closely related attack._ ④ _This is why some security teams now require a design-level review after every patch, specifically to identify (A) this underlying design flaw before a related exploit can emerge._ ⑤ _A design-level review, unlike a narrow patch alone, addresses the root cause rather than only its most recent visible symptom._\n\n**Task 28.1 (6)** — Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.\n\n**Task 28.2 (2)** — Using expressions from the passage only, write in English what the underlined phrase \"(A) this underlying design flaw\" refers to.\n\n**Task 28.3 (2)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms. Your answer must use a subject relative pronoun (\"that\" or \"which\").\n\n**< word box >** because / patched vulnerabilities / can resurface / in a modified form / some teams now / require / a design review / that / identifies / the root cause",
       "subQuestions": [
         {
-          "label": "28.1 (6)",
-          "text": "Among the underlined parts ①–⑤, find the THREE grammatical errors. Identify each by number, write the incorrect part, and give the corrected form.",
-          "placeholder": "Error 1: __ → __\nError 2: __ → __\nError 3: __ → __"
+          "label": "28.1",
+          "placeholder": "Write the three grammatical errors and corrections here..."
         },
         {
-          "label": "28.2 (2)",
-          "text": "Using expressions from the passage only, write in English what the passage calls \"the service recovery paradox.\"",
-          "placeholder": "Write your answer here."
+          "label": "28.2",
+          "placeholder": "Write what 'this underlying design flaw' refers to here..."
         },
         {
-          "label": "28.3 (2)",
-          "text": "Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\nWord box: a well-handled complaint / can build / more loyalty / than / routine / trouble-free service / ever demonstrates\n\n→ ___________________________________________________.",
-          "placeholder": "Write the complete sentence here."
+          "label": "28.3",
+          "placeholder": "Write the completed summary here..."
         }
       ]
     },
@@ -401,17 +402,15 @@
       "number": 29,
       "type": "written_multi",
       "text": "Read the passage and complete both tasks below.",
-      "context": "An email requesting a favour that begins by acknowledging the recipient is busy receives a higher response rate than an identical request without that acknowledgement, even though the acknowledgement provides no new information relevant to the actual decision at hand. The wording used to frame (A) _it_, specifically whether the recipient's time and effort are explicitly recognised, appears to shape willingness to help independently of the favour's actual size or difficulty.",
+      "context": "An employee who voluntarily reports a mistake before being caught is sometimes assumed to reveal (A) _genuinely trustworthy character_, though researchers caution the same lighter response could simply reflect the mistake's smaller, still-manageable scale at the moment of disclosure, a distinction that is difficult to verify from outside the specific situation.\n\n**Task 29.1 (2)** — Explain in English what \"(A) genuinely trustworthy character\" refers to.\n\n**Task 29.2 (3)** — Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\n**< word box >** although / voluntary disclosure / may suggest / trustworthy character / it could also / simply reflect / the mistake's / smaller scale",
       "subQuestions": [
         {
-          "label": "29.1 (2)",
-          "text": "Explain in English what \"(A) it\" refers to.",
-          "placeholder": "Write your answer here."
+          "label": "29.1",
+          "placeholder": "Write what '(A) genuinely trustworthy character' refers to here..."
         },
         {
-          "label": "29.2 (3)",
-          "text": "Complete the summary using ALL of the words/phrases in the box exactly once. Do not add words or change forms.\n\nWord box: even though / how a request is worded / can influence / the favour itself / whether people help / remains unchanged\n\n→ ___________________________________________________.",
-          "placeholder": "Write the complete sentence here."
+          "label": "29.2",
+          "placeholder": "Write the completed summary here..."
         }
       ]
     },
@@ -420,17 +419,15 @@
       "number": 30,
       "type": "written_multi",
       "text": "Read the passage and complete both tasks below.",
-      "context": "Long-haul truck drivers report that the most dangerous stretch of a journey is rarely the difficult mountain pass or the crowded city approach, both of which naturally sharpen attention, but the long, featureless motorway stretch in between, where conditions feel entirely manageable and vigilance is hardest to sustain deliberately. In one analysis of logged incidents, a disproportionate share of near-miss events occurred during exactly these long, low-difficulty stretches rather than during the visibly more demanding sections surrounding them. The real risk, it seems, lies not in the moments that feel hardest, but in the ones that (A) ________.",
+      "context": "In a well-known study, security analysts asked to estimate a system's total number of undiscovered vulnerabilities produced widely varying individual figures, yet when researchers averaged every analyst's figure together, the resulting estimate landed close to the figure a subsequent exhaustive audit later confirmed, closer than nearly every individual analyst's figure had managed alone. The same effect held even when analysts were told in advance that the group's average would be calculated and shared, a finding that persisted (A) ________.\n\n**Task 30.1 (2)** — Identify TWO specific findings from the study described, and explain them in English.\n\n**Task 30.2 (3)** — Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(even / when / analysts / were told / the average / would be shared)",
       "subQuestions": [
         {
-          "label": "30.1 (2)",
-          "text": "Identify TWO specific findings from the passage described, and explain them in English.",
-          "placeholder": "Finding 1:\nFinding 2:"
+          "label": "30.1",
+          "placeholder": "Write the two findings here..."
         },
         {
-          "label": "30.2 (3)",
-          "text": "Using ALL of the words/phrases below exactly once, complete blank (A) so that it fits the context and is grammatically correct. No added words, no form changes.\n\n(feel / most / while / still / genuinely / manageable / requiring / attention)\n\n→ The real risk lies not in the moments that feel hardest, but in the ones that (A) ________.",
-          "placeholder": "Write the completed phrase for blank (A) here."
+          "label": "30.2",
+          "placeholder": "Write the completed blank (A) here..."
         }
       ]
     }
