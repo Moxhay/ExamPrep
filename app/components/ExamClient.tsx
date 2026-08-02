@@ -2,14 +2,21 @@
 
 import { useState, useCallback } from 'react'
 import Link from 'next/link'
+import { useQuery } from '@tanstack/react-query'
 import { HOME_PATH } from '@/app/const'
-import type { Exam } from '@/app/types'
 import QuestionCard from '@/app/components/QuestionCard'
 import Timer from '@/app/components/Timer'
+import ExamSkeleton from '@/app/components/ExamSkeleton'
 import { IconDownload, IconRefresh, IconClock } from '@/app/components/icons'
+import { examKeys, fetchExamDetail } from '@/app/lib/examQueries'
+import { examDetailToExam } from '@/app/lib/examMapper'
 
-
-export default function ExamClient({ exam }: { exam: Exam }) {
+export default function ExamClient({ examId }: { examId: number }) {
+  const { data: exam, isPending, isError } = useQuery({
+    queryKey: examKeys.detail(examId),
+    queryFn: () => fetchExamDetail(examId),
+    select: examDetailToExam,
+  })
   const [review, setReview] = useState(false)
   const [timeUp, setTimeUp] = useState(false)
   const [timerKey, setTimerKey] = useState(0)
@@ -32,6 +39,22 @@ export default function ExamClient({ exam }: { exam: Exam }) {
       return next
     })
   }, [])
+
+  if (isPending) return <ExamSkeleton />
+  if (isError) {
+    return (
+      <div className="min-h-[65vh] flex flex-col items-center justify-center gap-3 text-center px-4">
+        <p className="font-display text-lg font-bold text-dark">Exam not found</p>
+        <p className="text-sm text-muted-dark">It may have been deleted or the link is incorrect.</p>
+        <Link
+          href={HOME_PATH}
+          className="mt-2 bg-dark text-white py-2.5 px-6 rounded-lg text-sm font-bold hover:bg-dark/90 transition-colors"
+        >
+          Back to home
+        </Link>
+      </div>
+    )
+  }
 
   function reset() {
     window.scrollTo({ top: 0, behavior: 'instant' })
