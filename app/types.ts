@@ -5,7 +5,7 @@ export interface Option {
 
 export interface SubQuestion {
   label: string
-  text: string
+  text?: string
   placeholder: string
 }
 
