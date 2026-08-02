@@ -1,6 +1,7 @@
 import Link from 'next/link'
-import { HOME_PATH, LOGIN_PATH } from '@/app/const'
+import { HOME_PATH } from '@/app/const'
 import { IconLogo } from '@/app/components/icons'
+import AuthButton from '@/app/components/AuthButton'
 
 export default function Navbar() {
   return (
@@ -14,12 +15,7 @@ export default function Navbar() {
             ExamPrep
           </span>
         </Link>
-        <Link
-          href={LOGIN_PATH}
-          className="bg-dark text-white text-xs font-bold px-4 py-2.5 rounded-lg hover:bg-dark/90 transition-colors"
-        >
-          Teacher access →
-        </Link>
+        <AuthButton />
       </div>
     </header>
   )

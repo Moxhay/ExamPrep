@@ -3,6 +3,8 @@ import { Outfit, Work_Sans } from "next/font/google";
 import "./globals.css";
 import Navbar from '@/app/components/Navbar';
 import { Analytics } from '@vercel/analytics/next';
+import { AuthProvider } from '@/app/context/auth-context';
+import QueryProvider from '@/app/providers/QueryProvider';
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -32,10 +34,14 @@ export default function RootLayout({
       className={`${outfit.variable} ${workSans.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <Navbar />
-        <div className="flex flex-col flex-1">
-          {children}
-        </div>
+        <QueryProvider>
+          <AuthProvider>
+            <Navbar />
+            <div className="flex flex-col flex-1">
+              {children}
+            </div>
+          </AuthProvider>
+        </QueryProvider>
         <Analytics />
       </body>
     </html>
