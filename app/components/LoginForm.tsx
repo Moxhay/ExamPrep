@@ -1,11 +1,26 @@
 'use client'
 
+import { useRouter } from 'next/navigation'
+import type { SubmitEvent } from 'react'
+import { HOME_PATH } from '@/app/const'
+import { useAuth } from '@/app/context/auth-context'
+
 export default function LoginForm() {
+  const router = useRouter()
+  const { login } = useAuth()
+
+  async function handleSubmit(e: SubmitEvent<HTMLFormElement>) {
+    e.preventDefault()
+    const formData = new FormData(e.currentTarget)
+    const email = formData.get('email') as string
+    const password = formData.get('password') as string
+    await login({ email, password })
+    router.push(HOME_PATH)
+    router.refresh()
+  }
+
   return (
-    <form
-      onSubmit={(e) => e.preventDefault()}
-      className="flex flex-col gap-4"
-    >
+    <form onSubmit={handleSubmit} className="flex flex-col gap-4">
       <div className="flex flex-col gap-1.5">
         <label htmlFor="email" className="text-xs font-semibold text-muted-dark">
           Email
