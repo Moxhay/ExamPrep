@@ -57,7 +57,7 @@ export interface RequestConfig {
 }
 
 if (!process.env.NEXT_PUBLIC_API_BASE_URL) throw new Error('NEXT_PUBLIC_API_BASE_URL is not set')
-const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL
+const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL+ "/api"
 
 const HEADERS: HeadersInit = { 'Content-Type': 'application/json' }
 
